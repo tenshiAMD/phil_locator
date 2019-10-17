@@ -1,0 +1,86 @@
+---
+-
+  id: 1
+  code: "01"
+  name: "Region I"
+  alias: "Ilocos Region"
+-
+  id: 2
+  code: "02"
+  name: "Region II"
+  alias: "Cagayan Valley"
+-
+  id: 3
+  code: "03"
+  name: "Region III"
+  alias: "Central Luzon"
+-
+  id: 4
+  code: "04"
+  name: "Region IV-A"
+  alias: "CALABARZON"
+-
+  id: 5
+  code: "17"
+  name: "Region IV-B"
+  alias: "MIMAROPA"
+-
+  id: 6
+  code: "06"
+  name: "Region V"
+  alias: "Bicol Region"
+-
+  id: 7
+  code: "06"
+  name: "Region VI"
+  alias: "Western Visayas"
+-
+  id: 8
+  code: "07"
+  name: "Region VII"
+  alias: "Central Visayas"
+-
+  id: 9
+  code: "08"
+  name: "Region VIII"
+  alias: "Eastern Visayas"
+-
+  id: 10
+  code: "09"
+  name: "Region IX"
+  alias: "Zamboanga Peninsula"
+-
+  id: 11
+  code: "10"
+  name: "Region X"
+  alias: "Northern Mindanao"
+-
+  id: 12
+  code: "11"
+  name: "Region XI"
+  alias: "Davao Region"
+-
+  id: 13
+  code: "12"
+  name: "Region XII"
+  alias: "SOCCSKSARGEN"
+-
+  id: 14
+  code: "13"
+  name: "National Capital Region"
+  alias: "NCR"
+-
+  id: 15
+  code: "14"
+  name: "Cordillera Administrative Region"
+  alias: "CAR"
+-
+  id: 16
+  code: "15"
+  name: "Autonomous Region in Muslim Mindanao"
+  alias: "ARMM"
+-
+  id: 17
+  code: "16"
+  name: "Region XIII"
+  alias: "Caraga"

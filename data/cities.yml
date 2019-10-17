@@ -1,0 +1,9883 @@
+---
+-
+  id: 1
+  region_code: "1"
+  province_code: "128"
+  code: "12801"
+  name: "Adams"
+-
+  id: 2
+  region_code: "1"
+  province_code: "128"
+  code: "12802"
+  name: "Bacarra"
+-
+  id: 3
+  region_code: "1"
+  province_code: "128"
+  code: "12803"
+  name: "Badoc"
+-
+  id: 4
+  region_code: "1"
+  province_code: "128"
+  code: "12804"
+  name: "Bangui"
+-
+  id: 5
+  region_code: "1"
+  province_code: "128"
+  code: "12805"
+  name: "City of Batac"
+-
+  id: 6
+  region_code: "1"
+  province_code: "128"
+  code: "12806"
+  name: "Burgos"
+-
+  id: 7
+  region_code: "1"
+  province_code: "128"
+  code: "12807"
+  name: "Carasi"
+-
+  id: 8
+  region_code: "1"
+  province_code: "128"
+  code: "12808"
+  name: "Currimao"
+-
+  id: 9
+  region_code: "1"
+  province_code: "128"
+  code: "12809"
+  name: "Dingras"
+-
+  id: 10
+  region_code: "1"
+  province_code: "128"
+  code: "12810"
+  name: "Dumalneg"
+-
+  id: 11
+  region_code: "1"
+  province_code: "128"
+  code: "12811"
+  name: "Banna (Espiritu)"
+-
+  id: 12
+  region_code: "1"
+  province_code: "128"
+  code: "12812"
+  name: "Laoag City (Capital)"
+-
+  id: 13
+  region_code: "1"
+  province_code: "128"
+  code: "12813"
+  name: "Marcos"
+-
+  id: 14
+  region_code: "1"
+  province_code: "128"
+  code: "12814"
+  name: "Nueva Era"
+-
+  id: 15
+  region_code: "1"
+  province_code: "128"
+  code: "12815"
+  name: "Pagudpud"
+-
+  id: 16
+  region_code: "1"
+  province_code: "128"
+  code: "12816"
+  name: "Paoay"
+-
+  id: 17
+  region_code: "1"
+  province_code: "128"
+  code: "12817"
+  name: "Pasuquin"
+-
+  id: 18
+  region_code: "1"
+  province_code: "128"
+  code: "12818"
+  name: "Piddig"
+-
+  id: 19
+  region_code: "1"
+  province_code: "128"
+  code: "12819"
+  name: "Pinili"
+-
+  id: 20
+  region_code: "1"
+  province_code: "128"
+  code: "12820"
+  name: "San Nicolas"
+-
+  id: 21
+  region_code: "1"
+  province_code: "128"
+  code: "12821"
+  name: "Sarrat"
+-
+  id: 22
+  region_code: "1"
+  province_code: "128"
+  code: "12822"
+  name: "Solsona"
+-
+  id: 23
+  region_code: "1"
+  province_code: "128"
+  code: "12823"
+  name: "Vintar"
+-
+  id: 24
+  region_code: "1"
+  province_code: "129"
+  code: "12901"
+  name: "Alilem"
+-
+  id: 25
+  region_code: "1"
+  province_code: "129"
+  code: "12902"
+  name: "Banayoyo"
+-
+  id: 26
+  region_code: "1"
+  province_code: "129"
+  code: "12903"
+  name: "Bantay"
+-
+  id: 27
+  region_code: "1"
+  province_code: "129"
+  code: "12904"
+  name: "Burgos"
+-
+  id: 28
+  region_code: "1"
+  province_code: "129"
+  code: "12905"
+  name: "Cabugao"
+-
+  id: 29
+  region_code: "1"
+  province_code: "129"
+  code: "12906"
+  name: "City of Candon"
+-
+  id: 30
+  region_code: "1"
+  province_code: "129"
+  code: "12907"
+  name: "Caoayan"
+-
+  id: 31
+  region_code: "1"
+  province_code: "129"
+  code: "12908"
+  name: "Cervantes"
+-
+  id: 32
+  region_code: "1"
+  province_code: "129"
+  code: "12909"
+  name: "Galimuyod"
+-
+  id: 33
+  region_code: "1"
+  province_code: "129"
+  code: "12910"
+  name: "Gregorio Del Pilar (Concepcion)"
+-
+  id: 34
+  region_code: "1"
+  province_code: "129"
+  code: "12911"
+  name: "Lidlidda"
+-
+  id: 35
+  region_code: "1"
+  province_code: "129"
+  code: "12912"
+  name: "Magsingal"
+-
+  id: 36
+  region_code: "1"
+  province_code: "129"
+  code: "12913"
+  name: "Nagbukel"
+-
+  id: 37
+  region_code: "1"
+  province_code: "129"
+  code: "12914"
+  name: "Narvacan"
+-
+  id: 38
+  region_code: "1"
+  province_code: "129"
+  code: "12915"
+  name: "Quirino (Angkaki)"
+-
+  id: 39
+  region_code: "1"
+  province_code: "129"
+  code: "12916"
+  name: "Salcedo (Baugen)"
+-
+  id: 40
+  region_code: "1"
+  province_code: "129"
+  code: "12917"
+  name: "San Emilio"
+-
+  id: 41
+  region_code: "1"
+  province_code: "129"
+  code: "12918"
+  name: "San Esteban"
+-
+  id: 42
+  region_code: "1"
+  province_code: "129"
+  code: "12919"
+  name: "San Ildefonso"
+-
+  id: 43
+  region_code: "1"
+  province_code: "129"
+  code: "12920"
+  name: "San Juan (Lapog)"
+-
+  id: 44
+  region_code: "1"
+  province_code: "129"
+  code: "12921"
+  name: "San Vicente"
+-
+  id: 45
+  region_code: "1"
+  province_code: "129"
+  code: "12922"
+  name: "Santa"
+-
+  id: 46
+  region_code: "1"
+  province_code: "129"
+  code: "12923"
+  name: "Santa Catalina"
+-
+  id: 47
+  region_code: "1"
+  province_code: "129"
+  code: "12924"
+  name: "Santa Cruz"
+-
+  id: 48
+  region_code: "1"
+  province_code: "129"
+  code: "12925"
+  name: "Santa Lucia"
+-
+  id: 49
+  region_code: "1"
+  province_code: "129"
+  code: "12926"
+  name: "Santa Maria"
+-
+  id: 50
+  region_code: "1"
+  province_code: "129"
+  code: "12927"
+  name: "Santiago"
+-
+  id: 51
+  region_code: "1"
+  province_code: "129"
+  code: "12928"
+  name: "Santo Domingo"
+-
+  id: 52
+  region_code: "1"
+  province_code: "129"
+  code: "12929"
+  name: "Sigay"
+-
+  id: 53
+  region_code: "1"
+  province_code: "129"
+  code: "12930"
+  name: "Sinait"
+-
+  id: 54
+  region_code: "1"
+  province_code: "129"
+  code: "12931"
+  name: "Sugpon"
+-
+  id: 55
+  region_code: "1"
+  province_code: "129"
+  code: "12932"
+  name: "Suyo"
+-
+  id: 56
+  region_code: "1"
+  province_code: "129"
+  code: "12933"
+  name: "Tagudin"
+-
+  id: 57
+  region_code: "1"
+  province_code: "129"
+  code: "12934"
+  name: "City of Vigan (Capital)"
+-
+  id: 58
+  region_code: "1"
+  province_code: "133"
+  code: "13301"
+  name: "Agoo"
+-
+  id: 59
+  region_code: "1"
+  province_code: "133"
+  code: "13302"
+  name: "Aringay"
+-
+  id: 60
+  region_code: "1"
+  province_code: "133"
+  code: "13303"
+  name: "Bacnotan"
+-
+  id: 61
+  region_code: "1"
+  province_code: "133"
+  code: "13304"
+  name: "Bagulin"
+-
+  id: 62
+  region_code: "1"
+  province_code: "133"
+  code: "13305"
+  name: "Balaoan"
+-
+  id: 63
+  region_code: "1"
+  province_code: "133"
+  code: "13306"
+  name: "Bangar"
+-
+  id: 64
+  region_code: "1"
+  province_code: "133"
+  code: "13307"
+  name: "Bauang"
+-
+  id: 65
+  region_code: "1"
+  province_code: "133"
+  code: "13308"
+  name: "Burgos"
+-
+  id: 66
+  region_code: "1"
+  province_code: "133"
+  code: "13309"
+  name: "Caba"
+-
+  id: 67
+  region_code: "1"
+  province_code: "133"
+  code: "13310"
+  name: "Luna"
+-
+  id: 68
+  region_code: "1"
+  province_code: "133"
+  code: "13311"
+  name: "Naguilian"
+-
+  id: 69
+  region_code: "1"
+  province_code: "133"
+  code: "13312"
+  name: "Pugo"
+-
+  id: 70
+  region_code: "1"
+  province_code: "133"
+  code: "13313"
+  name: "Rosario"
+-
+  id: 71
+  region_code: "1"
+  province_code: "133"
+  code: "13314"
+  name: "City of San Fernando (Capital)"
+-
+  id: 72
+  region_code: "1"
+  province_code: "133"
+  code: "13315"
+  name: "San Gabriel"
+-
+  id: 73
+  region_code: "1"
+  province_code: "133"
+  code: "13316"
+  name: "San Juan"
+-
+  id: 74
+  region_code: "1"
+  province_code: "133"
+  code: "13317"
+  name: "Santo Tomas"
+-
+  id: 75
+  region_code: "1"
+  province_code: "133"
+  code: "13318"
+  name: "Santol"
+-
+  id: 76
+  region_code: "1"
+  province_code: "133"
+  code: "13319"
+  name: "Sudipen"
+-
+  id: 77
+  region_code: "1"
+  province_code: "133"
+  code: "13320"
+  name: "Tubao"
+-
+  id: 78
+  region_code: "1"
+  province_code: "155"
+  code: "15501"
+  name: "Agno"
+-
+  id: 79
+  region_code: "1"
+  province_code: "155"
+  code: "15502"
+  name: "Aguilar"
+-
+  id: 80
+  region_code: "1"
+  province_code: "155"
+  code: "15503"
+  name: "City of Alaminos"
+-
+  id: 81
+  region_code: "1"
+  province_code: "155"
+  code: "15504"
+  name: "Alcala"
+-
+  id: 82
+  region_code: "1"
+  province_code: "155"
+  code: "15505"
+  name: "Anda"
+-
+  id: 83
+  region_code: "1"
+  province_code: "155"
+  code: "15506"
+  name: "Asingan"
+-
+  id: 84
+  region_code: "1"
+  province_code: "155"
+  code: "15507"
+  name: "Balungao"
+-
+  id: 85
+  region_code: "1"
+  province_code: "155"
+  code: "15508"
+  name: "Bani"
+-
+  id: 86
+  region_code: "1"
+  province_code: "155"
+  code: "15509"
+  name: "Basista"
+-
+  id: 87
+  region_code: "1"
+  province_code: "155"
+  code: "15510"
+  name: "Bautista"
+-
+  id: 88
+  region_code: "1"
+  province_code: "155"
+  code: "15511"
+  name: "Bayambang"
+-
+  id: 89
+  region_code: "1"
+  province_code: "155"
+  code: "15512"
+  name: "Binalonan"
+-
+  id: 90
+  region_code: "1"
+  province_code: "155"
+  code: "15513"
+  name: "Binmaley"
+-
+  id: 91
+  region_code: "1"
+  province_code: "155"
+  code: "15514"
+  name: "Bolinao"
+-
+  id: 92
+  region_code: "1"
+  province_code: "155"
+  code: "15515"
+  name: "Bugallon"
+-
+  id: 93
+  region_code: "1"
+  province_code: "155"
+  code: "15516"
+  name: "Burgos"
+-
+  id: 94
+  region_code: "1"
+  province_code: "155"
+  code: "15517"
+  name: "Calasiao"
+-
+  id: 95
+  region_code: "1"
+  province_code: "155"
+  code: "15518"
+  name: "Dagupan City"
+-
+  id: 96
+  region_code: "1"
+  province_code: "155"
+  code: "15519"
+  name: "Dasol"
+-
+  id: 97
+  region_code: "1"
+  province_code: "155"
+  code: "15520"
+  name: "Infanta"
+-
+  id: 98
+  region_code: "1"
+  province_code: "155"
+  code: "15521"
+  name: "Labrador"
+-
+  id: 99
+  region_code: "1"
+  province_code: "155"
+  code: "15522"
+  name: "Lingayen (Capital)"
+-
+  id: 100
+  region_code: "1"
+  province_code: "155"
+  code: "15523"
+  name: "Mabini"
+-
+  id: 101
+  region_code: "1"
+  province_code: "155"
+  code: "15524"
+  name: "Malasiqui"
+-
+  id: 102
+  region_code: "1"
+  province_code: "155"
+  code: "15525"
+  name: "Manaoag"
+-
+  id: 103
+  region_code: "1"
+  province_code: "155"
+  code: "15526"
+  name: "Mangaldan"
+-
+  id: 104
+  region_code: "1"
+  province_code: "155"
+  code: "15527"
+  name: "Mangatarem"
+-
+  id: 105
+  region_code: "1"
+  province_code: "155"
+  code: "15528"
+  name: "Mapandan"
+-
+  id: 106
+  region_code: "1"
+  province_code: "155"
+  code: "15529"
+  name: "Natividad"
+-
+  id: 107
+  region_code: "1"
+  province_code: "155"
+  code: "15530"
+  name: "Pozorrubio"
+-
+  id: 108
+  region_code: "1"
+  province_code: "155"
+  code: "15531"
+  name: "Rosales"
+-
+  id: 109
+  region_code: "1"
+  province_code: "155"
+  code: "15532"
+  name: "San Carlos City"
+-
+  id: 110
+  region_code: "1"
+  province_code: "155"
+  code: "15533"
+  name: "San Fabian"
+-
+  id: 111
+  region_code: "1"
+  province_code: "155"
+  code: "15534"
+  name: "San Jacinto"
+-
+  id: 112
+  region_code: "1"
+  province_code: "155"
+  code: "15535"
+  name: "San Manuel"
+-
+  id: 113
+  region_code: "1"
+  province_code: "155"
+  code: "15536"
+  name: "San Nicolas"
+-
+  id: 114
+  region_code: "1"
+  province_code: "155"
+  code: "15537"
+  name: "San Quintin"
+-
+  id: 115
+  region_code: "1"
+  province_code: "155"
+  code: "15538"
+  name: "Santa Barbara"
+-
+  id: 116
+  region_code: "1"
+  province_code: "155"
+  code: "15539"
+  name: "Santa Maria"
+-
+  id: 117
+  region_code: "1"
+  province_code: "155"
+  code: "15540"
+  name: "Santo Tomas"
+-
+  id: 118
+  region_code: "1"
+  province_code: "155"
+  code: "15541"
+  name: "Sison"
+-
+  id: 119
+  region_code: "1"
+  province_code: "155"
+  code: "15542"
+  name: "Sual"
+-
+  id: 120
+  region_code: "1"
+  province_code: "155"
+  code: "15543"
+  name: "Tayug"
+-
+  id: 121
+  region_code: "1"
+  province_code: "155"
+  code: "15544"
+  name: "Umingan"
+-
+  id: 122
+  region_code: "1"
+  province_code: "155"
+  code: "15545"
+  name: "Urbiztondo"
+-
+  id: 123
+  region_code: "1"
+  province_code: "155"
+  code: "15546"
+  name: "City of Urdaneta"
+-
+  id: 124
+  region_code: "1"
+  province_code: "155"
+  code: "15547"
+  name: "Villasis"
+-
+  id: 125
+  region_code: "1"
+  province_code: "155"
+  code: "15548"
+  name: "Laoac"
+-
+  id: 126
+  region_code: "02"
+  province_code: "209"
+  code: "20901"
+  name: "Basco (Capital)"
+-
+  id: 127
+  region_code: "02"
+  province_code: "209"
+  code: "20902"
+  name: "Itbayat"
+-
+  id: 128
+  region_code: "02"
+  province_code: "209"
+  code: "20903"
+  name: "Ivana"
+-
+  id: 129
+  region_code: "02"
+  province_code: "209"
+  code: "20904"
+  name: "Mahatao"
+-
+  id: 130
+  region_code: "02"
+  province_code: "209"
+  code: "20905"
+  name: "Sabtang"
+-
+  id: 131
+  region_code: "02"
+  province_code: "209"
+  code: "20906"
+  name: "Uyugan"
+-
+  id: 132
+  region_code: "02"
+  province_code: "215"
+  code: "21501"
+  name: "Abulug"
+-
+  id: 133
+  region_code: "02"
+  province_code: "215"
+  code: "21502"
+  name: "Alcala"
+-
+  id: 134
+  region_code: "02"
+  province_code: "215"
+  code: "21503"
+  name: "Allacapan"
+-
+  id: 135
+  region_code: "02"
+  province_code: "215"
+  code: "21504"
+  name: "Amulung"
+-
+  id: 136
+  region_code: "02"
+  province_code: "215"
+  code: "21505"
+  name: "Aparri"
+-
+  id: 137
+  region_code: "02"
+  province_code: "215"
+  code: "21506"
+  name: "Baggao"
+-
+  id: 138
+  region_code: "02"
+  province_code: "215"
+  code: "21507"
+  name: "Ballesteros"
+-
+  id: 139
+  region_code: "02"
+  province_code: "215"
+  code: "21508"
+  name: "Buguey"
+-
+  id: 140
+  region_code: "02"
+  province_code: "215"
+  code: "21509"
+  name: "Calayan"
+-
+  id: 141
+  region_code: "02"
+  province_code: "215"
+  code: "21510"
+  name: "Camalaniugan"
+-
+  id: 142
+  region_code: "02"
+  province_code: "215"
+  code: "21511"
+  name: "Claveria"
+-
+  id: 143
+  region_code: "02"
+  province_code: "215"
+  code: "21512"
+  name: "Enrile"
+-
+  id: 144
+  region_code: "02"
+  province_code: "215"
+  code: "21513"
+  name: "Gattaran"
+-
+  id: 145
+  region_code: "02"
+  province_code: "215"
+  code: "21514"
+  name: "Gonzaga"
+-
+  id: 146
+  region_code: "02"
+  province_code: "215"
+  code: "21515"
+  name: "Iguig"
+-
+  id: 147
+  region_code: "02"
+  province_code: "215"
+  code: "21516"
+  name: "Lal-Lo"
+-
+  id: 148
+  region_code: "02"
+  province_code: "215"
+  code: "21517"
+  name: "Lasam"
+-
+  id: 149
+  region_code: "02"
+  province_code: "215"
+  code: "21518"
+  name: "Pamplona"
+-
+  id: 150
+  region_code: "02"
+  province_code: "215"
+  code: "21519"
+  name: "Peñablanca"
+-
+  id: 151
+  region_code: "02"
+  province_code: "215"
+  code: "21520"
+  name: "Piat"
+-
+  id: 152
+  region_code: "02"
+  province_code: "215"
+  code: "21521"
+  name: "Rizal"
+-
+  id: 153
+  region_code: "02"
+  province_code: "215"
+  code: "21522"
+  name: "Sanchez-Mira"
+-
+  id: 154
+  region_code: "02"
+  province_code: "215"
+  code: "21523"
+  name: "Santa Ana"
+-
+  id: 155
+  region_code: "02"
+  province_code: "215"
+  code: "21524"
+  name: "Santa Praxedes"
+-
+  id: 156
+  region_code: "02"
+  province_code: "215"
+  code: "21525"
+  name: "Santa Teresita"
+-
+  id: 157
+  region_code: "02"
+  province_code: "215"
+  code: "21526"
+  name: "Santo Niño (Faire)"
+-
+  id: 158
+  region_code: "02"
+  province_code: "215"
+  code: "21527"
+  name: "Solana"
+-
+  id: 159
+  region_code: "02"
+  province_code: "215"
+  code: "21528"
+  name: "Tuao"
+-
+  id: 160
+  region_code: "02"
+  province_code: "215"
+  code: "21529"
+  name: "Tuguegarao City (Capital)"
+-
+  id: 161
+  region_code: "02"
+  province_code: "231"
+  code: "23101"
+  name: "Alicia"
+-
+  id: 162
+  region_code: "02"
+  province_code: "231"
+  code: "23102"
+  name: "Angadanan"
+-
+  id: 163
+  region_code: "02"
+  province_code: "231"
+  code: "23103"
+  name: "Aurora"
+-
+  id: 164
+  region_code: "02"
+  province_code: "231"
+  code: "23104"
+  name: "Benito Soliven"
+-
+  id: 165
+  region_code: "02"
+  province_code: "231"
+  code: "23105"
+  name: "Burgos"
+-
+  id: 166
+  region_code: "02"
+  province_code: "231"
+  code: "23106"
+  name: "Cabagan"
+-
+  id: 167
+  region_code: "02"
+  province_code: "231"
+  code: "23107"
+  name: "Cabatuan"
+-
+  id: 168
+  region_code: "02"
+  province_code: "231"
+  code: "23108"
+  name: "City of Cauayan"
+-
+  id: 169
+  region_code: "02"
+  province_code: "231"
+  code: "23109"
+  name: "Cordon"
+-
+  id: 170
+  region_code: "02"
+  province_code: "231"
+  code: "23110"
+  name: "Dinapigue"
+-
+  id: 171
+  region_code: "02"
+  province_code: "231"
+  code: "23111"
+  name: "Divilacan"
+-
+  id: 172
+  region_code: "02"
+  province_code: "231"
+  code: "23112"
+  name: "Echague"
+-
+  id: 173
+  region_code: "02"
+  province_code: "231"
+  code: "23113"
+  name: "Gamu"
+-
+  id: 174
+  region_code: "02"
+  province_code: "231"
+  code: "23114"
+  name: "Ilagan City (Capital)"
+-
+  id: 175
+  region_code: "02"
+  province_code: "231"
+  code: "23115"
+  name: "Jones"
+-
+  id: 176
+  region_code: "02"
+  province_code: "231"
+  code: "23116"
+  name: "Luna"
+-
+  id: 177
+  region_code: "02"
+  province_code: "231"
+  code: "23117"
+  name: "Maconacon"
+-
+  id: 178
+  region_code: "02"
+  province_code: "231"
+  code: "23118"
+  name: "Delfin Albano (Magsaysay)"
+-
+  id: 179
+  region_code: "02"
+  province_code: "231"
+  code: "23119"
+  name: "Mallig"
+-
+  id: 180
+  region_code: "02"
+  province_code: "231"
+  code: "23120"
+  name: "Naguilian"
+-
+  id: 181
+  region_code: "02"
+  province_code: "231"
+  code: "23121"
+  name: "Palanan"
+-
+  id: 182
+  region_code: "02"
+  province_code: "231"
+  code: "23122"
+  name: "Quezon"
+-
+  id: 183
+  region_code: "02"
+  province_code: "231"
+  code: "23123"
+  name: "Quirino"
+-
+  id: 184
+  region_code: "02"
+  province_code: "231"
+  code: "23124"
+  name: "Ramon"
+-
+  id: 185
+  region_code: "02"
+  province_code: "231"
+  code: "23125"
+  name: "Reina Mercedes"
+-
+  id: 186
+  region_code: "02"
+  province_code: "231"
+  code: "23126"
+  name: "Roxas"
+-
+  id: 187
+  region_code: "02"
+  province_code: "231"
+  code: "23127"
+  name: "San Agustin"
+-
+  id: 188
+  region_code: "02"
+  province_code: "231"
+  code: "23128"
+  name: "San Guillermo"
+-
+  id: 189
+  region_code: "02"
+  province_code: "231"
+  code: "23129"
+  name: "San Isidro"
+-
+  id: 190
+  region_code: "02"
+  province_code: "231"
+  code: "23130"
+  name: "San Manuel"
+-
+  id: 191
+  region_code: "02"
+  province_code: "231"
+  code: "23131"
+  name: "San Mariano"
+-
+  id: 192
+  region_code: "02"
+  province_code: "231"
+  code: "23132"
+  name: "San Mateo"
+-
+  id: 193
+  region_code: "02"
+  province_code: "231"
+  code: "23133"
+  name: "San Pablo"
+-
+  id: 194
+  region_code: "02"
+  province_code: "231"
+  code: "23134"
+  name: "Santa Maria"
+-
+  id: 195
+  region_code: "02"
+  province_code: "231"
+  code: "23135"
+  name: "City of Santiago"
+-
+  id: 196
+  region_code: "02"
+  province_code: "231"
+  code: "23136"
+  name: "Santo Tomas"
+-
+  id: 197
+  region_code: "02"
+  province_code: "231"
+  code: "23137"
+  name: "Tumauini"
+-
+  id: 198
+  region_code: "02"
+  province_code: "250"
+  code: "25001"
+  name: "Ambaguio"
+-
+  id: 199
+  region_code: "02"
+  province_code: "250"
+  code: "25002"
+  name: "Aritao"
+-
+  id: 200
+  region_code: "02"
+  province_code: "250"
+  code: "25003"
+  name: "Bagabag"
+-
+  id: 201
+  region_code: "02"
+  province_code: "250"
+  code: "25004"
+  name: "Bambang"
+-
+  id: 202
+  region_code: "02"
+  province_code: "250"
+  code: "25005"
+  name: "Bayombong (Capital)"
+-
+  id: 203
+  region_code: "02"
+  province_code: "250"
+  code: "25006"
+  name: "Diadi"
+-
+  id: 204
+  region_code: "02"
+  province_code: "250"
+  code: "25007"
+  name: "Dupax Del Norte"
+-
+  id: 205
+  region_code: "02"
+  province_code: "250"
+  code: "25008"
+  name: "Dupax Del Sur"
+-
+  id: 206
+  region_code: "02"
+  province_code: "250"
+  code: "25009"
+  name: "Kasibu"
+-
+  id: 207
+  region_code: "02"
+  province_code: "250"
+  code: "25010"
+  name: "Kayapa"
+-
+  id: 208
+  region_code: "02"
+  province_code: "250"
+  code: "25011"
+  name: "Quezon"
+-
+  id: 209
+  region_code: "02"
+  province_code: "250"
+  code: "25012"
+  name: "Santa Fe"
+-
+  id: 210
+  region_code: "02"
+  province_code: "250"
+  code: "25013"
+  name: "Solano"
+-
+  id: 211
+  region_code: "02"
+  province_code: "250"
+  code: "25014"
+  name: "Villaverde"
+-
+  id: 212
+  region_code: "02"
+  province_code: "250"
+  code: "25015"
+  name: "Alfonso Castaneda"
+-
+  id: 213
+  region_code: "02"
+  province_code: "257"
+  code: "25701"
+  name: "Aglipay"
+-
+  id: 214
+  region_code: "02"
+  province_code: "257"
+  code: "25702"
+  name: "Cabarroguis (Capital)"
+-
+  id: 215
+  region_code: "02"
+  province_code: "257"
+  code: "25703"
+  name: "Diffun"
+-
+  id: 216
+  region_code: "02"
+  province_code: "257"
+  code: "25704"
+  name: "Maddela"
+-
+  id: 217
+  region_code: "02"
+  province_code: "257"
+  code: "25705"
+  name: "Saguday"
+-
+  id: 218
+  region_code: "02"
+  province_code: "257"
+  code: "25706"
+  name: "Nagtipunan"
+-
+  id: 219
+  region_code: "03"
+  province_code: "308"
+  code: "30801"
+  name: "Abucay"
+-
+  id: 220
+  region_code: "03"
+  province_code: "308"
+  code: "30802"
+  name: "Bagac"
+-
+  id: 221
+  region_code: "03"
+  province_code: "308"
+  code: "30803"
+  name: "City of Balanga (Capital)"
+-
+  id: 222
+  region_code: "03"
+  province_code: "308"
+  code: "30804"
+  name: "Dinalupihan"
+-
+  id: 223
+  region_code: "03"
+  province_code: "308"
+  code: "30805"
+  name: "Hermosa"
+-
+  id: 224
+  region_code: "03"
+  province_code: "308"
+  code: "30806"
+  name: "Limay"
+-
+  id: 225
+  region_code: "03"
+  province_code: "308"
+  code: "30807"
+  name: "Mariveles"
+-
+  id: 226
+  region_code: "03"
+  province_code: "308"
+  code: "30808"
+  name: "Morong"
+-
+  id: 227
+  region_code: "03"
+  province_code: "308"
+  code: "30809"
+  name: "Orani"
+-
+  id: 228
+  region_code: "03"
+  province_code: "308"
+  code: "30810"
+  name: "Orion"
+-
+  id: 229
+  region_code: "03"
+  province_code: "308"
+  code: "30811"
+  name: "Pilar"
+-
+  id: 230
+  region_code: "03"
+  province_code: "308"
+  code: "30812"
+  name: "Samal"
+-
+  id: 231
+  region_code: "03"
+  province_code: "314"
+  code: "31401"
+  name: "Angat"
+-
+  id: 232
+  region_code: "03"
+  province_code: "314"
+  code: "31402"
+  name: "Balagtas (Bigaa)"
+-
+  id: 233
+  region_code: "03"
+  province_code: "314"
+  code: "31403"
+  name: "Baliuag"
+-
+  id: 234
+  region_code: "03"
+  province_code: "314"
+  code: "31404"
+  name: "Bocaue"
+-
+  id: 235
+  region_code: "03"
+  province_code: "314"
+  code: "31405"
+  name: "Bulacan"
+-
+  id: 236
+  region_code: "03"
+  province_code: "314"
+  code: "31406"
+  name: "Bustos"
+-
+  id: 237
+  region_code: "03"
+  province_code: "314"
+  code: "31407"
+  name: "Calumpit"
+-
+  id: 238
+  region_code: "03"
+  province_code: "314"
+  code: "31408"
+  name: "Guiguinto"
+-
+  id: 239
+  region_code: "03"
+  province_code: "314"
+  code: "31409"
+  name: "Hagonoy"
+-
+  id: 240
+  region_code: "03"
+  province_code: "314"
+  code: "31410"
+  name: "City of Malolos (Capital)"
+-
+  id: 241
+  region_code: "03"
+  province_code: "314"
+  code: "31411"
+  name: "Marilao"
+-
+  id: 242
+  region_code: "03"
+  province_code: "314"
+  code: "31412"
+  name: "City of Meycauayan"
+-
+  id: 243
+  region_code: "03"
+  province_code: "314"
+  code: "31413"
+  name: "Norzagaray"
+-
+  id: 244
+  region_code: "03"
+  province_code: "314"
+  code: "31414"
+  name: "Obando"
+-
+  id: 245
+  region_code: "03"
+  province_code: "314"
+  code: "31415"
+  name: "Pandi"
+-
+  id: 246
+  region_code: "03"
+  province_code: "314"
+  code: "31416"
+  name: "Paombong"
+-
+  id: 247
+  region_code: "03"
+  province_code: "314"
+  code: "31417"
+  name: "Plaridel"
+-
+  id: 248
+  region_code: "03"
+  province_code: "314"
+  code: "31418"
+  name: "Pulilan"
+-
+  id: 249
+  region_code: "03"
+  province_code: "314"
+  code: "31419"
+  name: "San Ildefonso"
+-
+  id: 250
+  region_code: "03"
+  province_code: "314"
+  code: "31420"
+  name: "City of San Jose Del Monte"
+-
+  id: 251
+  region_code: "03"
+  province_code: "314"
+  code: "31421"
+  name: "San Miguel"
+-
+  id: 252
+  region_code: "03"
+  province_code: "314"
+  code: "31422"
+  name: "San Rafael"
+-
+  id: 253
+  region_code: "03"
+  province_code: "314"
+  code: "31423"
+  name: "Santa Maria"
+-
+  id: 254
+  region_code: "03"
+  province_code: "314"
+  code: "31424"
+  name: "Doña Remedios Trinidad"
+-
+  id: 255
+  region_code: "03"
+  province_code: "349"
+  code: "34901"
+  name: "Aliaga"
+-
+  id: 256
+  region_code: "03"
+  province_code: "349"
+  code: "34902"
+  name: "Bongabon"
+-
+  id: 257
+  region_code: "03"
+  province_code: "349"
+  code: "34903"
+  name: "Cabanatuan City"
+-
+  id: 258
+  region_code: "03"
+  province_code: "349"
+  code: "34904"
+  name: "Cabiao"
+-
+  id: 259
+  region_code: "03"
+  province_code: "349"
+  code: "34905"
+  name: "Carranglan"
+-
+  id: 260
+  region_code: "03"
+  province_code: "349"
+  code: "34906"
+  name: "Cuyapo"
+-
+  id: 261
+  region_code: "03"
+  province_code: "349"
+  code: "34907"
+  name: "Gabaldon (Bitulok & Sabani)"
+-
+  id: 262
+  region_code: "03"
+  province_code: "349"
+  code: "34908"
+  name: "City of Gapan"
+-
+  id: 263
+  region_code: "03"
+  province_code: "349"
+  code: "34909"
+  name: "General Mamerto Natividad"
+-
+  id: 264
+  region_code: "03"
+  province_code: "349"
+  code: "34910"
+  name: "General Tinio (Papaya)"
+-
+  id: 265
+  region_code: "03"
+  province_code: "349"
+  code: "34911"
+  name: "Guimba"
+-
+  id: 266
+  region_code: "03"
+  province_code: "349"
+  code: "34912"
+  name: "Jaen"
+-
+  id: 267
+  region_code: "03"
+  province_code: "349"
+  code: "34913"
+  name: "Laur"
+-
+  id: 268
+  region_code: "03"
+  province_code: "349"
+  code: "34914"
+  name: "Licab"
+-
+  id: 269
+  region_code: "03"
+  province_code: "349"
+  code: "34915"
+  name: "Llanera"
+-
+  id: 270
+  region_code: "03"
+  province_code: "349"
+  code: "34916"
+  name: "Lupao"
+-
+  id: 271
+  region_code: "03"
+  province_code: "349"
+  code: "34917"
+  name: "Science City of Muñoz"
+-
+  id: 272
+  region_code: "03"
+  province_code: "349"
+  code: "34918"
+  name: "Nampicuan"
+-
+  id: 273
+  region_code: "03"
+  province_code: "349"
+  code: "34919"
+  name: "Palayan City (Capital)"
+-
+  id: 274
+  region_code: "03"
+  province_code: "349"
+  code: "34920"
+  name: "Pantabangan"
+-
+  id: 275
+  region_code: "03"
+  province_code: "349"
+  code: "34921"
+  name: "Peñaranda"
+-
+  id: 276
+  region_code: "03"
+  province_code: "349"
+  code: "34922"
+  name: "Quezon"
+-
+  id: 277
+  region_code: "03"
+  province_code: "349"
+  code: "34923"
+  name: "Rizal"
+-
+  id: 278
+  region_code: "03"
+  province_code: "349"
+  code: "34924"
+  name: "San Antonio"
+-
+  id: 279
+  region_code: "03"
+  province_code: "349"
+  code: "34925"
+  name: "San Isidro"
+-
+  id: 280
+  region_code: "03"
+  province_code: "349"
+  code: "34926"
+  name: "San Jose City"
+-
+  id: 281
+  region_code: "03"
+  province_code: "349"
+  code: "34927"
+  name: "San Leonardo"
+-
+  id: 282
+  region_code: "03"
+  province_code: "349"
+  code: "34928"
+  name: "Santa Rosa"
+-
+  id: 283
+  region_code: "03"
+  province_code: "349"
+  code: "34929"
+  name: "Santo Domingo"
+-
+  id: 284
+  region_code: "03"
+  province_code: "349"
+  code: "34930"
+  name: "Talavera"
+-
+  id: 285
+  region_code: "03"
+  province_code: "349"
+  code: "34931"
+  name: "Talugtug"
+-
+  id: 286
+  region_code: "03"
+  province_code: "349"
+  code: "34932"
+  name: "Zaragoza"
+-
+  id: 287
+  region_code: "03"
+  province_code: "354"
+  code: "35401"
+  name: "Angeles City"
+-
+  id: 288
+  region_code: "03"
+  province_code: "354"
+  code: "35402"
+  name: "Apalit"
+-
+  id: 289
+  region_code: "03"
+  province_code: "354"
+  code: "35403"
+  name: "Arayat"
+-
+  id: 290
+  region_code: "03"
+  province_code: "354"
+  code: "35404"
+  name: "Bacolor"
+-
+  id: 291
+  region_code: "03"
+  province_code: "354"
+  code: "35405"
+  name: "Candaba"
+-
+  id: 292
+  region_code: "03"
+  province_code: "354"
+  code: "35406"
+  name: "Floridablanca"
+-
+  id: 293
+  region_code: "03"
+  province_code: "354"
+  code: "35407"
+  name: "Guagua"
+-
+  id: 294
+  region_code: "03"
+  province_code: "354"
+  code: "35408"
+  name: "Lubao"
+-
+  id: 295
+  region_code: "03"
+  province_code: "354"
+  code: "35409"
+  name: "Mabalacat City"
+-
+  id: 296
+  region_code: "03"
+  province_code: "354"
+  code: "35410"
+  name: "Macabebe"
+-
+  id: 297
+  region_code: "03"
+  province_code: "354"
+  code: "35411"
+  name: "Magalang"
+-
+  id: 298
+  region_code: "03"
+  province_code: "354"
+  code: "35412"
+  name: "Masantol"
+-
+  id: 299
+  region_code: "03"
+  province_code: "354"
+  code: "35413"
+  name: "Mexico"
+-
+  id: 300
+  region_code: "03"
+  province_code: "354"
+  code: "35414"
+  name: "Minalin"
+-
+  id: 301
+  region_code: "03"
+  province_code: "354"
+  code: "35415"
+  name: "Porac"
+-
+  id: 302
+  region_code: "03"
+  province_code: "354"
+  code: "35416"
+  name: "City of San Fernando (Capital)"
+-
+  id: 303
+  region_code: "03"
+  province_code: "354"
+  code: "35417"
+  name: "San Luis"
+-
+  id: 304
+  region_code: "03"
+  province_code: "354"
+  code: "35418"
+  name: "San Simon"
+-
+  id: 305
+  region_code: "03"
+  province_code: "354"
+  code: "35419"
+  name: "Santa Ana"
+-
+  id: 306
+  region_code: "03"
+  province_code: "354"
+  code: "35420"
+  name: "Santa Rita"
+-
+  id: 307
+  region_code: "03"
+  province_code: "354"
+  code: "35421"
+  name: "Santo Tomas"
+-
+  id: 308
+  region_code: "03"
+  province_code: "354"
+  code: "35422"
+  name: "Sasmuan (Sexmoan)"
+-
+  id: 309
+  region_code: "03"
+  province_code: "369"
+  code: "36901"
+  name: "Anao"
+-
+  id: 310
+  region_code: "03"
+  province_code: "369"
+  code: "36902"
+  name: "Bamban"
+-
+  id: 311
+  region_code: "03"
+  province_code: "369"
+  code: "36903"
+  name: "Camiling"
+-
+  id: 312
+  region_code: "03"
+  province_code: "369"
+  code: "36904"
+  name: "Capas"
+-
+  id: 313
+  region_code: "03"
+  province_code: "369"
+  code: "36905"
+  name: "Concepcion"
+-
+  id: 314
+  region_code: "03"
+  province_code: "369"
+  code: "36906"
+  name: "Gerona"
+-
+  id: 315
+  region_code: "03"
+  province_code: "369"
+  code: "36907"
+  name: "La Paz"
+-
+  id: 316
+  region_code: "03"
+  province_code: "369"
+  code: "36908"
+  name: "Mayantoc"
+-
+  id: 317
+  region_code: "03"
+  province_code: "369"
+  code: "36909"
+  name: "Moncada"
+-
+  id: 318
+  region_code: "03"
+  province_code: "369"
+  code: "36910"
+  name: "Paniqui"
+-
+  id: 319
+  region_code: "03"
+  province_code: "369"
+  code: "36911"
+  name: "Pura"
+-
+  id: 320
+  region_code: "03"
+  province_code: "369"
+  code: "36912"
+  name: "Ramos"
+-
+  id: 321
+  region_code: "03"
+  province_code: "369"
+  code: "36913"
+  name: "San Clemente"
+-
+  id: 322
+  region_code: "03"
+  province_code: "369"
+  code: "36914"
+  name: "San Manuel"
+-
+  id: 323
+  region_code: "03"
+  province_code: "369"
+  code: "36915"
+  name: "Santa Ignacia"
+-
+  id: 324
+  region_code: "03"
+  province_code: "369"
+  code: "36916"
+  name: "City of Tarlac (Capital)"
+-
+  id: 325
+  region_code: "03"
+  province_code: "369"
+  code: "36917"
+  name: "Victoria"
+-
+  id: 326
+  region_code: "03"
+  province_code: "369"
+  code: "36918"
+  name: "San Jose"
+-
+  id: 327
+  region_code: "03"
+  province_code: "371"
+  code: "37101"
+  name: "Botolan"
+-
+  id: 328
+  region_code: "03"
+  province_code: "371"
+  code: "37102"
+  name: "Cabangan"
+-
+  id: 329
+  region_code: "03"
+  province_code: "371"
+  code: "37103"
+  name: "Candelaria"
+-
+  id: 330
+  region_code: "03"
+  province_code: "371"
+  code: "37104"
+  name: "Castillejos"
+-
+  id: 331
+  region_code: "03"
+  province_code: "371"
+  code: "37105"
+  name: "Iba (Capital)"
+-
+  id: 332
+  region_code: "03"
+  province_code: "371"
+  code: "37106"
+  name: "Masinloc"
+-
+  id: 333
+  region_code: "03"
+  province_code: "371"
+  code: "37107"
+  name: "Olongapo City"
+-
+  id: 334
+  region_code: "03"
+  province_code: "371"
+  code: "37108"
+  name: "Palauig"
+-
+  id: 335
+  region_code: "03"
+  province_code: "371"
+  code: "37109"
+  name: "San Antonio"
+-
+  id: 336
+  region_code: "03"
+  province_code: "371"
+  code: "37110"
+  name: "San Felipe"
+-
+  id: 337
+  region_code: "03"
+  province_code: "371"
+  code: "37111"
+  name: "San Marcelino"
+-
+  id: 338
+  region_code: "03"
+  province_code: "371"
+  code: "37112"
+  name: "San Narciso"
+-
+  id: 339
+  region_code: "03"
+  province_code: "371"
+  code: "37113"
+  name: "Santa Cruz"
+-
+  id: 340
+  region_code: "03"
+  province_code: "371"
+  code: "37114"
+  name: "Subic"
+-
+  id: 341
+  region_code: "03"
+  province_code: "377"
+  code: "37701"
+  name: "Baler (Capital)"
+-
+  id: 342
+  region_code: "03"
+  province_code: "377"
+  code: "37702"
+  name: "Casiguran"
+-
+  id: 343
+  region_code: "03"
+  province_code: "377"
+  code: "37703"
+  name: "Dilasag"
+-
+  id: 344
+  region_code: "03"
+  province_code: "377"
+  code: "37704"
+  name: "Dinalungan"
+-
+  id: 345
+  region_code: "03"
+  province_code: "377"
+  code: "37705"
+  name: "Dingalan"
+-
+  id: 346
+  region_code: "03"
+  province_code: "377"
+  code: "37706"
+  name: "Dipaculao"
+-
+  id: 347
+  region_code: "03"
+  province_code: "377"
+  code: "37707"
+  name: "Maria Aurora"
+-
+  id: 348
+  region_code: "03"
+  province_code: "377"
+  code: "37708"
+  name: "San Luis"
+-
+  id: 349
+  region_code: "04"
+  province_code: "410"
+  code: "41001"
+  name: "Agoncillo"
+-
+  id: 350
+  region_code: "04"
+  province_code: "410"
+  code: "41002"
+  name: "Alitagtag"
+-
+  id: 351
+  region_code: "04"
+  province_code: "410"
+  code: "41003"
+  name: "Balayan"
+-
+  id: 352
+  region_code: "04"
+  province_code: "410"
+  code: "41004"
+  name: "Balete"
+-
+  id: 353
+  region_code: "04"
+  province_code: "410"
+  code: "41005"
+  name: "Batangas City (Capital)"
+-
+  id: 354
+  region_code: "04"
+  province_code: "410"
+  code: "41006"
+  name: "Bauan"
+-
+  id: 355
+  region_code: "04"
+  province_code: "410"
+  code: "41007"
+  name: "Calaca"
+-
+  id: 356
+  region_code: "04"
+  province_code: "410"
+  code: "41008"
+  name: "Calatagan"
+-
+  id: 357
+  region_code: "04"
+  province_code: "410"
+  code: "41009"
+  name: "Cuenca"
+-
+  id: 358
+  region_code: "04"
+  province_code: "410"
+  code: "41010"
+  name: "Ibaan"
+-
+  id: 359
+  region_code: "04"
+  province_code: "410"
+  code: "41011"
+  name: "Laurel"
+-
+  id: 360
+  region_code: "04"
+  province_code: "410"
+  code: "41012"
+  name: "Lemery"
+-
+  id: 361
+  region_code: "04"
+  province_code: "410"
+  code: "41013"
+  name: "Lian"
+-
+  id: 362
+  region_code: "04"
+  province_code: "410"
+  code: "41014"
+  name: "Lipa City"
+-
+  id: 363
+  region_code: "04"
+  province_code: "410"
+  code: "41015"
+  name: "Lobo"
+-
+  id: 364
+  region_code: "04"
+  province_code: "410"
+  code: "41016"
+  name: "Mabini"
+-
+  id: 365
+  region_code: "04"
+  province_code: "410"
+  code: "41017"
+  name: "Malvar"
+-
+  id: 366
+  region_code: "04"
+  province_code: "410"
+  code: "41018"
+  name: "Mataasnakahoy"
+-
+  id: 367
+  region_code: "04"
+  province_code: "410"
+  code: "41019"
+  name: "Nasugbu"
+-
+  id: 368
+  region_code: "04"
+  province_code: "410"
+  code: "41020"
+  name: "Padre Garcia"
+-
+  id: 369
+  region_code: "04"
+  province_code: "410"
+  code: "41021"
+  name: "Rosario"
+-
+  id: 370
+  region_code: "04"
+  province_code: "410"
+  code: "41022"
+  name: "San Jose"
+-
+  id: 371
+  region_code: "04"
+  province_code: "410"
+  code: "41023"
+  name: "San Juan"
+-
+  id: 372
+  region_code: "04"
+  province_code: "410"
+  code: "41024"
+  name: "San Luis"
+-
+  id: 373
+  region_code: "04"
+  province_code: "410"
+  code: "41025"
+  name: "San Nicolas"
+-
+  id: 374
+  region_code: "04"
+  province_code: "410"
+  code: "41026"
+  name: "San Pascual"
+-
+  id: 375
+  region_code: "04"
+  province_code: "410"
+  code: "41027"
+  name: "Santa Teresita"
+-
+  id: 376
+  region_code: "04"
+  province_code: "410"
+  code: "41028"
+  name: "Santo Tomas"
+-
+  id: 377
+  region_code: "04"
+  province_code: "410"
+  code: "41029"
+  name: "Taal"
+-
+  id: 378
+  region_code: "04"
+  province_code: "410"
+  code: "41030"
+  name: "Talisay"
+-
+  id: 379
+  region_code: "04"
+  province_code: "410"
+  code: "41031"
+  name: "City of Tanauan"
+-
+  id: 380
+  region_code: "04"
+  province_code: "410"
+  code: "41032"
+  name: "Taysan"
+-
+  id: 381
+  region_code: "04"
+  province_code: "410"
+  code: "41033"
+  name: "Tingloy"
+-
+  id: 382
+  region_code: "04"
+  province_code: "410"
+  code: "41034"
+  name: "Tuy"
+-
+  id: 383
+  region_code: "04"
+  province_code: "421"
+  code: "42101"
+  name: "Alfonso"
+-
+  id: 384
+  region_code: "04"
+  province_code: "421"
+  code: "42102"
+  name: "Amadeo"
+-
+  id: 385
+  region_code: "04"
+  province_code: "421"
+  code: "42103"
+  name: "Bacoor City"
+-
+  id: 386
+  region_code: "04"
+  province_code: "421"
+  code: "42104"
+  name: "Carmona"
+-
+  id: 387
+  region_code: "04"
+  province_code: "421"
+  code: "42105"
+  name: "Cavite City"
+-
+  id: 388
+  region_code: "04"
+  province_code: "421"
+  code: "42106"
+  name: "City of Dasmariñas"
+-
+  id: 389
+  region_code: "04"
+  province_code: "421"
+  code: "42107"
+  name: "General Emilio Aguinaldo"
+-
+  id: 390
+  region_code: "04"
+  province_code: "421"
+  code: "42108"
+  name: "General Trias"
+-
+  id: 391
+  region_code: "04"
+  province_code: "421"
+  code: "42109"
+  name: "Imus City"
+-
+  id: 392
+  region_code: "04"
+  province_code: "421"
+  code: "42110"
+  name: "Indang"
+-
+  id: 393
+  region_code: "04"
+  province_code: "421"
+  code: "42111"
+  name: "Kawit"
+-
+  id: 394
+  region_code: "04"
+  province_code: "421"
+  code: "42112"
+  name: "Magallanes"
+-
+  id: 395
+  region_code: "04"
+  province_code: "421"
+  code: "42113"
+  name: "Maragondon"
+-
+  id: 396
+  region_code: "04"
+  province_code: "421"
+  code: "42114"
+  name: "Mendez (Mendez-Nuñez)"
+-
+  id: 397
+  region_code: "04"
+  province_code: "421"
+  code: "42115"
+  name: "Naic"
+-
+  id: 398
+  region_code: "04"
+  province_code: "421"
+  code: "42116"
+  name: "Noveleta"
+-
+  id: 399
+  region_code: "04"
+  province_code: "421"
+  code: "42117"
+  name: "Rosario"
+-
+  id: 400
+  region_code: "04"
+  province_code: "421"
+  code: "42118"
+  name: "Silang"
+-
+  id: 401
+  region_code: "04"
+  province_code: "421"
+  code: "42119"
+  name: "Tagaytay City"
+-
+  id: 402
+  region_code: "04"
+  province_code: "421"
+  code: "42120"
+  name: "Tanza"
+-
+  id: 403
+  region_code: "04"
+  province_code: "421"
+  code: "42121"
+  name: "Ternate"
+-
+  id: 404
+  region_code: "04"
+  province_code: "421"
+  code: "42122"
+  name: "Trece Martires City (Capital)"
+-
+  id: 405
+  region_code: "04"
+  province_code: "421"
+  code: "42123"
+  name: "Gen. Mariano Alvarez"
+-
+  id: 406
+  region_code: "04"
+  province_code: "434"
+  code: "43401"
+  name: "Alaminos"
+-
+  id: 407
+  region_code: "04"
+  province_code: "434"
+  code: "43402"
+  name: "Bay"
+-
+  id: 408
+  region_code: "04"
+  province_code: "434"
+  code: "43403"
+  name: "City of Biñan"
+-
+  id: 409
+  region_code: "04"
+  province_code: "434"
+  code: "43404"
+  name: "Cabuyao City"
+-
+  id: 410
+  region_code: "04"
+  province_code: "434"
+  code: "43405"
+  name: "City of Calamba"
+-
+  id: 411
+  region_code: "04"
+  province_code: "434"
+  code: "43406"
+  name: "Calauan"
+-
+  id: 412
+  region_code: "04"
+  province_code: "434"
+  code: "43407"
+  name: "Cavinti"
+-
+  id: 413
+  region_code: "04"
+  province_code: "434"
+  code: "43408"
+  name: "Famy"
+-
+  id: 414
+  region_code: "04"
+  province_code: "434"
+  code: "43409"
+  name: "Kalayaan"
+-
+  id: 415
+  region_code: "04"
+  province_code: "434"
+  code: "43410"
+  name: "Liliw"
+-
+  id: 416
+  region_code: "04"
+  province_code: "434"
+  code: "43411"
+  name: "Los Baños"
+-
+  id: 417
+  region_code: "04"
+  province_code: "434"
+  code: "43412"
+  name: "Luisiana"
+-
+  id: 418
+  region_code: "04"
+  province_code: "434"
+  code: "43413"
+  name: "Lumban"
+-
+  id: 419
+  region_code: "04"
+  province_code: "434"
+  code: "43414"
+  name: "Mabitac"
+-
+  id: 420
+  region_code: "04"
+  province_code: "434"
+  code: "43415"
+  name: "Magdalena"
+-
+  id: 421
+  region_code: "04"
+  province_code: "434"
+  code: "43416"
+  name: "Majayjay"
+-
+  id: 422
+  region_code: "04"
+  province_code: "434"
+  code: "43417"
+  name: "Nagcarlan"
+-
+  id: 423
+  region_code: "04"
+  province_code: "434"
+  code: "43418"
+  name: "Paete"
+-
+  id: 424
+  region_code: "04"
+  province_code: "434"
+  code: "43419"
+  name: "Pagsanjan"
+-
+  id: 425
+  region_code: "04"
+  province_code: "434"
+  code: "43420"
+  name: "Pakil"
+-
+  id: 426
+  region_code: "04"
+  province_code: "434"
+  code: "43421"
+  name: "Pangil"
+-
+  id: 427
+  region_code: "04"
+  province_code: "434"
+  code: "43422"
+  name: "Pila"
+-
+  id: 428
+  region_code: "04"
+  province_code: "434"
+  code: "43423"
+  name: "Rizal"
+-
+  id: 429
+  region_code: "04"
+  province_code: "434"
+  code: "43424"
+  name: "San Pablo City"
+-
+  id: 430
+  region_code: "04"
+  province_code: "434"
+  code: "43425"
+  name: "City of San Pedro"
+-
+  id: 431
+  region_code: "04"
+  province_code: "434"
+  code: "43426"
+  name: "Santa Cruz (Capital)"
+-
+  id: 432
+  region_code: "04"
+  province_code: "434"
+  code: "43427"
+  name: "Santa Maria"
+-
+  id: 433
+  region_code: "04"
+  province_code: "434"
+  code: "43428"
+  name: "City of Santa Rosa"
+-
+  id: 434
+  region_code: "04"
+  province_code: "434"
+  code: "43429"
+  name: "Siniloan"
+-
+  id: 435
+  region_code: "04"
+  province_code: "434"
+  code: "43430"
+  name: "Victoria"
+-
+  id: 436
+  region_code: "04"
+  province_code: "456"
+  code: "45601"
+  name: "Agdangan"
+-
+  id: 437
+  region_code: "04"
+  province_code: "456"
+  code: "45602"
+  name: "Alabat"
+-
+  id: 438
+  region_code: "04"
+  province_code: "456"
+  code: "45603"
+  name: "Atimonan"
+-
+  id: 439
+  region_code: "04"
+  province_code: "456"
+  code: "45605"
+  name: "Buenavista"
+-
+  id: 440
+  region_code: "04"
+  province_code: "456"
+  code: "45606"
+  name: "Burdeos"
+-
+  id: 441
+  region_code: "04"
+  province_code: "456"
+  code: "45607"
+  name: "Calauag"
+-
+  id: 442
+  region_code: "04"
+  province_code: "456"
+  code: "45608"
+  name: "Candelaria"
+-
+  id: 443
+  region_code: "04"
+  province_code: "456"
+  code: "45610"
+  name: "Catanauan"
+-
+  id: 444
+  region_code: "04"
+  province_code: "456"
+  code: "45615"
+  name: "Dolores"
+-
+  id: 445
+  region_code: "04"
+  province_code: "456"
+  code: "45616"
+  name: "General Luna"
+-
+  id: 446
+  region_code: "04"
+  province_code: "456"
+  code: "45617"
+  name: "General Nakar"
+-
+  id: 447
+  region_code: "04"
+  province_code: "456"
+  code: "45618"
+  name: "Guinayangan"
+-
+  id: 448
+  region_code: "04"
+  province_code: "456"
+  code: "45619"
+  name: "Gumaca"
+-
+  id: 449
+  region_code: "04"
+  province_code: "456"
+  code: "45620"
+  name: "Infanta"
+-
+  id: 450
+  region_code: "04"
+  province_code: "456"
+  code: "45621"
+  name: "Jomalig"
+-
+  id: 451
+  region_code: "04"
+  province_code: "456"
+  code: "45622"
+  name: "Lopez"
+-
+  id: 452
+  region_code: "04"
+  province_code: "456"
+  code: "45623"
+  name: "Lucban"
+-
+  id: 453
+  region_code: "04"
+  province_code: "456"
+  code: "45624"
+  name: "Lucena City (Capital)"
+-
+  id: 454
+  region_code: "04"
+  province_code: "456"
+  code: "45625"
+  name: "Macalelon"
+-
+  id: 455
+  region_code: "04"
+  province_code: "456"
+  code: "45627"
+  name: "Mauban"
+-
+  id: 456
+  region_code: "04"
+  province_code: "456"
+  code: "45628"
+  name: "Mulanay"
+-
+  id: 457
+  region_code: "04"
+  province_code: "456"
+  code: "45629"
+  name: "Padre Burgos"
+-
+  id: 458
+  region_code: "04"
+  province_code: "456"
+  code: "45630"
+  name: "Pagbilao"
+-
+  id: 459
+  region_code: "04"
+  province_code: "456"
+  code: "45631"
+  name: "Panukulan"
+-
+  id: 460
+  region_code: "04"
+  province_code: "456"
+  code: "45632"
+  name: "Patnanungan"
+-
+  id: 461
+  region_code: "04"
+  province_code: "456"
+  code: "45633"
+  name: "Perez"
+-
+  id: 462
+  region_code: "04"
+  province_code: "456"
+  code: "45634"
+  name: "Pitogo"
+-
+  id: 463
+  region_code: "04"
+  province_code: "456"
+  code: "45635"
+  name: "Plaridel"
+-
+  id: 464
+  region_code: "04"
+  province_code: "456"
+  code: "45636"
+  name: "Polillo"
+-
+  id: 465
+  region_code: "04"
+  province_code: "456"
+  code: "45637"
+  name: "Quezon"
+-
+  id: 466
+  region_code: "04"
+  province_code: "456"
+  code: "45638"
+  name: "Real"
+-
+  id: 467
+  region_code: "04"
+  province_code: "456"
+  code: "45639"
+  name: "Sampaloc"
+-
+  id: 468
+  region_code: "04"
+  province_code: "456"
+  code: "45640"
+  name: "San Andres"
+-
+  id: 469
+  region_code: "04"
+  province_code: "456"
+  code: "45641"
+  name: "San Antonio"
+-
+  id: 470
+  region_code: "04"
+  province_code: "456"
+  code: "45642"
+  name: "San Francisco (Aurora)"
+-
+  id: 471
+  region_code: "04"
+  province_code: "456"
+  code: "45644"
+  name: "San Narciso"
+-
+  id: 472
+  region_code: "04"
+  province_code: "456"
+  code: "45645"
+  name: "Sariaya"
+-
+  id: 473
+  region_code: "04"
+  province_code: "456"
+  code: "45646"
+  name: "Tagkawayan"
+-
+  id: 474
+  region_code: "04"
+  province_code: "456"
+  code: "45647"
+  name: "City of Tayabas"
+-
+  id: 475
+  region_code: "04"
+  province_code: "456"
+  code: "45648"
+  name: "Tiaong"
+-
+  id: 476
+  region_code: "04"
+  province_code: "456"
+  code: "45649"
+  name: "Unisan"
+-
+  id: 477
+  region_code: "04"
+  province_code: "458"
+  code: "45801"
+  name: "Angono"
+-
+  id: 478
+  region_code: "04"
+  province_code: "458"
+  code: "45802"
+  name: "City of Antipolo"
+-
+  id: 479
+  region_code: "04"
+  province_code: "458"
+  code: "45803"
+  name: "Baras"
+-
+  id: 480
+  region_code: "04"
+  province_code: "458"
+  code: "45804"
+  name: "Binangonan"
+-
+  id: 481
+  region_code: "04"
+  province_code: "458"
+  code: "45805"
+  name: "Cainta"
+-
+  id: 482
+  region_code: "04"
+  province_code: "458"
+  code: "45806"
+  name: "Cardona"
+-
+  id: 483
+  region_code: "04"
+  province_code: "458"
+  code: "45807"
+  name: "Jala-Jala"
+-
+  id: 484
+  region_code: "04"
+  province_code: "458"
+  code: "45808"
+  name: "Rodriguez (Montalban)"
+-
+  id: 485
+  region_code: "04"
+  province_code: "458"
+  code: "45809"
+  name: "Morong"
+-
+  id: 486
+  region_code: "04"
+  province_code: "458"
+  code: "45810"
+  name: "Pililla"
+-
+  id: 487
+  region_code: "04"
+  province_code: "458"
+  code: "45811"
+  name: "San Mateo"
+-
+  id: 488
+  region_code: "04"
+  province_code: "458"
+  code: "45812"
+  name: "Tanay"
+-
+  id: 489
+  region_code: "04"
+  province_code: "458"
+  code: "45813"
+  name: "Taytay"
+-
+  id: 490
+  region_code: "04"
+  province_code: "458"
+  code: "45814"
+  name: "Teresa"
+-
+  id: 491
+  region_code: "17"
+  province_code: "1740"
+  code: "174001"
+  name: "Boac (Capital)"
+-
+  id: 492
+  region_code: "17"
+  province_code: "1740"
+  code: "174002"
+  name: "Buenavista"
+-
+  id: 493
+  region_code: "17"
+  province_code: "1740"
+  code: "174003"
+  name: "Gasan"
+-
+  id: 494
+  region_code: "17"
+  province_code: "1740"
+  code: "174004"
+  name: "Mogpog"
+-
+  id: 495
+  region_code: "17"
+  province_code: "1740"
+  code: "174005"
+  name: "Santa Cruz"
+-
+  id: 496
+  region_code: "17"
+  province_code: "1740"
+  code: "174006"
+  name: "Torrijos"
+-
+  id: 497
+  region_code: "17"
+  province_code: "1751"
+  code: "175101"
+  name: "Abra De Ilog"
+-
+  id: 498
+  region_code: "17"
+  province_code: "1751"
+  code: "175102"
+  name: "Calintaan"
+-
+  id: 499
+  region_code: "17"
+  province_code: "1751"
+  code: "175103"
+  name: "Looc"
+-
+  id: 500
+  region_code: "17"
+  province_code: "1751"
+  code: "175104"
+  name: "Lubang"
+-
+  id: 501
+  region_code: "17"
+  province_code: "1751"
+  code: "175105"
+  name: "Magsaysay"
+-
+  id: 502
+  region_code: "17"
+  province_code: "1751"
+  code: "175106"
+  name: "Mamburao (Capital)"
+-
+  id: 503
+  region_code: "17"
+  province_code: "1751"
+  code: "175107"
+  name: "Paluan"
+-
+  id: 504
+  region_code: "17"
+  province_code: "1751"
+  code: "175108"
+  name: "Rizal"
+-
+  id: 505
+  region_code: "17"
+  province_code: "1751"
+  code: "175109"
+  name: "Sablayan"
+-
+  id: 506
+  region_code: "17"
+  province_code: "1751"
+  code: "175110"
+  name: "San Jose"
+-
+  id: 507
+  region_code: "17"
+  province_code: "1751"
+  code: "175111"
+  name: "Santa Cruz"
+-
+  id: 508
+  region_code: "17"
+  province_code: "1752"
+  code: "175201"
+  name: "Baco"
+-
+  id: 509
+  region_code: "17"
+  province_code: "1752"
+  code: "175202"
+  name: "Bansud"
+-
+  id: 510
+  region_code: "17"
+  province_code: "1752"
+  code: "175203"
+  name: "Bongabong"
+-
+  id: 511
+  region_code: "17"
+  province_code: "1752"
+  code: "175204"
+  name: "Bulalacao (San Pedro)"
+-
+  id: 512
+  region_code: "17"
+  province_code: "1752"
+  code: "175205"
+  name: "City of Calapan (Capital)"
+-
+  id: 513
+  region_code: "17"
+  province_code: "1752"
+  code: "175206"
+  name: "Gloria"
+-
+  id: 514
+  region_code: "17"
+  province_code: "1752"
+  code: "175207"
+  name: "Mansalay"
+-
+  id: 515
+  region_code: "17"
+  province_code: "1752"
+  code: "175208"
+  name: "Naujan"
+-
+  id: 516
+  region_code: "17"
+  province_code: "1752"
+  code: "175209"
+  name: "Pinamalayan"
+-
+  id: 517
+  region_code: "17"
+  province_code: "1752"
+  code: "175210"
+  name: "Pola"
+-
+  id: 518
+  region_code: "17"
+  province_code: "1752"
+  code: "175211"
+  name: "Puerto Galera"
+-
+  id: 519
+  region_code: "17"
+  province_code: "1752"
+  code: "175212"
+  name: "Roxas"
+-
+  id: 520
+  region_code: "17"
+  province_code: "1752"
+  code: "175213"
+  name: "San Teodoro"
+-
+  id: 521
+  region_code: "17"
+  province_code: "1752"
+  code: "175214"
+  name: "Socorro"
+-
+  id: 522
+  region_code: "17"
+  province_code: "1752"
+  code: "175215"
+  name: "Victoria"
+-
+  id: 523
+  region_code: "17"
+  province_code: "1753"
+  code: "175301"
+  name: "Aborlan"
+-
+  id: 524
+  region_code: "17"
+  province_code: "1753"
+  code: "175302"
+  name: "Agutaya"
+-
+  id: 525
+  region_code: "17"
+  province_code: "1753"
+  code: "175303"
+  name: "Araceli"
+-
+  id: 526
+  region_code: "17"
+  province_code: "1753"
+  code: "175304"
+  name: "Balabac"
+-
+  id: 527
+  region_code: "17"
+  province_code: "1753"
+  code: "175305"
+  name: "Bataraza"
+-
+  id: 528
+  region_code: "17"
+  province_code: "1753"
+  code: "175306"
+  name: "'Brooke''s Point'"
+-
+  id: 529
+  region_code: "17"
+  province_code: "1753"
+  code: "175307"
+  name: "Busuanga"
+-
+  id: 530
+  region_code: "17"
+  province_code: "1753"
+  code: "175308"
+  name: "Cagayancillo"
+-
+  id: 531
+  region_code: "17"
+  province_code: "1753"
+  code: "175309"
+  name: "Coron"
+-
+  id: 532
+  region_code: "17"
+  province_code: "1753"
+  code: "175310"
+  name: "Cuyo"
+-
+  id: 533
+  region_code: "17"
+  province_code: "1753"
+  code: "175311"
+  name: "Dumaran"
+-
+  id: 534
+  region_code: "17"
+  province_code: "1753"
+  code: "175312"
+  name: "El Nido (Bacuit)"
+-
+  id: 535
+  region_code: "17"
+  province_code: "1753"
+  code: "175313"
+  name: "Linapacan"
+-
+  id: 536
+  region_code: "17"
+  province_code: "1753"
+  code: "175314"
+  name: "Magsaysay"
+-
+  id: 537
+  region_code: "17"
+  province_code: "1753"
+  code: "175315"
+  name: "Narra"
+-
+  id: 538
+  region_code: "17"
+  province_code: "1753"
+  code: "175316"
+  name: "Puerto Princesa City (Capital)"
+-
+  id: 539
+  region_code: "17"
+  province_code: "1753"
+  code: "175317"
+  name: "Quezon"
+-
+  id: 540
+  region_code: "17"
+  province_code: "1753"
+  code: "175318"
+  name: "Roxas"
+-
+  id: 541
+  region_code: "17"
+  province_code: "1753"
+  code: "175319"
+  name: "San Vicente"
+-
+  id: 542
+  region_code: "17"
+  province_code: "1753"
+  code: "175320"
+  name: "Taytay"
+-
+  id: 543
+  region_code: "17"
+  province_code: "1753"
+  code: "175321"
+  name: "Kalayaan"
+-
+  id: 544
+  region_code: "17"
+  province_code: "1753"
+  code: "175322"
+  name: "Culion"
+-
+  id: 545
+  region_code: "17"
+  province_code: "1753"
+  code: "175323"
+  name: "Rizal (Marcos)"
+-
+  id: 546
+  region_code: "17"
+  province_code: "1753"
+  code: "175324"
+  name: "Sofronio Española"
+-
+  id: 547
+  region_code: "17"
+  province_code: "1759"
+  code: "175901"
+  name: "Alcantara"
+-
+  id: 548
+  region_code: "17"
+  province_code: "1759"
+  code: "175902"
+  name: "Banton"
+-
+  id: 549
+  region_code: "17"
+  province_code: "1759"
+  code: "175903"
+  name: "Cajidiocan"
+-
+  id: 550
+  region_code: "17"
+  province_code: "1759"
+  code: "175904"
+  name: "Calatrava"
+-
+  id: 551
+  region_code: "17"
+  province_code: "1759"
+  code: "175905"
+  name: "Concepcion"
+-
+  id: 552
+  region_code: "17"
+  province_code: "1759"
+  code: "175906"
+  name: "Corcuera"
+-
+  id: 553
+  region_code: "17"
+  province_code: "1759"
+  code: "175907"
+  name: "Looc"
+-
+  id: 554
+  region_code: "17"
+  province_code: "1759"
+  code: "175908"
+  name: "Magdiwang"
+-
+  id: 555
+  region_code: "17"
+  province_code: "1759"
+  code: "175909"
+  name: "Odiongan"
+-
+  id: 556
+  region_code: "17"
+  province_code: "1759"
+  code: "175910"
+  name: "Romblon (Capital)"
+-
+  id: 557
+  region_code: "17"
+  province_code: "1759"
+  code: "175911"
+  name: "San Agustin"
+-
+  id: 558
+  region_code: "17"
+  province_code: "1759"
+  code: "175912"
+  name: "San Andres"
+-
+  id: 559
+  region_code: "17"
+  province_code: "1759"
+  code: "175913"
+  name: "San Fernando"
+-
+  id: 560
+  region_code: "17"
+  province_code: "1759"
+  code: "175914"
+  name: "San Jose"
+-
+  id: 561
+  region_code: "17"
+  province_code: "1759"
+  code: "175915"
+  name: "Santa Fe"
+-
+  id: 562
+  region_code: "17"
+  province_code: "1759"
+  code: "175916"
+  name: "Ferrol"
+-
+  id: 563
+  region_code: "17"
+  province_code: "1759"
+  code: "175917"
+  name: "Santa Maria (Imelda)"
+-
+  id: 564
+  region_code: "05"
+  province_code: "505"
+  code: "50501"
+  name: "Bacacay"
+-
+  id: 565
+  region_code: "05"
+  province_code: "505"
+  code: "50502"
+  name: "Camalig"
+-
+  id: 566
+  region_code: "05"
+  province_code: "505"
+  code: "50503"
+  name: "Daraga (Locsin)"
+-
+  id: 567
+  region_code: "05"
+  province_code: "505"
+  code: "50504"
+  name: "Guinobatan"
+-
+  id: 568
+  region_code: "05"
+  province_code: "505"
+  code: "50505"
+  name: "Jovellar"
+-
+  id: 569
+  region_code: "05"
+  province_code: "505"
+  code: "50506"
+  name: "Legazpi City (Capital)"
+-
+  id: 570
+  region_code: "05"
+  province_code: "505"
+  code: "50507"
+  name: "Libon"
+-
+  id: 571
+  region_code: "05"
+  province_code: "505"
+  code: "50508"
+  name: "City of Ligao"
+-
+  id: 572
+  region_code: "05"
+  province_code: "505"
+  code: "50509"
+  name: "Malilipot"
+-
+  id: 573
+  region_code: "05"
+  province_code: "505"
+  code: "50510"
+  name: "Malinao"
+-
+  id: 574
+  region_code: "05"
+  province_code: "505"
+  code: "50511"
+  name: "Manito"
+-
+  id: 575
+  region_code: "05"
+  province_code: "505"
+  code: "50512"
+  name: "Oas"
+-
+  id: 576
+  region_code: "05"
+  province_code: "505"
+  code: "50513"
+  name: "Pio Duran"
+-
+  id: 577
+  region_code: "05"
+  province_code: "505"
+  code: "50514"
+  name: "Polangui"
+-
+  id: 578
+  region_code: "05"
+  province_code: "505"
+  code: "50515"
+  name: "Rapu-Rapu"
+-
+  id: 579
+  region_code: "05"
+  province_code: "505"
+  code: "50516"
+  name: "Santo Domingo (Libog)"
+-
+  id: 580
+  region_code: "05"
+  province_code: "505"
+  code: "50517"
+  name: "City of Tabaco"
+-
+  id: 581
+  region_code: "05"
+  province_code: "505"
+  code: "50518"
+  name: "Tiwi"
+-
+  id: 582
+  region_code: "05"
+  province_code: "516"
+  code: "51601"
+  name: "Basud"
+-
+  id: 583
+  region_code: "05"
+  province_code: "516"
+  code: "51602"
+  name: "Capalonga"
+-
+  id: 584
+  region_code: "05"
+  province_code: "516"
+  code: "51603"
+  name: "Daet (Capital)"
+-
+  id: 585
+  region_code: "05"
+  province_code: "516"
+  code: "51604"
+  name: "San Lorenzo Ruiz (Imelda)"
+-
+  id: 586
+  region_code: "05"
+  province_code: "516"
+  code: "51605"
+  name: "Jose Panganiban"
+-
+  id: 587
+  region_code: "05"
+  province_code: "516"
+  code: "51606"
+  name: "Labo"
+-
+  id: 588
+  region_code: "05"
+  province_code: "516"
+  code: "51607"
+  name: "Mercedes"
+-
+  id: 589
+  region_code: "05"
+  province_code: "516"
+  code: "51608"
+  name: "Paracale"
+-
+  id: 590
+  region_code: "05"
+  province_code: "516"
+  code: "51609"
+  name: "San Vicente"
+-
+  id: 591
+  region_code: "05"
+  province_code: "516"
+  code: "51610"
+  name: "Santa Elena"
+-
+  id: 592
+  region_code: "05"
+  province_code: "516"
+  code: "51611"
+  name: "Talisay"
+-
+  id: 593
+  region_code: "05"
+  province_code: "516"
+  code: "51612"
+  name: "Vinzons"
+-
+  id: 594
+  region_code: "05"
+  province_code: "517"
+  code: "51701"
+  name: "Baao"
+-
+  id: 595
+  region_code: "05"
+  province_code: "517"
+  code: "51702"
+  name: "Balatan"
+-
+  id: 596
+  region_code: "05"
+  province_code: "517"
+  code: "51703"
+  name: "Bato"
+-
+  id: 597
+  region_code: "05"
+  province_code: "517"
+  code: "51704"
+  name: "Bombon"
+-
+  id: 598
+  region_code: "05"
+  province_code: "517"
+  code: "51705"
+  name: "Buhi"
+-
+  id: 599
+  region_code: "05"
+  province_code: "517"
+  code: "51706"
+  name: "Bula"
+-
+  id: 600
+  region_code: "05"
+  province_code: "517"
+  code: "51707"
+  name: "Cabusao"
+-
+  id: 601
+  region_code: "05"
+  province_code: "517"
+  code: "51708"
+  name: "Calabanga"
+-
+  id: 602
+  region_code: "05"
+  province_code: "517"
+  code: "51709"
+  name: "Camaligan"
+-
+  id: 603
+  region_code: "05"
+  province_code: "517"
+  code: "51710"
+  name: "Canaman"
+-
+  id: 604
+  region_code: "05"
+  province_code: "517"
+  code: "51711"
+  name: "Caramoan"
+-
+  id: 605
+  region_code: "05"
+  province_code: "517"
+  code: "51712"
+  name: "Del Gallego"
+-
+  id: 606
+  region_code: "05"
+  province_code: "517"
+  code: "51713"
+  name: "Gainza"
+-
+  id: 607
+  region_code: "05"
+  province_code: "517"
+  code: "51714"
+  name: "Garchitorena"
+-
+  id: 608
+  region_code: "05"
+  province_code: "517"
+  code: "51715"
+  name: "Goa"
+-
+  id: 609
+  region_code: "05"
+  province_code: "517"
+  code: "51716"
+  name: "Iriga City"
+-
+  id: 610
+  region_code: "05"
+  province_code: "517"
+  code: "51717"
+  name: "Lagonoy"
+-
+  id: 611
+  region_code: "05"
+  province_code: "517"
+  code: "51718"
+  name: "Libmanan"
+-
+  id: 612
+  region_code: "05"
+  province_code: "517"
+  code: "51719"
+  name: "Lupi"
+-
+  id: 613
+  region_code: "05"
+  province_code: "517"
+  code: "51720"
+  name: "Magarao"
+-
+  id: 614
+  region_code: "05"
+  province_code: "517"
+  code: "51721"
+  name: "Milaor"
+-
+  id: 615
+  region_code: "05"
+  province_code: "517"
+  code: "51722"
+  name: "Minalabac"
+-
+  id: 616
+  region_code: "05"
+  province_code: "517"
+  code: "51723"
+  name: "Nabua"
+-
+  id: 617
+  region_code: "05"
+  province_code: "517"
+  code: "51724"
+  name: "Naga City"
+-
+  id: 618
+  region_code: "05"
+  province_code: "517"
+  code: "51725"
+  name: "Ocampo"
+-
+  id: 619
+  region_code: "05"
+  province_code: "517"
+  code: "51726"
+  name: "Pamplona"
+-
+  id: 620
+  region_code: "05"
+  province_code: "517"
+  code: "51727"
+  name: "Pasacao"
+-
+  id: 621
+  region_code: "05"
+  province_code: "517"
+  code: "51728"
+  name: "Pili (Capital)"
+-
+  id: 622
+  region_code: "05"
+  province_code: "517"
+  code: "51729"
+  name: "Presentacion (Parubcan)"
+-
+  id: 623
+  region_code: "05"
+  province_code: "517"
+  code: "51730"
+  name: "Ragay"
+-
+  id: 624
+  region_code: "05"
+  province_code: "517"
+  code: "51731"
+  name: "Sagñay"
+-
+  id: 625
+  region_code: "05"
+  province_code: "517"
+  code: "51732"
+  name: "San Fernando"
+-
+  id: 626
+  region_code: "05"
+  province_code: "517"
+  code: "51733"
+  name: "San Jose"
+-
+  id: 627
+  region_code: "05"
+  province_code: "517"
+  code: "51734"
+  name: "Sipocot"
+-
+  id: 628
+  region_code: "05"
+  province_code: "517"
+  code: "51735"
+  name: "Siruma"
+-
+  id: 629
+  region_code: "05"
+  province_code: "517"
+  code: "51736"
+  name: "Tigaon"
+-
+  id: 630
+  region_code: "05"
+  province_code: "517"
+  code: "51737"
+  name: "Tinambac"
+-
+  id: 631
+  region_code: "05"
+  province_code: "520"
+  code: "52001"
+  name: "Bagamanoc"
+-
+  id: 632
+  region_code: "05"
+  province_code: "520"
+  code: "52002"
+  name: "Baras"
+-
+  id: 633
+  region_code: "05"
+  province_code: "520"
+  code: "52003"
+  name: "Bato"
+-
+  id: 634
+  region_code: "05"
+  province_code: "520"
+  code: "52004"
+  name: "Caramoran"
+-
+  id: 635
+  region_code: "05"
+  province_code: "520"
+  code: "52005"
+  name: "Gigmoto"
+-
+  id: 636
+  region_code: "05"
+  province_code: "520"
+  code: "52006"
+  name: "Pandan"
+-
+  id: 637
+  region_code: "05"
+  province_code: "520"
+  code: "52007"
+  name: "Panganiban (Payo)"
+-
+  id: 638
+  region_code: "05"
+  province_code: "520"
+  code: "52008"
+  name: "San Andres (Calolbon)"
+-
+  id: 639
+  region_code: "05"
+  province_code: "520"
+  code: "52009"
+  name: "San Miguel"
+-
+  id: 640
+  region_code: "05"
+  province_code: "520"
+  code: "52010"
+  name: "Viga"
+-
+  id: 641
+  region_code: "05"
+  province_code: "520"
+  code: "52011"
+  name: "Virac (Capital)"
+-
+  id: 642
+  region_code: "05"
+  province_code: "541"
+  code: "54101"
+  name: "Aroroy"
+-
+  id: 643
+  region_code: "05"
+  province_code: "541"
+  code: "54102"
+  name: "Baleno"
+-
+  id: 644
+  region_code: "05"
+  province_code: "541"
+  code: "54103"
+  name: "Balud"
+-
+  id: 645
+  region_code: "05"
+  province_code: "541"
+  code: "54104"
+  name: "Batuan"
+-
+  id: 646
+  region_code: "05"
+  province_code: "541"
+  code: "54105"
+  name: "Cataingan"
+-
+  id: 647
+  region_code: "05"
+  province_code: "541"
+  code: "54106"
+  name: "Cawayan"
+-
+  id: 648
+  region_code: "05"
+  province_code: "541"
+  code: "54107"
+  name: "Claveria"
+-
+  id: 649
+  region_code: "05"
+  province_code: "541"
+  code: "54108"
+  name: "Dimasalang"
+-
+  id: 650
+  region_code: "05"
+  province_code: "541"
+  code: "54109"
+  name: "Esperanza"
+-
+  id: 651
+  region_code: "05"
+  province_code: "541"
+  code: "54110"
+  name: "Mandaon"
+-
+  id: 652
+  region_code: "05"
+  province_code: "541"
+  code: "54111"
+  name: "City of Masbate (Capital)"
+-
+  id: 653
+  region_code: "05"
+  province_code: "541"
+  code: "54112"
+  name: "Milagros"
+-
+  id: 654
+  region_code: "05"
+  province_code: "541"
+  code: "54113"
+  name: "Mobo"
+-
+  id: 655
+  region_code: "05"
+  province_code: "541"
+  code: "54114"
+  name: "Monreal"
+-
+  id: 656
+  region_code: "05"
+  province_code: "541"
+  code: "54115"
+  name: "Palanas"
+-
+  id: 657
+  region_code: "05"
+  province_code: "541"
+  code: "54116"
+  name: "Pio V. Corpuz (Limbuhan)"
+-
+  id: 658
+  region_code: "05"
+  province_code: "541"
+  code: "54117"
+  name: "Placer"
+-
+  id: 659
+  region_code: "05"
+  province_code: "541"
+  code: "54118"
+  name: "San Fernando"
+-
+  id: 660
+  region_code: "05"
+  province_code: "541"
+  code: "54119"
+  name: "San Jacinto"
+-
+  id: 661
+  region_code: "05"
+  province_code: "541"
+  code: "54120"
+  name: "San Pascual"
+-
+  id: 662
+  region_code: "05"
+  province_code: "541"
+  code: "54121"
+  name: "Uson"
+-
+  id: 663
+  region_code: "05"
+  province_code: "562"
+  code: "56202"
+  name: "Barcelona"
+-
+  id: 664
+  region_code: "05"
+  province_code: "562"
+  code: "56203"
+  name: "Bulan"
+-
+  id: 665
+  region_code: "05"
+  province_code: "562"
+  code: "56204"
+  name: "Bulusan"
+-
+  id: 666
+  region_code: "05"
+  province_code: "562"
+  code: "56205"
+  name: "Casiguran"
+-
+  id: 667
+  region_code: "05"
+  province_code: "562"
+  code: "56206"
+  name: "Castilla"
+-
+  id: 668
+  region_code: "05"
+  province_code: "562"
+  code: "56207"
+  name: "Donsol"
+-
+  id: 669
+  region_code: "05"
+  province_code: "562"
+  code: "56208"
+  name: "Gubat"
+-
+  id: 670
+  region_code: "05"
+  province_code: "562"
+  code: "56209"
+  name: "Irosin"
+-
+  id: 671
+  region_code: "05"
+  province_code: "562"
+  code: "56210"
+  name: "Juban"
+-
+  id: 672
+  region_code: "05"
+  province_code: "562"
+  code: "56211"
+  name: "Magallanes"
+-
+  id: 673
+  region_code: "05"
+  province_code: "562"
+  code: "56212"
+  name: "Matnog"
+-
+  id: 674
+  region_code: "05"
+  province_code: "562"
+  code: "56213"
+  name: "Pilar"
+-
+  id: 675
+  region_code: "05"
+  province_code: "562"
+  code: "56214"
+  name: "Prieto Diaz"
+-
+  id: 676
+  region_code: "05"
+  province_code: "562"
+  code: "56215"
+  name: "Santa Magdalena"
+-
+  id: 677
+  region_code: "05"
+  province_code: "562"
+  code: "56216"
+  name: "City of Sorsogon (Capital)"
+-
+  id: 678
+  region_code: "06"
+  province_code: "604"
+  code: "60401"
+  name: "Altavas"
+-
+  id: 679
+  region_code: "06"
+  province_code: "604"
+  code: "60402"
+  name: "Balete"
+-
+  id: 680
+  region_code: "06"
+  province_code: "604"
+  code: "60403"
+  name: "Banga"
+-
+  id: 681
+  region_code: "06"
+  province_code: "604"
+  code: "60404"
+  name: "Batan"
+-
+  id: 682
+  region_code: "06"
+  province_code: "604"
+  code: "60405"
+  name: "Buruanga"
+-
+  id: 683
+  region_code: "06"
+  province_code: "604"
+  code: "60406"
+  name: "Ibajay"
+-
+  id: 684
+  region_code: "06"
+  province_code: "604"
+  code: "60407"
+  name: "Kalibo (Capital)"
+-
+  id: 685
+  region_code: "06"
+  province_code: "604"
+  code: "60408"
+  name: "Lezo"
+-
+  id: 686
+  region_code: "06"
+  province_code: "604"
+  code: "60409"
+  name: "Libacao"
+-
+  id: 687
+  region_code: "06"
+  province_code: "604"
+  code: "60410"
+  name: "Madalag"
+-
+  id: 688
+  region_code: "06"
+  province_code: "604"
+  code: "60411"
+  name: "Makato"
+-
+  id: 689
+  region_code: "06"
+  province_code: "604"
+  code: "60412"
+  name: "Malay"
+-
+  id: 690
+  region_code: "06"
+  province_code: "604"
+  code: "60413"
+  name: "Malinao"
+-
+  id: 691
+  region_code: "06"
+  province_code: "604"
+  code: "60414"
+  name: "Nabas"
+-
+  id: 692
+  region_code: "06"
+  province_code: "604"
+  code: "60415"
+  name: "New Washington"
+-
+  id: 693
+  region_code: "06"
+  province_code: "604"
+  code: "60416"
+  name: "Numancia"
+-
+  id: 694
+  region_code: "06"
+  province_code: "604"
+  code: "60417"
+  name: "Tangalan"
+-
+  id: 695
+  region_code: "06"
+  province_code: "606"
+  code: "60601"
+  name: "Anini-Y"
+-
+  id: 696
+  region_code: "06"
+  province_code: "606"
+  code: "60602"
+  name: "Barbaza"
+-
+  id: 697
+  region_code: "06"
+  province_code: "606"
+  code: "60603"
+  name: "Belison"
+-
+  id: 698
+  region_code: "06"
+  province_code: "606"
+  code: "60604"
+  name: "Bugasong"
+-
+  id: 699
+  region_code: "06"
+  province_code: "606"
+  code: "60605"
+  name: "Caluya"
+-
+  id: 700
+  region_code: "06"
+  province_code: "606"
+  code: "60606"
+  name: "Culasi"
+-
+  id: 701
+  region_code: "06"
+  province_code: "606"
+  code: "60607"
+  name: "Tobias Fornier (Dao)"
+-
+  id: 702
+  region_code: "06"
+  province_code: "606"
+  code: "60608"
+  name: "Hamtic"
+-
+  id: 703
+  region_code: "06"
+  province_code: "606"
+  code: "60609"
+  name: "Laua-An"
+-
+  id: 704
+  region_code: "06"
+  province_code: "606"
+  code: "60610"
+  name: "Libertad"
+-
+  id: 705
+  region_code: "06"
+  province_code: "606"
+  code: "60611"
+  name: "Pandan"
+-
+  id: 706
+  region_code: "06"
+  province_code: "606"
+  code: "60612"
+  name: "Patnongon"
+-
+  id: 707
+  region_code: "06"
+  province_code: "606"
+  code: "60613"
+  name: "San Jose (Capital)"
+-
+  id: 708
+  region_code: "06"
+  province_code: "606"
+  code: "60614"
+  name: "San Remigio"
+-
+  id: 709
+  region_code: "06"
+  province_code: "606"
+  code: "60615"
+  name: "Sebaste"
+-
+  id: 710
+  region_code: "06"
+  province_code: "606"
+  code: "60616"
+  name: "Sibalom"
+-
+  id: 711
+  region_code: "06"
+  province_code: "606"
+  code: "60617"
+  name: "Tibiao"
+-
+  id: 712
+  region_code: "06"
+  province_code: "606"
+  code: "60618"
+  name: "Valderrama"
+-
+  id: 713
+  region_code: "06"
+  province_code: "619"
+  code: "61901"
+  name: "Cuartero"
+-
+  id: 714
+  region_code: "06"
+  province_code: "619"
+  code: "61902"
+  name: "Dao"
+-
+  id: 715
+  region_code: "06"
+  province_code: "619"
+  code: "61903"
+  name: "Dumalag"
+-
+  id: 716
+  region_code: "06"
+  province_code: "619"
+  code: "61904"
+  name: "Dumarao"
+-
+  id: 717
+  region_code: "06"
+  province_code: "619"
+  code: "61905"
+  name: "Ivisan"
+-
+  id: 718
+  region_code: "06"
+  province_code: "619"
+  code: "61906"
+  name: "Jamindan"
+-
+  id: 719
+  region_code: "06"
+  province_code: "619"
+  code: "61907"
+  name: "Ma-Ayon"
+-
+  id: 720
+  region_code: "06"
+  province_code: "619"
+  code: "61908"
+  name: "Mambusao"
+-
+  id: 721
+  region_code: "06"
+  province_code: "619"
+  code: "61909"
+  name: "Panay"
+-
+  id: 722
+  region_code: "06"
+  province_code: "619"
+  code: "61910"
+  name: "Panitan"
+-
+  id: 723
+  region_code: "06"
+  province_code: "619"
+  code: "61911"
+  name: "Pilar"
+-
+  id: 724
+  region_code: "06"
+  province_code: "619"
+  code: "61912"
+  name: "Pontevedra"
+-
+  id: 725
+  region_code: "06"
+  province_code: "619"
+  code: "61913"
+  name: "President Roxas"
+-
+  id: 726
+  region_code: "06"
+  province_code: "619"
+  code: "61914"
+  name: "Roxas City (Capital)"
+-
+  id: 727
+  region_code: "06"
+  province_code: "619"
+  code: "61915"
+  name: "Sapi-An"
+-
+  id: 728
+  region_code: "06"
+  province_code: "619"
+  code: "61916"
+  name: "Sigma"
+-
+  id: 729
+  region_code: "06"
+  province_code: "619"
+  code: "61917"
+  name: "Tapaz"
+-
+  id: 730
+  region_code: "06"
+  province_code: "630"
+  code: "63001"
+  name: "Ajuy"
+-
+  id: 731
+  region_code: "06"
+  province_code: "630"
+  code: "63002"
+  name: "Alimodian"
+-
+  id: 732
+  region_code: "06"
+  province_code: "630"
+  code: "63003"
+  name: "Anilao"
+-
+  id: 733
+  region_code: "06"
+  province_code: "630"
+  code: "63004"
+  name: "Badiangan"
+-
+  id: 734
+  region_code: "06"
+  province_code: "630"
+  code: "63005"
+  name: "Balasan"
+-
+  id: 735
+  region_code: "06"
+  province_code: "630"
+  code: "63006"
+  name: "Banate"
+-
+  id: 736
+  region_code: "06"
+  province_code: "630"
+  code: "63007"
+  name: "Barotac Nuevo"
+-
+  id: 737
+  region_code: "06"
+  province_code: "630"
+  code: "63008"
+  name: "Barotac Viejo"
+-
+  id: 738
+  region_code: "06"
+  province_code: "630"
+  code: "63009"
+  name: "Batad"
+-
+  id: 739
+  region_code: "06"
+  province_code: "630"
+  code: "63010"
+  name: "Bingawan"
+-
+  id: 740
+  region_code: "06"
+  province_code: "630"
+  code: "63012"
+  name: "Cabatuan"
+-
+  id: 741
+  region_code: "06"
+  province_code: "630"
+  code: "63013"
+  name: "Calinog"
+-
+  id: 742
+  region_code: "06"
+  province_code: "630"
+  code: "63014"
+  name: "Carles"
+-
+  id: 743
+  region_code: "06"
+  province_code: "630"
+  code: "63015"
+  name: "Concepcion"
+-
+  id: 744
+  region_code: "06"
+  province_code: "630"
+  code: "63016"
+  name: "Dingle"
+-
+  id: 745
+  region_code: "06"
+  province_code: "630"
+  code: "63017"
+  name: "Dueñas"
+-
+  id: 746
+  region_code: "06"
+  province_code: "630"
+  code: "63018"
+  name: "Dumangas"
+-
+  id: 747
+  region_code: "06"
+  province_code: "630"
+  code: "63019"
+  name: "Estancia"
+-
+  id: 748
+  region_code: "06"
+  province_code: "630"
+  code: "63020"
+  name: "Guimbal"
+-
+  id: 749
+  region_code: "06"
+  province_code: "630"
+  code: "63021"
+  name: "Igbaras"
+-
+  id: 750
+  region_code: "06"
+  province_code: "630"
+  code: "63022"
+  name: "Iloilo City (Capital)"
+-
+  id: 751
+  region_code: "06"
+  province_code: "630"
+  code: "63023"
+  name: "Janiuay"
+-
+  id: 752
+  region_code: "06"
+  province_code: "630"
+  code: "63025"
+  name: "Lambunao"
+-
+  id: 753
+  region_code: "06"
+  province_code: "630"
+  code: "63026"
+  name: "Leganes"
+-
+  id: 754
+  region_code: "06"
+  province_code: "630"
+  code: "63027"
+  name: "Lemery"
+-
+  id: 755
+  region_code: "06"
+  province_code: "630"
+  code: "63028"
+  name: "Leon"
+-
+  id: 756
+  region_code: "06"
+  province_code: "630"
+  code: "63029"
+  name: "Maasin"
+-
+  id: 757
+  region_code: "06"
+  province_code: "630"
+  code: "63030"
+  name: "Miagao"
+-
+  id: 758
+  region_code: "06"
+  province_code: "630"
+  code: "63031"
+  name: "Mina"
+-
+  id: 759
+  region_code: "06"
+  province_code: "630"
+  code: "63032"
+  name: "New Lucena"
+-
+  id: 760
+  region_code: "06"
+  province_code: "630"
+  code: "63034"
+  name: "Oton"
+-
+  id: 761
+  region_code: "06"
+  province_code: "630"
+  code: "63035"
+  name: "City of Passi"
+-
+  id: 762
+  region_code: "06"
+  province_code: "630"
+  code: "63036"
+  name: "Pavia"
+-
+  id: 763
+  region_code: "06"
+  province_code: "630"
+  code: "63037"
+  name: "Pototan"
+-
+  id: 764
+  region_code: "06"
+  province_code: "630"
+  code: "63038"
+  name: "San Dionisio"
+-
+  id: 765
+  region_code: "06"
+  province_code: "630"
+  code: "63039"
+  name: "San Enrique"
+-
+  id: 766
+  region_code: "06"
+  province_code: "630"
+  code: "63040"
+  name: "San Joaquin"
+-
+  id: 767
+  region_code: "06"
+  province_code: "630"
+  code: "63041"
+  name: "San Miguel"
+-
+  id: 768
+  region_code: "06"
+  province_code: "630"
+  code: "63042"
+  name: "San Rafael"
+-
+  id: 769
+  region_code: "06"
+  province_code: "630"
+  code: "63043"
+  name: "Santa Barbara"
+-
+  id: 770
+  region_code: "06"
+  province_code: "630"
+  code: "63044"
+  name: "Sara"
+-
+  id: 771
+  region_code: "06"
+  province_code: "630"
+  code: "63045"
+  name: "Tigbauan"
+-
+  id: 772
+  region_code: "06"
+  province_code: "630"
+  code: "63046"
+  name: "Tubungan"
+-
+  id: 773
+  region_code: "06"
+  province_code: "630"
+  code: "63047"
+  name: "Zarraga"
+-
+  id: 774
+  region_code: "06"
+  province_code: "645"
+  code: "64501"
+  name: "Bacolod City (Capital)"
+-
+  id: 775
+  region_code: "06"
+  province_code: "645"
+  code: "64502"
+  name: "Bago City"
+-
+  id: 776
+  region_code: "06"
+  province_code: "645"
+  code: "64503"
+  name: "Binalbagan"
+-
+  id: 777
+  region_code: "06"
+  province_code: "645"
+  code: "64504"
+  name: "Cadiz City"
+-
+  id: 778
+  region_code: "06"
+  province_code: "645"
+  code: "64505"
+  name: "Calatrava"
+-
+  id: 779
+  region_code: "06"
+  province_code: "645"
+  code: "64506"
+  name: "Candoni"
+-
+  id: 780
+  region_code: "06"
+  province_code: "645"
+  code: "64507"
+  name: "Cauayan"
+-
+  id: 781
+  region_code: "06"
+  province_code: "645"
+  code: "64508"
+  name: "Enrique B. Magalona (Saravia)"
+-
+  id: 782
+  region_code: "06"
+  province_code: "645"
+  code: "64509"
+  name: "City of Escalante"
+-
+  id: 783
+  region_code: "06"
+  province_code: "645"
+  code: "64510"
+  name: "City of Himamaylan"
+-
+  id: 784
+  region_code: "06"
+  province_code: "645"
+  code: "64511"
+  name: "Hinigaran"
+-
+  id: 785
+  region_code: "06"
+  province_code: "645"
+  code: "64512"
+  name: "Hinoba-An (Asia)"
+-
+  id: 786
+  region_code: "06"
+  province_code: "645"
+  code: "64513"
+  name: "Ilog"
+-
+  id: 787
+  region_code: "06"
+  province_code: "645"
+  code: "64514"
+  name: "Isabela"
+-
+  id: 788
+  region_code: "06"
+  province_code: "645"
+  code: "64515"
+  name: "City of Kabankalan"
+-
+  id: 789
+  region_code: "06"
+  province_code: "645"
+  code: "64516"
+  name: "La Carlota City"
+-
+  id: 790
+  region_code: "06"
+  province_code: "645"
+  code: "64517"
+  name: "La Castellana"
+-
+  id: 791
+  region_code: "06"
+  province_code: "645"
+  code: "64518"
+  name: "Manapla"
+-
+  id: 792
+  region_code: "06"
+  province_code: "645"
+  code: "64519"
+  name: "Moises Padilla (Magallon)"
+-
+  id: 793
+  region_code: "06"
+  province_code: "645"
+  code: "64520"
+  name: "Murcia"
+-
+  id: 794
+  region_code: "06"
+  province_code: "645"
+  code: "64521"
+  name: "Pontevedra"
+-
+  id: 795
+  region_code: "06"
+  province_code: "645"
+  code: "64522"
+  name: "Pulupandan"
+-
+  id: 796
+  region_code: "06"
+  province_code: "645"
+  code: "64523"
+  name: "Sagay City"
+-
+  id: 797
+  region_code: "06"
+  province_code: "645"
+  code: "64524"
+  name: "San Carlos City"
+-
+  id: 798
+  region_code: "06"
+  province_code: "645"
+  code: "64525"
+  name: "San Enrique"
+-
+  id: 799
+  region_code: "06"
+  province_code: "645"
+  code: "64526"
+  name: "Silay City"
+-
+  id: 800
+  region_code: "06"
+  province_code: "645"
+  code: "64527"
+  name: "City of Sipalay"
+-
+  id: 801
+  region_code: "06"
+  province_code: "645"
+  code: "64528"
+  name: "City of Talisay"
+-
+  id: 802
+  region_code: "06"
+  province_code: "645"
+  code: "64529"
+  name: "Toboso"
+-
+  id: 803
+  region_code: "06"
+  province_code: "645"
+  code: "64530"
+  name: "Valladolid"
+-
+  id: 804
+  region_code: "06"
+  province_code: "645"
+  code: "64531"
+  name: "City of Victorias"
+-
+  id: 805
+  region_code: "06"
+  province_code: "645"
+  code: "64532"
+  name: "Salvador Benedicto"
+-
+  id: 806
+  region_code: "06"
+  province_code: "679"
+  code: "67901"
+  name: "Buenavista"
+-
+  id: 807
+  region_code: "06"
+  province_code: "679"
+  code: "67902"
+  name: "Jordan (Capital)"
+-
+  id: 808
+  region_code: "06"
+  province_code: "679"
+  code: "67903"
+  name: "Nueva Valencia"
+-
+  id: 809
+  region_code: "06"
+  province_code: "679"
+  code: "67904"
+  name: "San Lorenzo"
+-
+  id: 810
+  region_code: "06"
+  province_code: "679"
+  code: "67905"
+  name: "Sibunag"
+-
+  id: 811
+  region_code: "07"
+  province_code: "712"
+  code: "71201"
+  name: "Alburquerque"
+-
+  id: 812
+  region_code: "07"
+  province_code: "712"
+  code: "71202"
+  name: "Alicia"
+-
+  id: 813
+  region_code: "07"
+  province_code: "712"
+  code: "71203"
+  name: "Anda"
+-
+  id: 814
+  region_code: "07"
+  province_code: "712"
+  code: "71204"
+  name: "Antequera"
+-
+  id: 815
+  region_code: "07"
+  province_code: "712"
+  code: "71205"
+  name: "Baclayon"
+-
+  id: 816
+  region_code: "07"
+  province_code: "712"
+  code: "71206"
+  name: "Balilihan"
+-
+  id: 817
+  region_code: "07"
+  province_code: "712"
+  code: "71207"
+  name: "Batuan"
+-
+  id: 818
+  region_code: "07"
+  province_code: "712"
+  code: "71208"
+  name: "Bilar"
+-
+  id: 819
+  region_code: "07"
+  province_code: "712"
+  code: "71209"
+  name: "Buenavista"
+-
+  id: 820
+  region_code: "07"
+  province_code: "712"
+  code: "71210"
+  name: "Calape"
+-
+  id: 821
+  region_code: "07"
+  province_code: "712"
+  code: "71211"
+  name: "Candijay"
+-
+  id: 822
+  region_code: "07"
+  province_code: "712"
+  code: "71212"
+  name: "Carmen"
+-
+  id: 823
+  region_code: "07"
+  province_code: "712"
+  code: "71213"
+  name: "Catigbian"
+-
+  id: 824
+  region_code: "07"
+  province_code: "712"
+  code: "71214"
+  name: "Clarin"
+-
+  id: 825
+  region_code: "07"
+  province_code: "712"
+  code: "71215"
+  name: "Corella"
+-
+  id: 826
+  region_code: "07"
+  province_code: "712"
+  code: "71216"
+  name: "Cortes"
+-
+  id: 827
+  region_code: "07"
+  province_code: "712"
+  code: "71217"
+  name: "Dagohoy"
+-
+  id: 828
+  region_code: "07"
+  province_code: "712"
+  code: "71218"
+  name: "Danao"
+-
+  id: 829
+  region_code: "07"
+  province_code: "712"
+  code: "71219"
+  name: "Dauis"
+-
+  id: 830
+  region_code: "07"
+  province_code: "712"
+  code: "71220"
+  name: "Dimiao"
+-
+  id: 831
+  region_code: "07"
+  province_code: "712"
+  code: "71221"
+  name: "Duero"
+-
+  id: 832
+  region_code: "07"
+  province_code: "712"
+  code: "71222"
+  name: "Garcia Hernandez"
+-
+  id: 833
+  region_code: "07"
+  province_code: "712"
+  code: "71223"
+  name: "Guindulman"
+-
+  id: 834
+  region_code: "07"
+  province_code: "712"
+  code: "71224"
+  name: "Inabanga"
+-
+  id: 835
+  region_code: "07"
+  province_code: "712"
+  code: "71225"
+  name: "Jagna"
+-
+  id: 836
+  region_code: "07"
+  province_code: "712"
+  code: "71226"
+  name: "Jetafe"
+-
+  id: 837
+  region_code: "07"
+  province_code: "712"
+  code: "71227"
+  name: "Lila"
+-
+  id: 838
+  region_code: "07"
+  province_code: "712"
+  code: "71228"
+  name: "Loay"
+-
+  id: 839
+  region_code: "07"
+  province_code: "712"
+  code: "71229"
+  name: "Loboc"
+-
+  id: 840
+  region_code: "07"
+  province_code: "712"
+  code: "71230"
+  name: "Loon"
+-
+  id: 841
+  region_code: "07"
+  province_code: "712"
+  code: "71231"
+  name: "Mabini"
+-
+  id: 842
+  region_code: "07"
+  province_code: "712"
+  code: "71232"
+  name: "Maribojoc"
+-
+  id: 843
+  region_code: "07"
+  province_code: "712"
+  code: "71233"
+  name: "Panglao"
+-
+  id: 844
+  region_code: "07"
+  province_code: "712"
+  code: "71234"
+  name: "Pilar"
+-
+  id: 845
+  region_code: "07"
+  province_code: "712"
+  code: "71235"
+  name: "Pres. Carlos P. Garcia (Pitogo)"
+-
+  id: 846
+  region_code: "07"
+  province_code: "712"
+  code: "71236"
+  name: "Sagbayan (Borja)"
+-
+  id: 847
+  region_code: "07"
+  province_code: "712"
+  code: "71237"
+  name: "San Isidro"
+-
+  id: 848
+  region_code: "07"
+  province_code: "712"
+  code: "71238"
+  name: "San Miguel"
+-
+  id: 849
+  region_code: "07"
+  province_code: "712"
+  code: "71239"
+  name: "Sevilla"
+-
+  id: 850
+  region_code: "07"
+  province_code: "712"
+  code: "71240"
+  name: "Sierra Bullones"
+-
+  id: 851
+  region_code: "07"
+  province_code: "712"
+  code: "71241"
+  name: "Sikatuna"
+-
+  id: 852
+  region_code: "07"
+  province_code: "712"
+  code: "71242"
+  name: "Tagbilaran City (Capital)"
+-
+  id: 853
+  region_code: "07"
+  province_code: "712"
+  code: "71243"
+  name: "Talibon"
+-
+  id: 854
+  region_code: "07"
+  province_code: "712"
+  code: "71244"
+  name: "Trinidad"
+-
+  id: 855
+  region_code: "07"
+  province_code: "712"
+  code: "71245"
+  name: "Tubigon"
+-
+  id: 856
+  region_code: "07"
+  province_code: "712"
+  code: "71246"
+  name: "Ubay"
+-
+  id: 857
+  region_code: "07"
+  province_code: "712"
+  code: "71247"
+  name: "Valencia"
+-
+  id: 858
+  region_code: "07"
+  province_code: "712"
+  code: "71248"
+  name: "Bien Unido"
+-
+  id: 859
+  region_code: "07"
+  province_code: "722"
+  code: "72201"
+  name: "Alcantara"
+-
+  id: 860
+  region_code: "07"
+  province_code: "722"
+  code: "72202"
+  name: "Alcoy"
+-
+  id: 861
+  region_code: "07"
+  province_code: "722"
+  code: "72203"
+  name: "Alegria"
+-
+  id: 862
+  region_code: "07"
+  province_code: "722"
+  code: "72204"
+  name: "Aloguinsan"
+-
+  id: 863
+  region_code: "07"
+  province_code: "722"
+  code: "72205"
+  name: "Argao"
+-
+  id: 864
+  region_code: "07"
+  province_code: "722"
+  code: "72206"
+  name: "Asturias"
+-
+  id: 865
+  region_code: "07"
+  province_code: "722"
+  code: "72207"
+  name: "Badian"
+-
+  id: 866
+  region_code: "07"
+  province_code: "722"
+  code: "72208"
+  name: "Balamban"
+-
+  id: 867
+  region_code: "07"
+  province_code: "722"
+  code: "72209"
+  name: "Bantayan"
+-
+  id: 868
+  region_code: "07"
+  province_code: "722"
+  code: "72210"
+  name: "Barili"
+-
+  id: 869
+  region_code: "07"
+  province_code: "722"
+  code: "72211"
+  name: "City of Bogo"
+-
+  id: 870
+  region_code: "07"
+  province_code: "722"
+  code: "72212"
+  name: "Boljoon"
+-
+  id: 871
+  region_code: "07"
+  province_code: "722"
+  code: "72213"
+  name: "Borbon"
+-
+  id: 872
+  region_code: "07"
+  province_code: "722"
+  code: "72214"
+  name: "City of Carcar"
+-
+  id: 873
+  region_code: "07"
+  province_code: "722"
+  code: "72215"
+  name: "Carmen"
+-
+  id: 874
+  region_code: "07"
+  province_code: "722"
+  code: "72216"
+  name: "Catmon"
+-
+  id: 875
+  region_code: "07"
+  province_code: "722"
+  code: "72217"
+  name: "Cebu City (Capital)"
+-
+  id: 876
+  region_code: "07"
+  province_code: "722"
+  code: "72218"
+  name: "Compostela"
+-
+  id: 877
+  region_code: "07"
+  province_code: "722"
+  code: "72219"
+  name: "Consolacion"
+-
+  id: 878
+  region_code: "07"
+  province_code: "722"
+  code: "72220"
+  name: "Cordova"
+-
+  id: 879
+  region_code: "07"
+  province_code: "722"
+  code: "72221"
+  name: "Daanbantayan"
+-
+  id: 880
+  region_code: "07"
+  province_code: "722"
+  code: "72222"
+  name: "Dalaguete"
+-
+  id: 881
+  region_code: "07"
+  province_code: "722"
+  code: "72223"
+  name: "Danao City"
+-
+  id: 882
+  region_code: "07"
+  province_code: "722"
+  code: "72224"
+  name: "Dumanjug"
+-
+  id: 883
+  region_code: "07"
+  province_code: "722"
+  code: "72225"
+  name: "Ginatilan"
+-
+  id: 884
+  region_code: "07"
+  province_code: "722"
+  code: "72226"
+  name: "Lapu-Lapu City (Opon)"
+-
+  id: 885
+  region_code: "07"
+  province_code: "722"
+  code: "72227"
+  name: "Liloan"
+-
+  id: 886
+  region_code: "07"
+  province_code: "722"
+  code: "72228"
+  name: "Madridejos"
+-
+  id: 887
+  region_code: "07"
+  province_code: "722"
+  code: "72229"
+  name: "Malabuyoc"
+-
+  id: 888
+  region_code: "07"
+  province_code: "722"
+  code: "72230"
+  name: "Mandaue City"
+-
+  id: 889
+  region_code: "07"
+  province_code: "722"
+  code: "72231"
+  name: "Medellin"
+-
+  id: 890
+  region_code: "07"
+  province_code: "722"
+  code: "72232"
+  name: "Minglanilla"
+-
+  id: 891
+  region_code: "07"
+  province_code: "722"
+  code: "72233"
+  name: "Moalboal"
+-
+  id: 892
+  region_code: "07"
+  province_code: "722"
+  code: "72234"
+  name: "City of Naga"
+-
+  id: 893
+  region_code: "07"
+  province_code: "722"
+  code: "72235"
+  name: "Oslob"
+-
+  id: 894
+  region_code: "07"
+  province_code: "722"
+  code: "72236"
+  name: "Pilar"
+-
+  id: 895
+  region_code: "07"
+  province_code: "722"
+  code: "72237"
+  name: "Pinamungahan"
+-
+  id: 896
+  region_code: "07"
+  province_code: "722"
+  code: "72238"
+  name: "Poro"
+-
+  id: 897
+  region_code: "07"
+  province_code: "722"
+  code: "72239"
+  name: "Ronda"
+-
+  id: 898
+  region_code: "07"
+  province_code: "722"
+  code: "72240"
+  name: "Samboan"
+-
+  id: 899
+  region_code: "07"
+  province_code: "722"
+  code: "72241"
+  name: "San Fernando"
+-
+  id: 900
+  region_code: "07"
+  province_code: "722"
+  code: "72242"
+  name: "San Francisco"
+-
+  id: 901
+  region_code: "07"
+  province_code: "722"
+  code: "72243"
+  name: "San Remigio"
+-
+  id: 902
+  region_code: "07"
+  province_code: "722"
+  code: "72244"
+  name: "Santa Fe"
+-
+  id: 903
+  region_code: "07"
+  province_code: "722"
+  code: "72245"
+  name: "Santander"
+-
+  id: 904
+  region_code: "07"
+  province_code: "722"
+  code: "72246"
+  name: "Sibonga"
+-
+  id: 905
+  region_code: "07"
+  province_code: "722"
+  code: "72247"
+  name: "Sogod"
+-
+  id: 906
+  region_code: "07"
+  province_code: "722"
+  code: "72248"
+  name: "Tabogon"
+-
+  id: 907
+  region_code: "07"
+  province_code: "722"
+  code: "72249"
+  name: "Tabuelan"
+-
+  id: 908
+  region_code: "07"
+  province_code: "722"
+  code: "72250"
+  name: "City of Talisay"
+-
+  id: 909
+  region_code: "07"
+  province_code: "722"
+  code: "72251"
+  name: "Toledo City"
+-
+  id: 910
+  region_code: "07"
+  province_code: "722"
+  code: "72252"
+  name: "Tuburan"
+-
+  id: 911
+  region_code: "07"
+  province_code: "722"
+  code: "72253"
+  name: "Tudela"
+-
+  id: 912
+  region_code: "07"
+  province_code: "746"
+  code: "74601"
+  name: "Amlan (Ayuquitan)"
+-
+  id: 913
+  region_code: "07"
+  province_code: "746"
+  code: "74602"
+  name: "Ayungon"
+-
+  id: 914
+  region_code: "07"
+  province_code: "746"
+  code: "74603"
+  name: "Bacong"
+-
+  id: 915
+  region_code: "07"
+  province_code: "746"
+  code: "74604"
+  name: "Bais City"
+-
+  id: 916
+  region_code: "07"
+  province_code: "746"
+  code: "74605"
+  name: "Basay"
+-
+  id: 917
+  region_code: "07"
+  province_code: "746"
+  code: "74606"
+  name: "City of Bayawan (Tulong)"
+-
+  id: 918
+  region_code: "07"
+  province_code: "746"
+  code: "74607"
+  name: "Bindoy (Payabon)"
+-
+  id: 919
+  region_code: "07"
+  province_code: "746"
+  code: "74608"
+  name: "Canlaon City"
+-
+  id: 920
+  region_code: "07"
+  province_code: "746"
+  code: "74609"
+  name: "Dauin"
+-
+  id: 921
+  region_code: "07"
+  province_code: "746"
+  code: "74610"
+  name: "Dumaguete City (Capital)"
+-
+  id: 922
+  region_code: "07"
+  province_code: "746"
+  code: "74611"
+  name: "City of Guihulngan"
+-
+  id: 923
+  region_code: "07"
+  province_code: "746"
+  code: "74612"
+  name: "Jimalalud"
+-
+  id: 924
+  region_code: "07"
+  province_code: "746"
+  code: "74613"
+  name: "La Libertad"
+-
+  id: 925
+  region_code: "07"
+  province_code: "746"
+  code: "74614"
+  name: "Mabinay"
+-
+  id: 926
+  region_code: "07"
+  province_code: "746"
+  code: "74615"
+  name: "Manjuyod"
+-
+  id: 927
+  region_code: "07"
+  province_code: "746"
+  code: "74616"
+  name: "Pamplona"
+-
+  id: 928
+  region_code: "07"
+  province_code: "746"
+  code: "74617"
+  name: "San Jose"
+-
+  id: 929
+  region_code: "07"
+  province_code: "746"
+  code: "74618"
+  name: "Santa Catalina"
+-
+  id: 930
+  region_code: "07"
+  province_code: "746"
+  code: "74619"
+  name: "Siaton"
+-
+  id: 931
+  region_code: "07"
+  province_code: "746"
+  code: "74620"
+  name: "Sibulan"
+-
+  id: 932
+  region_code: "07"
+  province_code: "746"
+  code: "74621"
+  name: "City of Tanjay"
+-
+  id: 933
+  region_code: "07"
+  province_code: "746"
+  code: "74622"
+  name: "Tayasan"
+-
+  id: 934
+  region_code: "07"
+  province_code: "746"
+  code: "74623"
+  name: "Valencia (Luzurriaga)"
+-
+  id: 935
+  region_code: "07"
+  province_code: "746"
+  code: "74624"
+  name: "Vallehermoso"
+-
+  id: 936
+  region_code: "07"
+  province_code: "746"
+  code: "74625"
+  name: "Zamboanguita"
+-
+  id: 937
+  region_code: "07"
+  province_code: "761"
+  code: "76101"
+  name: "Enrique Villanueva"
+-
+  id: 938
+  region_code: "07"
+  province_code: "761"
+  code: "76102"
+  name: "Larena"
+-
+  id: 939
+  region_code: "07"
+  province_code: "761"
+  code: "76103"
+  name: "Lazi"
+-
+  id: 940
+  region_code: "07"
+  province_code: "761"
+  code: "76104"
+  name: "Maria"
+-
+  id: 941
+  region_code: "07"
+  province_code: "761"
+  code: "76105"
+  name: "San Juan"
+-
+  id: 942
+  region_code: "07"
+  province_code: "761"
+  code: "76106"
+  name: "Siquijor (Capital)"
+-
+  id: 943
+  region_code: "08"
+  province_code: "826"
+  code: "82601"
+  name: "Arteche"
+-
+  id: 944
+  region_code: "08"
+  province_code: "826"
+  code: "82602"
+  name: "Balangiga"
+-
+  id: 945
+  region_code: "08"
+  province_code: "826"
+  code: "82603"
+  name: "Balangkayan"
+-
+  id: 946
+  region_code: "08"
+  province_code: "826"
+  code: "82604"
+  name: "City of Borongan (Capital)"
+-
+  id: 947
+  region_code: "08"
+  province_code: "826"
+  code: "82605"
+  name: "Can-Avid"
+-
+  id: 948
+  region_code: "08"
+  province_code: "826"
+  code: "82606"
+  name: "Dolores"
+-
+  id: 949
+  region_code: "08"
+  province_code: "826"
+  code: "82607"
+  name: "General Macarthur"
+-
+  id: 950
+  region_code: "08"
+  province_code: "826"
+  code: "82608"
+  name: "Giporlos"
+-
+  id: 951
+  region_code: "08"
+  province_code: "826"
+  code: "82609"
+  name: "Guiuan"
+-
+  id: 952
+  region_code: "08"
+  province_code: "826"
+  code: "82610"
+  name: "Hernani"
+-
+  id: 953
+  region_code: "08"
+  province_code: "826"
+  code: "82611"
+  name: "Jipapad"
+-
+  id: 954
+  region_code: "08"
+  province_code: "826"
+  code: "82612"
+  name: "Lawaan"
+-
+  id: 955
+  region_code: "08"
+  province_code: "826"
+  code: "82613"
+  name: "Llorente"
+-
+  id: 956
+  region_code: "08"
+  province_code: "826"
+  code: "82614"
+  name: "Maslog"
+-
+  id: 957
+  region_code: "08"
+  province_code: "826"
+  code: "82615"
+  name: "Maydolong"
+-
+  id: 958
+  region_code: "08"
+  province_code: "826"
+  code: "82616"
+  name: "Mercedes"
+-
+  id: 959
+  region_code: "08"
+  province_code: "826"
+  code: "82617"
+  name: "Oras"
+-
+  id: 960
+  region_code: "08"
+  province_code: "826"
+  code: "82618"
+  name: "Quinapondan"
+-
+  id: 961
+  region_code: "08"
+  province_code: "826"
+  code: "82619"
+  name: "Salcedo"
+-
+  id: 962
+  region_code: "08"
+  province_code: "826"
+  code: "82620"
+  name: "San Julian"
+-
+  id: 963
+  region_code: "08"
+  province_code: "826"
+  code: "82621"
+  name: "San Policarpo"
+-
+  id: 964
+  region_code: "08"
+  province_code: "826"
+  code: "82622"
+  name: "Sulat"
+-
+  id: 965
+  region_code: "08"
+  province_code: "826"
+  code: "82623"
+  name: "Taft"
+-
+  id: 966
+  region_code: "08"
+  province_code: "837"
+  code: "83701"
+  name: "Abuyog"
+-
+  id: 967
+  region_code: "08"
+  province_code: "837"
+  code: "83702"
+  name: "Alangalang"
+-
+  id: 968
+  region_code: "08"
+  province_code: "837"
+  code: "83703"
+  name: "Albuera"
+-
+  id: 969
+  region_code: "08"
+  province_code: "837"
+  code: "83705"
+  name: "Babatngon"
+-
+  id: 970
+  region_code: "08"
+  province_code: "837"
+  code: "83706"
+  name: "Barugo"
+-
+  id: 971
+  region_code: "08"
+  province_code: "837"
+  code: "83707"
+  name: "Bato"
+-
+  id: 972
+  region_code: "08"
+  province_code: "837"
+  code: "83708"
+  name: "City of Baybay"
+-
+  id: 973
+  region_code: "08"
+  province_code: "837"
+  code: "83710"
+  name: "Burauen"
+-
+  id: 974
+  region_code: "08"
+  province_code: "837"
+  code: "83713"
+  name: "Calubian"
+-
+  id: 975
+  region_code: "08"
+  province_code: "837"
+  code: "83714"
+  name: "Capoocan"
+-
+  id: 976
+  region_code: "08"
+  province_code: "837"
+  code: "83715"
+  name: "Carigara"
+-
+  id: 977
+  region_code: "08"
+  province_code: "837"
+  code: "83717"
+  name: "Dagami"
+-
+  id: 978
+  region_code: "08"
+  province_code: "837"
+  code: "83718"
+  name: "Dulag"
+-
+  id: 979
+  region_code: "08"
+  province_code: "837"
+  code: "83719"
+  name: "Hilongos"
+-
+  id: 980
+  region_code: "08"
+  province_code: "837"
+  code: "83720"
+  name: "Hindang"
+-
+  id: 981
+  region_code: "08"
+  province_code: "837"
+  code: "83721"
+  name: "Inopacan"
+-
+  id: 982
+  region_code: "08"
+  province_code: "837"
+  code: "83722"
+  name: "Isabel"
+-
+  id: 983
+  region_code: "08"
+  province_code: "837"
+  code: "83723"
+  name: "Jaro"
+-
+  id: 984
+  region_code: "08"
+  province_code: "837"
+  code: "83724"
+  name: "Javier (Bugho)"
+-
+  id: 985
+  region_code: "08"
+  province_code: "837"
+  code: "83725"
+  name: "Julita"
+-
+  id: 986
+  region_code: "08"
+  province_code: "837"
+  code: "83726"
+  name: "Kananga"
+-
+  id: 987
+  region_code: "08"
+  province_code: "837"
+  code: "83728"
+  name: "La Paz"
+-
+  id: 988
+  region_code: "08"
+  province_code: "837"
+  code: "83729"
+  name: "Leyte"
+-
+  id: 989
+  region_code: "08"
+  province_code: "837"
+  code: "83730"
+  name: "Macarthur"
+-
+  id: 990
+  region_code: "08"
+  province_code: "837"
+  code: "83731"
+  name: "Mahaplag"
+-
+  id: 991
+  region_code: "08"
+  province_code: "837"
+  code: "83733"
+  name: "Matag-Ob"
+-
+  id: 992
+  region_code: "08"
+  province_code: "837"
+  code: "83734"
+  name: "Matalom"
+-
+  id: 993
+  region_code: "08"
+  province_code: "837"
+  code: "83735"
+  name: "Mayorga"
+-
+  id: 994
+  region_code: "08"
+  province_code: "837"
+  code: "83736"
+  name: "Merida"
+-
+  id: 995
+  region_code: "08"
+  province_code: "837"
+  code: "83738"
+  name: "Ormoc City"
+-
+  id: 996
+  region_code: "08"
+  province_code: "837"
+  code: "83739"
+  name: "Palo"
+-
+  id: 997
+  region_code: "08"
+  province_code: "837"
+  code: "83740"
+  name: "Palompon"
+-
+  id: 998
+  region_code: "08"
+  province_code: "837"
+  code: "83741"
+  name: "Pastrana"
+-
+  id: 999
+  region_code: "08"
+  province_code: "837"
+  code: "83742"
+  name: "San Isidro"
+-
+  id: 1000
+  region_code: "08"
+  province_code: "837"
+  code: "83743"
+  name: "San Miguel"
+-
+  id: 1001
+  region_code: "08"
+  province_code: "837"
+  code: "83744"
+  name: "Santa Fe"
+-
+  id: 1002
+  region_code: "08"
+  province_code: "837"
+  code: "83745"
+  name: "Tabango"
+-
+  id: 1003
+  region_code: "08"
+  province_code: "837"
+  code: "83746"
+  name: "Tabontabon"
+-
+  id: 1004
+  region_code: "08"
+  province_code: "837"
+  code: "83747"
+  name: "Tacloban City (Capital)"
+-
+  id: 1005
+  region_code: "08"
+  province_code: "837"
+  code: "83748"
+  name: "Tanauan"
+-
+  id: 1006
+  region_code: "08"
+  province_code: "837"
+  code: "83749"
+  name: "Tolosa"
+-
+  id: 1007
+  region_code: "08"
+  province_code: "837"
+  code: "83750"
+  name: "Tunga"
+-
+  id: 1008
+  region_code: "08"
+  province_code: "837"
+  code: "83751"
+  name: "Villaba"
+-
+  id: 1009
+  region_code: "08"
+  province_code: "848"
+  code: "84801"
+  name: "Allen"
+-
+  id: 1010
+  region_code: "08"
+  province_code: "848"
+  code: "84802"
+  name: "Biri"
+-
+  id: 1011
+  region_code: "08"
+  province_code: "848"
+  code: "84803"
+  name: "Bobon"
+-
+  id: 1012
+  region_code: "08"
+  province_code: "848"
+  code: "84804"
+  name: "Capul"
+-
+  id: 1013
+  region_code: "08"
+  province_code: "848"
+  code: "84805"
+  name: "Catarman (Capital)"
+-
+  id: 1014
+  region_code: "08"
+  province_code: "848"
+  code: "84806"
+  name: "Catubig"
+-
+  id: 1015
+  region_code: "08"
+  province_code: "848"
+  code: "84807"
+  name: "Gamay"
+-
+  id: 1016
+  region_code: "08"
+  province_code: "848"
+  code: "84808"
+  name: "Laoang"
+-
+  id: 1017
+  region_code: "08"
+  province_code: "848"
+  code: "84809"
+  name: "Lapinig"
+-
+  id: 1018
+  region_code: "08"
+  province_code: "848"
+  code: "84810"
+  name: "Las Navas"
+-
+  id: 1019
+  region_code: "08"
+  province_code: "848"
+  code: "84811"
+  name: "Lavezares"
+-
+  id: 1020
+  region_code: "08"
+  province_code: "848"
+  code: "84812"
+  name: "Mapanas"
+-
+  id: 1021
+  region_code: "08"
+  province_code: "848"
+  code: "84813"
+  name: "Mondragon"
+-
+  id: 1022
+  region_code: "08"
+  province_code: "848"
+  code: "84814"
+  name: "Palapag"
+-
+  id: 1023
+  region_code: "08"
+  province_code: "848"
+  code: "84815"
+  name: "Pambujan"
+-
+  id: 1024
+  region_code: "08"
+  province_code: "848"
+  code: "84816"
+  name: "Rosario"
+-
+  id: 1025
+  region_code: "08"
+  province_code: "848"
+  code: "84817"
+  name: "San Antonio"
+-
+  id: 1026
+  region_code: "08"
+  province_code: "848"
+  code: "84818"
+  name: "San Isidro"
+-
+  id: 1027
+  region_code: "08"
+  province_code: "848"
+  code: "84819"
+  name: "San Jose"
+-
+  id: 1028
+  region_code: "08"
+  province_code: "848"
+  code: "84820"
+  name: "San Roque"
+-
+  id: 1029
+  region_code: "08"
+  province_code: "848"
+  code: "84821"
+  name: "San Vicente"
+-
+  id: 1030
+  region_code: "08"
+  province_code: "848"
+  code: "84822"
+  name: "Silvino Lobos"
+-
+  id: 1031
+  region_code: "08"
+  province_code: "848"
+  code: "84823"
+  name: "Victoria"
+-
+  id: 1032
+  region_code: "08"
+  province_code: "848"
+  code: "84824"
+  name: "Lope De Vega"
+-
+  id: 1033
+  region_code: "08"
+  province_code: "860"
+  code: "86001"
+  name: "Almagro"
+-
+  id: 1034
+  region_code: "08"
+  province_code: "860"
+  code: "86002"
+  name: "Basey"
+-
+  id: 1035
+  region_code: "08"
+  province_code: "860"
+  code: "86003"
+  name: "Calbayog City"
+-
+  id: 1036
+  region_code: "08"
+  province_code: "860"
+  code: "86004"
+  name: "Calbiga"
+-
+  id: 1037
+  region_code: "08"
+  province_code: "860"
+  code: "86005"
+  name: "City of Catbalogan (Capital)"
+-
+  id: 1038
+  region_code: "08"
+  province_code: "860"
+  code: "86006"
+  name: "Daram"
+-
+  id: 1039
+  region_code: "08"
+  province_code: "860"
+  code: "86007"
+  name: "Gandara"
+-
+  id: 1040
+  region_code: "08"
+  province_code: "860"
+  code: "86008"
+  name: "Hinabangan"
+-
+  id: 1041
+  region_code: "08"
+  province_code: "860"
+  code: "86009"
+  name: "Jiabong"
+-
+  id: 1042
+  region_code: "08"
+  province_code: "860"
+  code: "86010"
+  name: "Marabut"
+-
+  id: 1043
+  region_code: "08"
+  province_code: "860"
+  code: "86011"
+  name: "Matuguinao"
+-
+  id: 1044
+  region_code: "08"
+  province_code: "860"
+  code: "86012"
+  name: "Motiong"
+-
+  id: 1045
+  region_code: "08"
+  province_code: "860"
+  code: "86013"
+  name: "Pinabacdao"
+-
+  id: 1046
+  region_code: "08"
+  province_code: "860"
+  code: "86014"
+  name: "San Jose De Buan"
+-
+  id: 1047
+  region_code: "08"
+  province_code: "860"
+  code: "86015"
+  name: "San Sebastian"
+-
+  id: 1048
+  region_code: "08"
+  province_code: "860"
+  code: "86016"
+  name: "Santa Margarita"
+-
+  id: 1049
+  region_code: "08"
+  province_code: "860"
+  code: "86017"
+  name: "Santa Rita"
+-
+  id: 1050
+  region_code: "08"
+  province_code: "860"
+  code: "86018"
+  name: "Santo Niño"
+-
+  id: 1051
+  region_code: "08"
+  province_code: "860"
+  code: "86019"
+  name: "Talalora"
+-
+  id: 1052
+  region_code: "08"
+  province_code: "860"
+  code: "86020"
+  name: "Tarangnan"
+-
+  id: 1053
+  region_code: "08"
+  province_code: "860"
+  code: "86021"
+  name: "Villareal"
+-
+  id: 1054
+  region_code: "08"
+  province_code: "860"
+  code: "86022"
+  name: "Paranas (Wright)"
+-
+  id: 1055
+  region_code: "08"
+  province_code: "860"
+  code: "86023"
+  name: "Zumarraga"
+-
+  id: 1056
+  region_code: "08"
+  province_code: "860"
+  code: "86024"
+  name: "Tagapul-An"
+-
+  id: 1057
+  region_code: "08"
+  province_code: "860"
+  code: "86025"
+  name: "San Jorge"
+-
+  id: 1058
+  region_code: "08"
+  province_code: "860"
+  code: "86026"
+  name: "Pagsanghan"
+-
+  id: 1059
+  region_code: "08"
+  province_code: "864"
+  code: "86401"
+  name: "Anahawan"
+-
+  id: 1060
+  region_code: "08"
+  province_code: "864"
+  code: "86402"
+  name: "Bontoc"
+-
+  id: 1061
+  region_code: "08"
+  province_code: "864"
+  code: "86403"
+  name: "Hinunangan"
+-
+  id: 1062
+  region_code: "08"
+  province_code: "864"
+  code: "86404"
+  name: "Hinundayan"
+-
+  id: 1063
+  region_code: "08"
+  province_code: "864"
+  code: "86405"
+  name: "Libagon"
+-
+  id: 1064
+  region_code: "08"
+  province_code: "864"
+  code: "86406"
+  name: "Liloan"
+-
+  id: 1065
+  region_code: "08"
+  province_code: "864"
+  code: "86407"
+  name: "City of Maasin (Capital)"
+-
+  id: 1066
+  region_code: "08"
+  province_code: "864"
+  code: "86408"
+  name: "Macrohon"
+-
+  id: 1067
+  region_code: "08"
+  province_code: "864"
+  code: "86409"
+  name: "Malitbog"
+-
+  id: 1068
+  region_code: "08"
+  province_code: "864"
+  code: "86410"
+  name: "Padre Burgos"
+-
+  id: 1069
+  region_code: "08"
+  province_code: "864"
+  code: "86411"
+  name: "Pintuyan"
+-
+  id: 1070
+  region_code: "08"
+  province_code: "864"
+  code: "86412"
+  name: "Saint Bernard"
+-
+  id: 1071
+  region_code: "08"
+  province_code: "864"
+  code: "86413"
+  name: "San Francisco"
+-
+  id: 1072
+  region_code: "08"
+  province_code: "864"
+  code: "86414"
+  name: "San Juan (Cabalian)"
+-
+  id: 1073
+  region_code: "08"
+  province_code: "864"
+  code: "86415"
+  name: "San Ricardo"
+-
+  id: 1074
+  region_code: "08"
+  province_code: "864"
+  code: "86416"
+  name: "Silago"
+-
+  id: 1075
+  region_code: "08"
+  province_code: "864"
+  code: "86417"
+  name: "Sogod"
+-
+  id: 1076
+  region_code: "08"
+  province_code: "864"
+  code: "86418"
+  name: "Tomas Oppus"
+-
+  id: 1077
+  region_code: "08"
+  province_code: "864"
+  code: "86419"
+  name: "Limasawa"
+-
+  id: 1078
+  region_code: "08"
+  province_code: "878"
+  code: "87801"
+  name: "Almeria"
+-
+  id: 1079
+  region_code: "08"
+  province_code: "878"
+  code: "87802"
+  name: "Biliran"
+-
+  id: 1080
+  region_code: "08"
+  province_code: "878"
+  code: "87803"
+  name: "Cabucgayan"
+-
+  id: 1081
+  region_code: "08"
+  province_code: "878"
+  code: "87804"
+  name: "Caibiran"
+-
+  id: 1082
+  region_code: "08"
+  province_code: "878"
+  code: "87805"
+  name: "Culaba"
+-
+  id: 1083
+  region_code: "08"
+  province_code: "878"
+  code: "87806"
+  name: "Kawayan"
+-
+  id: 1084
+  region_code: "08"
+  province_code: "878"
+  code: "87807"
+  name: "Maripipi"
+-
+  id: 1085
+  region_code: "08"
+  province_code: "878"
+  code: "87808"
+  name: "Naval (Capital)"
+-
+  id: 1086
+  region_code: "09"
+  province_code: "972"
+  code: "97201"
+  name: "Dapitan City"
+-
+  id: 1087
+  region_code: "09"
+  province_code: "972"
+  code: "97202"
+  name: "Dipolog City (Capital)"
+-
+  id: 1088
+  region_code: "09"
+  province_code: "972"
+  code: "97203"
+  name: "Katipunan"
+-
+  id: 1089
+  region_code: "09"
+  province_code: "972"
+  code: "97204"
+  name: "La Libertad"
+-
+  id: 1090
+  region_code: "09"
+  province_code: "972"
+  code: "97205"
+  name: "Labason"
+-
+  id: 1091
+  region_code: "09"
+  province_code: "972"
+  code: "97206"
+  name: "Liloy"
+-
+  id: 1092
+  region_code: "09"
+  province_code: "972"
+  code: "97207"
+  name: "Manukan"
+-
+  id: 1093
+  region_code: "09"
+  province_code: "972"
+  code: "97208"
+  name: "Mutia"
+-
+  id: 1094
+  region_code: "09"
+  province_code: "972"
+  code: "97209"
+  name: "Piñan (New Piñan)"
+-
+  id: 1095
+  region_code: "09"
+  province_code: "972"
+  code: "97210"
+  name: "Polanco"
+-
+  id: 1096
+  region_code: "09"
+  province_code: "972"
+  code: "97211"
+  name: "Pres. Manuel A. Roxas"
+-
+  id: 1097
+  region_code: "09"
+  province_code: "972"
+  code: "97212"
+  name: "Rizal"
+-
+  id: 1098
+  region_code: "09"
+  province_code: "972"
+  code: "97213"
+  name: "Salug"
+-
+  id: 1099
+  region_code: "09"
+  province_code: "972"
+  code: "97214"
+  name: "Sergio Osmeña Sr."
+-
+  id: 1100
+  region_code: "09"
+  province_code: "972"
+  code: "97215"
+  name: "Siayan"
+-
+  id: 1101
+  region_code: "09"
+  province_code: "972"
+  code: "97216"
+  name: "Sibuco"
+-
+  id: 1102
+  region_code: "09"
+  province_code: "972"
+  code: "97217"
+  name: "Sibutad"
+-
+  id: 1103
+  region_code: "09"
+  province_code: "972"
+  code: "97218"
+  name: "Sindangan"
+-
+  id: 1104
+  region_code: "09"
+  province_code: "972"
+  code: "97219"
+  name: "Siocon"
+-
+  id: 1105
+  region_code: "09"
+  province_code: "972"
+  code: "97220"
+  name: "Sirawai"
+-
+  id: 1106
+  region_code: "09"
+  province_code: "972"
+  code: "97221"
+  name: "Tampilisan"
+-
+  id: 1107
+  region_code: "09"
+  province_code: "972"
+  code: "97222"
+  name: "Jose Dalman (Ponot)"
+-
+  id: 1108
+  region_code: "09"
+  province_code: "972"
+  code: "97223"
+  name: "Gutalac"
+-
+  id: 1109
+  region_code: "09"
+  province_code: "972"
+  code: "97224"
+  name: "Baliguian"
+-
+  id: 1110
+  region_code: "09"
+  province_code: "972"
+  code: "97225"
+  name: "Godod"
+-
+  id: 1111
+  region_code: "09"
+  province_code: "972"
+  code: "97226"
+  name: "Bacungan (Leon T. Postigo)"
+-
+  id: 1112
+  region_code: "09"
+  province_code: "972"
+  code: "97227"
+  name: "Kalawit"
+-
+  id: 1113
+  region_code: "09"
+  province_code: "973"
+  code: "97302"
+  name: "Aurora"
+-
+  id: 1114
+  region_code: "09"
+  province_code: "973"
+  code: "97303"
+  name: "Bayog"
+-
+  id: 1115
+  region_code: "09"
+  province_code: "973"
+  code: "97305"
+  name: "Dimataling"
+-
+  id: 1116
+  region_code: "09"
+  province_code: "973"
+  code: "97306"
+  name: "Dinas"
+-
+  id: 1117
+  region_code: "09"
+  province_code: "973"
+  code: "97307"
+  name: "Dumalinao"
+-
+  id: 1118
+  region_code: "09"
+  province_code: "973"
+  code: "97308"
+  name: "Dumingag"
+-
+  id: 1119
+  region_code: "09"
+  province_code: "973"
+  code: "97311"
+  name: "Kumalarang"
+-
+  id: 1120
+  region_code: "09"
+  province_code: "973"
+  code: "97312"
+  name: "Labangan"
+-
+  id: 1121
+  region_code: "09"
+  province_code: "973"
+  code: "97313"
+  name: "Lapuyan"
+-
+  id: 1122
+  region_code: "09"
+  province_code: "973"
+  code: "97315"
+  name: "Mahayag"
+-
+  id: 1123
+  region_code: "09"
+  province_code: "973"
+  code: "97317"
+  name: "Margosatubig"
+-
+  id: 1124
+  region_code: "09"
+  province_code: "973"
+  code: "97318"
+  name: "Midsalip"
+-
+  id: 1125
+  region_code: "09"
+  province_code: "973"
+  code: "97319"
+  name: "Molave"
+-
+  id: 1126
+  region_code: "09"
+  province_code: "973"
+  code: "97322"
+  name: "Pagadian City (Capital)"
+-
+  id: 1127
+  region_code: "09"
+  province_code: "973"
+  code: "97323"
+  name: "Ramon Magsaysay (Liargo)"
+-
+  id: 1128
+  region_code: "09"
+  province_code: "973"
+  code: "97324"
+  name: "San Miguel"
+-
+  id: 1129
+  region_code: "09"
+  province_code: "973"
+  code: "97325"
+  name: "San Pablo"
+-
+  id: 1130
+  region_code: "09"
+  province_code: "973"
+  code: "97327"
+  name: "Tabina"
+-
+  id: 1131
+  region_code: "09"
+  province_code: "973"
+  code: "97328"
+  name: "Tambulig"
+-
+  id: 1132
+  region_code: "09"
+  province_code: "973"
+  code: "97330"
+  name: "Tukuran"
+-
+  id: 1133
+  region_code: "09"
+  province_code: "973"
+  code: "97332"
+  name: "Zamboanga City"
+-
+  id: 1134
+  region_code: "09"
+  province_code: "973"
+  code: "97333"
+  name: "Lakewood"
+-
+  id: 1135
+  region_code: "09"
+  province_code: "973"
+  code: "97337"
+  name: "Josefina"
+-
+  id: 1136
+  region_code: "09"
+  province_code: "973"
+  code: "97338"
+  name: "Pitogo"
+-
+  id: 1137
+  region_code: "09"
+  province_code: "973"
+  code: "97340"
+  name: "Sominot (Don Mariano Marcos)"
+-
+  id: 1138
+  region_code: "09"
+  province_code: "973"
+  code: "97341"
+  name: "Vincenzo A. Sagun"
+-
+  id: 1139
+  region_code: "09"
+  province_code: "973"
+  code: "97343"
+  name: "Guipos"
+-
+  id: 1140
+  region_code: "09"
+  province_code: "973"
+  code: "97344"
+  name: "Tigbao"
+-
+  id: 1141
+  region_code: "09"
+  province_code: "983"
+  code: "98301"
+  name: "Alicia"
+-
+  id: 1142
+  region_code: "09"
+  province_code: "983"
+  code: "98302"
+  name: "Buug"
+-
+  id: 1143
+  region_code: "09"
+  province_code: "983"
+  code: "98303"
+  name: "Diplahan"
+-
+  id: 1144
+  region_code: "09"
+  province_code: "983"
+  code: "98304"
+  name: "Imelda"
+-
+  id: 1145
+  region_code: "09"
+  province_code: "983"
+  code: "98305"
+  name: "Ipil (Capital)"
+-
+  id: 1146
+  region_code: "09"
+  province_code: "983"
+  code: "98306"
+  name: "Kabasalan"
+-
+  id: 1147
+  region_code: "09"
+  province_code: "983"
+  code: "98307"
+  name: "Mabuhay"
+-
+  id: 1148
+  region_code: "09"
+  province_code: "983"
+  code: "98308"
+  name: "Malangas"
+-
+  id: 1149
+  region_code: "09"
+  province_code: "983"
+  code: "98309"
+  name: "Naga"
+-
+  id: 1150
+  region_code: "09"
+  province_code: "983"
+  code: "98310"
+  name: "Olutanga"
+-
+  id: 1151
+  region_code: "09"
+  province_code: "983"
+  code: "98311"
+  name: "Payao"
+-
+  id: 1152
+  region_code: "09"
+  province_code: "983"
+  code: "98312"
+  name: "Roseller Lim"
+-
+  id: 1153
+  region_code: "09"
+  province_code: "983"
+  code: "98313"
+  name: "Siay"
+-
+  id: 1154
+  region_code: "09"
+  province_code: "983"
+  code: "98314"
+  name: "Talusan"
+-
+  id: 1155
+  region_code: "09"
+  province_code: "983"
+  code: "98315"
+  name: "Titay"
+-
+  id: 1156
+  region_code: "09"
+  province_code: "983"
+  code: "98316"
+  name: "Tungawan"
+-
+  id: 1157
+  region_code: "09"
+  province_code: "997"
+  code: "99701"
+  name: "City of Isabela"
+-
+  id: 1158
+  region_code: "10"
+  province_code: "1013"
+  code: "101301"
+  name: "Baungon"
+-
+  id: 1159
+  region_code: "10"
+  province_code: "1013"
+  code: "101302"
+  name: "Damulog"
+-
+  id: 1160
+  region_code: "10"
+  province_code: "1013"
+  code: "101303"
+  name: "Dangcagan"
+-
+  id: 1161
+  region_code: "10"
+  province_code: "1013"
+  code: "101304"
+  name: "Don Carlos"
+-
+  id: 1162
+  region_code: "10"
+  province_code: "1013"
+  code: "101305"
+  name: "Impasug-Ong"
+-
+  id: 1163
+  region_code: "10"
+  province_code: "1013"
+  code: "101306"
+  name: "Kadingilan"
+-
+  id: 1164
+  region_code: "10"
+  province_code: "1013"
+  code: "101307"
+  name: "Kalilangan"
+-
+  id: 1165
+  region_code: "10"
+  province_code: "1013"
+  code: "101308"
+  name: "Kibawe"
+-
+  id: 1166
+  region_code: "10"
+  province_code: "1013"
+  code: "101309"
+  name: "Kitaotao"
+-
+  id: 1167
+  region_code: "10"
+  province_code: "1013"
+  code: "101310"
+  name: "Lantapan"
+-
+  id: 1168
+  region_code: "10"
+  province_code: "1013"
+  code: "101311"
+  name: "Libona"
+-
+  id: 1169
+  region_code: "10"
+  province_code: "1013"
+  code: "101312"
+  name: "City of Malaybalay (Capital)"
+-
+  id: 1170
+  region_code: "10"
+  province_code: "1013"
+  code: "101313"
+  name: "Malitbog"
+-
+  id: 1171
+  region_code: "10"
+  province_code: "1013"
+  code: "101314"
+  name: "Manolo Fortich"
+-
+  id: 1172
+  region_code: "10"
+  province_code: "1013"
+  code: "101315"
+  name: "Maramag"
+-
+  id: 1173
+  region_code: "10"
+  province_code: "1013"
+  code: "101316"
+  name: "Pangantucan"
+-
+  id: 1174
+  region_code: "10"
+  province_code: "1013"
+  code: "101317"
+  name: "Quezon"
+-
+  id: 1175
+  region_code: "10"
+  province_code: "1013"
+  code: "101318"
+  name: "San Fernando"
+-
+  id: 1176
+  region_code: "10"
+  province_code: "1013"
+  code: "101319"
+  name: "Sumilao"
+-
+  id: 1177
+  region_code: "10"
+  province_code: "1013"
+  code: "101320"
+  name: "Talakag"
+-
+  id: 1178
+  region_code: "10"
+  province_code: "1013"
+  code: "101321"
+  name: "City of Valencia"
+-
+  id: 1179
+  region_code: "10"
+  province_code: "1013"
+  code: "101322"
+  name: "Cabanglasan"
+-
+  id: 1180
+  region_code: "10"
+  province_code: "1018"
+  code: "101801"
+  name: "Catarman"
+-
+  id: 1181
+  region_code: "10"
+  province_code: "1018"
+  code: "101802"
+  name: "Guinsiliban"
+-
+  id: 1182
+  region_code: "10"
+  province_code: "1018"
+  code: "101803"
+  name: "Mahinog"
+-
+  id: 1183
+  region_code: "10"
+  province_code: "1018"
+  code: "101804"
+  name: "Mambajao (Capital)"
+-
+  id: 1184
+  region_code: "10"
+  province_code: "1018"
+  code: "101805"
+  name: "Sagay"
+-
+  id: 1185
+  region_code: "10"
+  province_code: "1035"
+  code: "103501"
+  name: "Bacolod"
+-
+  id: 1186
+  region_code: "10"
+  province_code: "1035"
+  code: "103502"
+  name: "Baloi"
+-
+  id: 1187
+  region_code: "10"
+  province_code: "1035"
+  code: "103503"
+  name: "Baroy"
+-
+  id: 1188
+  region_code: "10"
+  province_code: "1035"
+  code: "103504"
+  name: "Iligan City"
+-
+  id: 1189
+  region_code: "10"
+  province_code: "1035"
+  code: "103505"
+  name: "Kapatagan"
+-
+  id: 1190
+  region_code: "10"
+  province_code: "1035"
+  code: "103506"
+  name: "Sultan Naga Dimaporo (Karomatan)"
+-
+  id: 1191
+  region_code: "10"
+  province_code: "1035"
+  code: "103507"
+  name: "Kauswagan"
+-
+  id: 1192
+  region_code: "10"
+  province_code: "1035"
+  code: "103508"
+  name: "Kolambugan"
+-
+  id: 1193
+  region_code: "10"
+  province_code: "1035"
+  code: "103509"
+  name: "Lala"
+-
+  id: 1194
+  region_code: "10"
+  province_code: "1035"
+  code: "103510"
+  name: "Linamon"
+-
+  id: 1195
+  region_code: "10"
+  province_code: "1035"
+  code: "103511"
+  name: "Magsaysay"
+-
+  id: 1196
+  region_code: "10"
+  province_code: "1035"
+  code: "103512"
+  name: "Maigo"
+-
+  id: 1197
+  region_code: "10"
+  province_code: "1035"
+  code: "103513"
+  name: "Matungao"
+-
+  id: 1198
+  region_code: "10"
+  province_code: "1035"
+  code: "103514"
+  name: "Munai"
+-
+  id: 1199
+  region_code: "10"
+  province_code: "1035"
+  code: "103515"
+  name: "Nunungan"
+-
+  id: 1200
+  region_code: "10"
+  province_code: "1035"
+  code: "103516"
+  name: "Pantao Ragat"
+-
+  id: 1201
+  region_code: "10"
+  province_code: "1035"
+  code: "103517"
+  name: "Poona Piagapo"
+-
+  id: 1202
+  region_code: "10"
+  province_code: "1035"
+  code: "103518"
+  name: "Salvador"
+-
+  id: 1203
+  region_code: "10"
+  province_code: "1035"
+  code: "103519"
+  name: "Sapad"
+-
+  id: 1204
+  region_code: "10"
+  province_code: "1035"
+  code: "103520"
+  name: "Tagoloan"
+-
+  id: 1205
+  region_code: "10"
+  province_code: "1035"
+  code: "103521"
+  name: "Tangcal"
+-
+  id: 1206
+  region_code: "10"
+  province_code: "1035"
+  code: "103522"
+  name: "Tubod (Capital)"
+-
+  id: 1207
+  region_code: "10"
+  province_code: "1035"
+  code: "103523"
+  name: "Pantar"
+-
+  id: 1208
+  region_code: "10"
+  province_code: "1042"
+  code: "104201"
+  name: "Aloran"
+-
+  id: 1209
+  region_code: "10"
+  province_code: "1042"
+  code: "104202"
+  name: "Baliangao"
+-
+  id: 1210
+  region_code: "10"
+  province_code: "1042"
+  code: "104203"
+  name: "Bonifacio"
+-
+  id: 1211
+  region_code: "10"
+  province_code: "1042"
+  code: "104204"
+  name: "Calamba"
+-
+  id: 1212
+  region_code: "10"
+  province_code: "1042"
+  code: "104205"
+  name: "Clarin"
+-
+  id: 1213
+  region_code: "10"
+  province_code: "1042"
+  code: "104206"
+  name: "Concepcion"
+-
+  id: 1214
+  region_code: "10"
+  province_code: "1042"
+  code: "104207"
+  name: "Jimenez"
+-
+  id: 1215
+  region_code: "10"
+  province_code: "1042"
+  code: "104208"
+  name: "Lopez Jaena"
+-
+  id: 1216
+  region_code: "10"
+  province_code: "1042"
+  code: "104209"
+  name: "Oroquieta City (Capital)"
+-
+  id: 1217
+  region_code: "10"
+  province_code: "1042"
+  code: "104210"
+  name: "Ozamis City"
+-
+  id: 1218
+  region_code: "10"
+  province_code: "1042"
+  code: "104211"
+  name: "Panaon"
+-
+  id: 1219
+  region_code: "10"
+  province_code: "1042"
+  code: "104212"
+  name: "Plaridel"
+-
+  id: 1220
+  region_code: "10"
+  province_code: "1042"
+  code: "104213"
+  name: "Sapang Dalaga"
+-
+  id: 1221
+  region_code: "10"
+  province_code: "1042"
+  code: "104214"
+  name: "Sinacaban"
+-
+  id: 1222
+  region_code: "10"
+  province_code: "1042"
+  code: "104215"
+  name: "Tangub City"
+-
+  id: 1223
+  region_code: "10"
+  province_code: "1042"
+  code: "104216"
+  name: "Tudela"
+-
+  id: 1224
+  region_code: "10"
+  province_code: "1042"
+  code: "104217"
+  name: "Don Victoriano Chiongbian  (Don Mariano Marcos)"
+-
+  id: 1225
+  region_code: "10"
+  province_code: "1043"
+  code: "104301"
+  name: "Alubijid"
+-
+  id: 1226
+  region_code: "10"
+  province_code: "1043"
+  code: "104302"
+  name: "Balingasag"
+-
+  id: 1227
+  region_code: "10"
+  province_code: "1043"
+  code: "104303"
+  name: "Balingoan"
+-
+  id: 1228
+  region_code: "10"
+  province_code: "1043"
+  code: "104304"
+  name: "Binuangan"
+-
+  id: 1229
+  region_code: "10"
+  province_code: "1043"
+  code: "104305"
+  name: "Cagayan De Oro City (Capital)"
+-
+  id: 1230
+  region_code: "10"
+  province_code: "1043"
+  code: "104306"
+  name: "Claveria"
+-
+  id: 1231
+  region_code: "10"
+  province_code: "1043"
+  code: "104307"
+  name: "City of El Salvador"
+-
+  id: 1232
+  region_code: "10"
+  province_code: "1043"
+  code: "104308"
+  name: "Gingoog City"
+-
+  id: 1233
+  region_code: "10"
+  province_code: "1043"
+  code: "104309"
+  name: "Gitagum"
+-
+  id: 1234
+  region_code: "10"
+  province_code: "1043"
+  code: "104310"
+  name: "Initao"
+-
+  id: 1235
+  region_code: "10"
+  province_code: "1043"
+  code: "104311"
+  name: "Jasaan"
+-
+  id: 1236
+  region_code: "10"
+  province_code: "1043"
+  code: "104312"
+  name: "Kinoguitan"
+-
+  id: 1237
+  region_code: "10"
+  province_code: "1043"
+  code: "104313"
+  name: "Lagonglong"
+-
+  id: 1238
+  region_code: "10"
+  province_code: "1043"
+  code: "104314"
+  name: "Laguindingan"
+-
+  id: 1239
+  region_code: "10"
+  province_code: "1043"
+  code: "104315"
+  name: "Libertad"
+-
+  id: 1240
+  region_code: "10"
+  province_code: "1043"
+  code: "104316"
+  name: "Lugait"
+-
+  id: 1241
+  region_code: "10"
+  province_code: "1043"
+  code: "104317"
+  name: "Magsaysay (Linugos)"
+-
+  id: 1242
+  region_code: "10"
+  province_code: "1043"
+  code: "104318"
+  name: "Manticao"
+-
+  id: 1243
+  region_code: "10"
+  province_code: "1043"
+  code: "104319"
+  name: "Medina"
+-
+  id: 1244
+  region_code: "10"
+  province_code: "1043"
+  code: "104320"
+  name: "Naawan"
+-
+  id: 1245
+  region_code: "10"
+  province_code: "1043"
+  code: "104321"
+  name: "Opol"
+-
+  id: 1246
+  region_code: "10"
+  province_code: "1043"
+  code: "104322"
+  name: "Salay"
+-
+  id: 1247
+  region_code: "10"
+  province_code: "1043"
+  code: "104323"
+  name: "Sugbongcogon"
+-
+  id: 1248
+  region_code: "10"
+  province_code: "1043"
+  code: "104324"
+  name: "Tagoloan"
+-
+  id: 1249
+  region_code: "10"
+  province_code: "1043"
+  code: "104325"
+  name: "Talisayan"
+-
+  id: 1250
+  region_code: "10"
+  province_code: "1043"
+  code: "104326"
+  name: "Villanueva"
+-
+  id: 1251
+  region_code: "11"
+  province_code: "1123"
+  code: "112301"
+  name: "Asuncion (Saug)"
+-
+  id: 1252
+  region_code: "11"
+  province_code: "1123"
+  code: "112303"
+  name: "Carmen"
+-
+  id: 1253
+  region_code: "11"
+  province_code: "1123"
+  code: "112305"
+  name: "Kapalong"
+-
+  id: 1254
+  region_code: "11"
+  province_code: "1123"
+  code: "112314"
+  name: "New Corella"
+-
+  id: 1255
+  region_code: "11"
+  province_code: "1123"
+  code: "112315"
+  name: "City of Panabo"
+-
+  id: 1256
+  region_code: "11"
+  province_code: "1123"
+  code: "112317"
+  name: "Island Garden City of Samal"
+-
+  id: 1257
+  region_code: "11"
+  province_code: "1123"
+  code: "112318"
+  name: "Santo Tomas"
+-
+  id: 1258
+  region_code: "11"
+  province_code: "1123"
+  code: "112319"
+  name: "City of Tagum (Capital)"
+-
+  id: 1259
+  region_code: "11"
+  province_code: "1123"
+  code: "112322"
+  name: "Talaingod"
+-
+  id: 1260
+  region_code: "11"
+  province_code: "1123"
+  code: "112323"
+  name: "Braulio E. Dujali"
+-
+  id: 1261
+  region_code: "11"
+  province_code: "1123"
+  code: "112324"
+  name: "San Isidro"
+-
+  id: 1262
+  region_code: "11"
+  province_code: "1124"
+  code: "112401"
+  name: "Bansalan"
+-
+  id: 1263
+  region_code: "11"
+  province_code: "1124"
+  code: "112402"
+  name: "Davao City"
+-
+  id: 1264
+  region_code: "11"
+  province_code: "1124"
+  code: "112403"
+  name: "City of Digos (Capital)"
+-
+  id: 1265
+  region_code: "11"
+  province_code: "1124"
+  code: "112404"
+  name: "Hagonoy"
+-
+  id: 1266
+  region_code: "11"
+  province_code: "1124"
+  code: "112406"
+  name: "Kiblawan"
+-
+  id: 1267
+  region_code: "11"
+  province_code: "1124"
+  code: "112407"
+  name: "Magsaysay"
+-
+  id: 1268
+  region_code: "11"
+  province_code: "1124"
+  code: "112408"
+  name: "Malalag"
+-
+  id: 1269
+  region_code: "11"
+  province_code: "1124"
+  code: "112410"
+  name: "Matanao"
+-
+  id: 1270
+  region_code: "11"
+  province_code: "1124"
+  code: "112411"
+  name: "Padada"
+-
+  id: 1271
+  region_code: "11"
+  province_code: "1124"
+  code: "112412"
+  name: "Santa Cruz"
+-
+  id: 1272
+  region_code: "11"
+  province_code: "1124"
+  code: "112414"
+  name: "Sulop"
+-
+  id: 1273
+  region_code: "11"
+  province_code: "1125"
+  code: "112501"
+  name: "Baganga"
+-
+  id: 1274
+  region_code: "11"
+  province_code: "1125"
+  code: "112502"
+  name: "Banaybanay"
+-
+  id: 1275
+  region_code: "11"
+  province_code: "1125"
+  code: "112503"
+  name: "Boston"
+-
+  id: 1276
+  region_code: "11"
+  province_code: "1125"
+  code: "112504"
+  name: "Caraga"
+-
+  id: 1277
+  region_code: "11"
+  province_code: "1125"
+  code: "112505"
+  name: "Cateel"
+-
+  id: 1278
+  region_code: "11"
+  province_code: "1125"
+  code: "112506"
+  name: "Governor Generoso"
+-
+  id: 1279
+  region_code: "11"
+  province_code: "1125"
+  code: "112507"
+  name: "Lupon"
+-
+  id: 1280
+  region_code: "11"
+  province_code: "1125"
+  code: "112508"
+  name: "Manay"
+-
+  id: 1281
+  region_code: "11"
+  province_code: "1125"
+  code: "112509"
+  name: "City of Mati (Capital)"
+-
+  id: 1282
+  region_code: "11"
+  province_code: "1125"
+  code: "112510"
+  name: "San Isidro"
+-
+  id: 1283
+  region_code: "11"
+  province_code: "1125"
+  code: "112511"
+  name: "Tarragona"
+-
+  id: 1284
+  region_code: "11"
+  province_code: "1182"
+  code: "118201"
+  name: "Compostela"
+-
+  id: 1285
+  region_code: "11"
+  province_code: "1182"
+  code: "118202"
+  name: "Laak (San Vicente)"
+-
+  id: 1286
+  region_code: "11"
+  province_code: "1182"
+  code: "118203"
+  name: "Mabini (Doña Alicia)"
+-
+  id: 1287
+  region_code: "11"
+  province_code: "1182"
+  code: "118204"
+  name: "Maco"
+-
+  id: 1288
+  region_code: "11"
+  province_code: "1182"
+  code: "118205"
+  name: "Maragusan (San Mariano)"
+-
+  id: 1289
+  region_code: "11"
+  province_code: "1182"
+  code: "118206"
+  name: "Mawab"
+-
+  id: 1290
+  region_code: "11"
+  province_code: "1182"
+  code: "118207"
+  name: "Monkayo"
+-
+  id: 1291
+  region_code: "11"
+  province_code: "1182"
+  code: "118208"
+  name: "Montevista"
+-
+  id: 1292
+  region_code: "11"
+  province_code: "1182"
+  code: "118209"
+  name: "Nabunturan (Capital)"
+-
+  id: 1293
+  region_code: "11"
+  province_code: "1182"
+  code: "118210"
+  name: "New Bataan"
+-
+  id: 1294
+  region_code: "11"
+  province_code: "1182"
+  code: "118211"
+  name: "Pantukan"
+-
+  id: 1295
+  region_code: "11"
+  province_code: "1186"
+  code: "118601"
+  name: "Don Marcelino"
+-
+  id: 1296
+  region_code: "11"
+  province_code: "1186"
+  code: "118602"
+  name: "Jose Abad Santos (Trinidad)"
+-
+  id: 1297
+  region_code: "11"
+  province_code: "1186"
+  code: "118603"
+  name: "Malita"
+-
+  id: 1298
+  region_code: "11"
+  province_code: "1186"
+  code: "118604"
+  name: "Santa Maria"
+-
+  id: 1299
+  region_code: "11"
+  province_code: "1186"
+  code: "118605"
+  name: "Sarangani"
+-
+  id: 1300
+  region_code: "12"
+  province_code: "1247"
+  code: "124701"
+  name: "Alamada"
+-
+  id: 1301
+  region_code: "12"
+  province_code: "1247"
+  code: "124702"
+  name: "Carmen"
+-
+  id: 1302
+  region_code: "12"
+  province_code: "1247"
+  code: "124703"
+  name: "Kabacan"
+-
+  id: 1303
+  region_code: "12"
+  province_code: "1247"
+  code: "124704"
+  name: "City of Kidapawan (Capital)"
+-
+  id: 1304
+  region_code: "12"
+  province_code: "1247"
+  code: "124705"
+  name: "Libungan"
+-
+  id: 1305
+  region_code: "12"
+  province_code: "1247"
+  code: "124706"
+  name: "Magpet"
+-
+  id: 1306
+  region_code: "12"
+  province_code: "1247"
+  code: "124707"
+  name: "Makilala"
+-
+  id: 1307
+  region_code: "12"
+  province_code: "1247"
+  code: "124708"
+  name: "Matalam"
+-
+  id: 1308
+  region_code: "12"
+  province_code: "1247"
+  code: "124709"
+  name: "Midsayap"
+-
+  id: 1309
+  region_code: "12"
+  province_code: "1247"
+  code: "124710"
+  name: "'M''lang'"
+-
+  id: 1310
+  region_code: "12"
+  province_code: "1247"
+  code: "124711"
+  name: "Pigkawayan"
+-
+  id: 1311
+  region_code: "12"
+  province_code: "1247"
+  code: "124712"
+  name: "Pikit"
+-
+  id: 1312
+  region_code: "12"
+  province_code: "1247"
+  code: "124713"
+  name: "President Roxas"
+-
+  id: 1313
+  region_code: "12"
+  province_code: "1247"
+  code: "124714"
+  name: "Tulunan"
+-
+  id: 1314
+  region_code: "12"
+  province_code: "1247"
+  code: "124715"
+  name: "Antipas"
+-
+  id: 1315
+  region_code: "12"
+  province_code: "1247"
+  code: "124716"
+  name: "Banisilan"
+-
+  id: 1316
+  region_code: "12"
+  province_code: "1247"
+  code: "124717"
+  name: "Aleosan"
+-
+  id: 1317
+  region_code: "12"
+  province_code: "1247"
+  code: "124718"
+  name: "Arakan"
+-
+  id: 1318
+  region_code: "12"
+  province_code: "1263"
+  code: "126302"
+  name: "Banga"
+-
+  id: 1319
+  region_code: "12"
+  province_code: "1263"
+  code: "126303"
+  name: "General Santos City (Dadiangas)"
+-
+  id: 1320
+  region_code: "12"
+  province_code: "1263"
+  code: "126306"
+  name: "City of Koronadal (Capital)"
+-
+  id: 1321
+  region_code: "12"
+  province_code: "1263"
+  code: "126311"
+  name: "Norala"
+-
+  id: 1322
+  region_code: "12"
+  province_code: "1263"
+  code: "126312"
+  name: "Polomolok"
+-
+  id: 1323
+  region_code: "12"
+  province_code: "1263"
+  code: "126313"
+  name: "Surallah"
+-
+  id: 1324
+  region_code: "12"
+  province_code: "1263"
+  code: "126314"
+  name: "Tampakan"
+-
+  id: 1325
+  region_code: "12"
+  province_code: "1263"
+  code: "126315"
+  name: "Tantangan"
+-
+  id: 1326
+  region_code: "12"
+  province_code: "1263"
+  code: "126316"
+  name: "'T''boli'"
+-
+  id: 1327
+  region_code: "12"
+  province_code: "1263"
+  code: "126317"
+  name: "Tupi"
+-
+  id: 1328
+  region_code: "12"
+  province_code: "1263"
+  code: "126318"
+  name: "Santo Niño"
+-
+  id: 1329
+  region_code: "12"
+  province_code: "1263"
+  code: "126319"
+  name: "Lake Sebu"
+-
+  id: 1330
+  region_code: "12"
+  province_code: "1265"
+  code: "126501"
+  name: "Bagumbayan"
+-
+  id: 1331
+  region_code: "12"
+  province_code: "1265"
+  code: "126502"
+  name: "Columbio"
+-
+  id: 1332
+  region_code: "12"
+  province_code: "1265"
+  code: "126503"
+  name: "Esperanza"
+-
+  id: 1333
+  region_code: "12"
+  province_code: "1265"
+  code: "126504"
+  name: "Isulan (Capital)"
+-
+  id: 1334
+  region_code: "12"
+  province_code: "1265"
+  code: "126505"
+  name: "Kalamansig"
+-
+  id: 1335
+  region_code: "12"
+  province_code: "1265"
+  code: "126506"
+  name: "Lebak"
+-
+  id: 1336
+  region_code: "12"
+  province_code: "1265"
+  code: "126507"
+  name: "Lutayan"
+-
+  id: 1337
+  region_code: "12"
+  province_code: "1265"
+  code: "126508"
+  name: "Lambayong (Mariano Marcos)"
+-
+  id: 1338
+  region_code: "12"
+  province_code: "1265"
+  code: "126509"
+  name: "Palimbang"
+-
+  id: 1339
+  region_code: "12"
+  province_code: "1265"
+  code: "126510"
+  name: "President Quirino"
+-
+  id: 1340
+  region_code: "12"
+  province_code: "1265"
+  code: "126511"
+  name: "City of Tacurong"
+-
+  id: 1341
+  region_code: "12"
+  province_code: "1265"
+  code: "126512"
+  name: "Sen. Ninoy Aquino"
+-
+  id: 1342
+  region_code: "12"
+  province_code: "1280"
+  code: "128001"
+  name: "Alabel (Capital)"
+-
+  id: 1343
+  region_code: "12"
+  province_code: "1280"
+  code: "128002"
+  name: "Glan"
+-
+  id: 1344
+  region_code: "12"
+  province_code: "1280"
+  code: "128003"
+  name: "Kiamba"
+-
+  id: 1345
+  region_code: "12"
+  province_code: "1280"
+  code: "128004"
+  name: "Maasim"
+-
+  id: 1346
+  region_code: "12"
+  province_code: "1280"
+  code: "128005"
+  name: "Maitum"
+-
+  id: 1347
+  region_code: "12"
+  province_code: "1280"
+  code: "128006"
+  name: "Malapatan"
+-
+  id: 1348
+  region_code: "12"
+  province_code: "1280"
+  code: "128007"
+  name: "Malungon"
+-
+  id: 1349
+  region_code: "12"
+  province_code: "1298"
+  code: "129804"
+  name: "Cotabato City"
+-
+  id: 1350
+  region_code: "13"
+  province_code: "1339"
+  code: "133901"
+  name: "Tondo I / Ii"
+-
+  id: 1351
+  region_code: "13"
+  province_code: "1339"
+  code: "133902"
+  name: "Binondo"
+-
+  id: 1352
+  region_code: "13"
+  province_code: "1339"
+  code: "133903"
+  name: "Quiapo"
+-
+  id: 1353
+  region_code: "13"
+  province_code: "1339"
+  code: "133904"
+  name: "San Nicolas"
+-
+  id: 1354
+  region_code: "13"
+  province_code: "1339"
+  code: "133905"
+  name: "Santa Cruz"
+-
+  id: 1355
+  region_code: "13"
+  province_code: "1339"
+  code: "133906"
+  name: "Sampaloc"
+-
+  id: 1356
+  region_code: "13"
+  province_code: "1339"
+  code: "133907"
+  name: "San Miguel"
+-
+  id: 1357
+  region_code: "13"
+  province_code: "1339"
+  code: "133908"
+  name: "Ermita"
+-
+  id: 1358
+  region_code: "13"
+  province_code: "1339"
+  code: "133909"
+  name: "Intramuros"
+-
+  id: 1359
+  region_code: "13"
+  province_code: "1339"
+  code: "133910"
+  name: "Malate"
+-
+  id: 1360
+  region_code: "13"
+  province_code: "1339"
+  code: "133911"
+  name: "Paco"
+-
+  id: 1361
+  region_code: "13"
+  province_code: "1339"
+  code: "133912"
+  name: "Pandacan"
+-
+  id: 1362
+  region_code: "13"
+  province_code: "1339"
+  code: "133913"
+  name: "Port Area"
+-
+  id: 1363
+  region_code: "13"
+  province_code: "1339"
+  code: "133914"
+  name: "Santa Ana"
+-
+  id: 1364
+  region_code: "13"
+  province_code: "1374"
+  code: "137401"
+  name: "City of Mandaluyong"
+-
+  id: 1365
+  region_code: "13"
+  province_code: "1374"
+  code: "137402"
+  name: "City of Marikina"
+-
+  id: 1366
+  region_code: "13"
+  province_code: "1374"
+  code: "137403"
+  name: "City of Pasig"
+-
+  id: 1367
+  region_code: "13"
+  province_code: "1374"
+  code: "137404"
+  name: "Quezon City"
+-
+  id: 1368
+  region_code: "13"
+  province_code: "1374"
+  code: "137405"
+  name: "City of San Juan"
+-
+  id: 1369
+  region_code: "13"
+  province_code: "1375"
+  code: "137501"
+  name: "Caloocan City"
+-
+  id: 1370
+  region_code: "13"
+  province_code: "1375"
+  code: "137502"
+  name: "City of Malabon"
+-
+  id: 1371
+  region_code: "13"
+  province_code: "1375"
+  code: "137503"
+  name: "City of Navotas"
+-
+  id: 1372
+  region_code: "13"
+  province_code: "1375"
+  code: "137504"
+  name: "City of Valenzuela"
+-
+  id: 1373
+  region_code: "13"
+  province_code: "1376"
+  code: "137601"
+  name: "City of Las Piñas"
+-
+  id: 1374
+  region_code: "13"
+  province_code: "1376"
+  code: "137602"
+  name: "City of Makati"
+-
+  id: 1375
+  region_code: "13"
+  province_code: "1376"
+  code: "137603"
+  name: "City of Muntinlupa"
+-
+  id: 1376
+  region_code: "13"
+  province_code: "1376"
+  code: "137604"
+  name: "City of Parañaque"
+-
+  id: 1377
+  region_code: "13"
+  province_code: "1376"
+  code: "137605"
+  name: "Pasay City"
+-
+  id: 1378
+  region_code: "13"
+  province_code: "1376"
+  code: "137606"
+  name: "Pateros"
+-
+  id: 1379
+  region_code: "13"
+  province_code: "1376"
+  code: "137607"
+  name: "Taguig City"
+-
+  id: 1380
+  region_code: "14"
+  province_code: "1401"
+  code: "140101"
+  name: "Bangued (Capital)"
+-
+  id: 1381
+  region_code: "14"
+  province_code: "1401"
+  code: "140102"
+  name: "Boliney"
+-
+  id: 1382
+  region_code: "14"
+  province_code: "1401"
+  code: "140103"
+  name: "Bucay"
+-
+  id: 1383
+  region_code: "14"
+  province_code: "1401"
+  code: "140104"
+  name: "Bucloc"
+-
+  id: 1384
+  region_code: "14"
+  province_code: "1401"
+  code: "140105"
+  name: "Daguioman"
+-
+  id: 1385
+  region_code: "14"
+  province_code: "1401"
+  code: "140106"
+  name: "Danglas"
+-
+  id: 1386
+  region_code: "14"
+  province_code: "1401"
+  code: "140107"
+  name: "Dolores"
+-
+  id: 1387
+  region_code: "14"
+  province_code: "1401"
+  code: "140108"
+  name: "La Paz"
+-
+  id: 1388
+  region_code: "14"
+  province_code: "1401"
+  code: "140109"
+  name: "Lacub"
+-
+  id: 1389
+  region_code: "14"
+  province_code: "1401"
+  code: "140110"
+  name: "Lagangilang"
+-
+  id: 1390
+  region_code: "14"
+  province_code: "1401"
+  code: "140111"
+  name: "Lagayan"
+-
+  id: 1391
+  region_code: "14"
+  province_code: "1401"
+  code: "140112"
+  name: "Langiden"
+-
+  id: 1392
+  region_code: "14"
+  province_code: "1401"
+  code: "140113"
+  name: "Licuan-Baay (Licuan)"
+-
+  id: 1393
+  region_code: "14"
+  province_code: "1401"
+  code: "140114"
+  name: "Luba"
+-
+  id: 1394
+  region_code: "14"
+  province_code: "1401"
+  code: "140115"
+  name: "Malibcong"
+-
+  id: 1395
+  region_code: "14"
+  province_code: "1401"
+  code: "140116"
+  name: "Manabo"
+-
+  id: 1396
+  region_code: "14"
+  province_code: "1401"
+  code: "140117"
+  name: "Peñarrubia"
+-
+  id: 1397
+  region_code: "14"
+  province_code: "1401"
+  code: "140118"
+  name: "Pidigan"
+-
+  id: 1398
+  region_code: "14"
+  province_code: "1401"
+  code: "140119"
+  name: "Pilar"
+-
+  id: 1399
+  region_code: "14"
+  province_code: "1401"
+  code: "140120"
+  name: "Sallapadan"
+-
+  id: 1400
+  region_code: "14"
+  province_code: "1401"
+  code: "140121"
+  name: "San Isidro"
+-
+  id: 1401
+  region_code: "14"
+  province_code: "1401"
+  code: "140122"
+  name: "San Juan"
+-
+  id: 1402
+  region_code: "14"
+  province_code: "1401"
+  code: "140123"
+  name: "San Quintin"
+-
+  id: 1403
+  region_code: "14"
+  province_code: "1401"
+  code: "140124"
+  name: "Tayum"
+-
+  id: 1404
+  region_code: "14"
+  province_code: "1401"
+  code: "140125"
+  name: "Tineg"
+-
+  id: 1405
+  region_code: "14"
+  province_code: "1401"
+  code: "140126"
+  name: "Tubo"
+-
+  id: 1406
+  region_code: "14"
+  province_code: "1401"
+  code: "140127"
+  name: "Villaviciosa"
+-
+  id: 1407
+  region_code: "14"
+  province_code: "1411"
+  code: "141101"
+  name: "Atok"
+-
+  id: 1408
+  region_code: "14"
+  province_code: "1411"
+  code: "141102"
+  name: "Baguio City"
+-
+  id: 1409
+  region_code: "14"
+  province_code: "1411"
+  code: "141103"
+  name: "Bakun"
+-
+  id: 1410
+  region_code: "14"
+  province_code: "1411"
+  code: "141104"
+  name: "Bokod"
+-
+  id: 1411
+  region_code: "14"
+  province_code: "1411"
+  code: "141105"
+  name: "Buguias"
+-
+  id: 1412
+  region_code: "14"
+  province_code: "1411"
+  code: "141106"
+  name: "Itogon"
+-
+  id: 1413
+  region_code: "14"
+  province_code: "1411"
+  code: "141107"
+  name: "Kabayan"
+-
+  id: 1414
+  region_code: "14"
+  province_code: "1411"
+  code: "141108"
+  name: "Kapangan"
+-
+  id: 1415
+  region_code: "14"
+  province_code: "1411"
+  code: "141109"
+  name: "Kibungan"
+-
+  id: 1416
+  region_code: "14"
+  province_code: "1411"
+  code: "141110"
+  name: "La Trinidad (Capital)"
+-
+  id: 1417
+  region_code: "14"
+  province_code: "1411"
+  code: "141111"
+  name: "Mankayan"
+-
+  id: 1418
+  region_code: "14"
+  province_code: "1411"
+  code: "141112"
+  name: "Sablan"
+-
+  id: 1419
+  region_code: "14"
+  province_code: "1411"
+  code: "141113"
+  name: "Tuba"
+-
+  id: 1420
+  region_code: "14"
+  province_code: "1411"
+  code: "141114"
+  name: "Tublay"
+-
+  id: 1421
+  region_code: "14"
+  province_code: "1427"
+  code: "142701"
+  name: "Banaue"
+-
+  id: 1422
+  region_code: "14"
+  province_code: "1427"
+  code: "142702"
+  name: "Hungduan"
+-
+  id: 1423
+  region_code: "14"
+  province_code: "1427"
+  code: "142703"
+  name: "Kiangan"
+-
+  id: 1424
+  region_code: "14"
+  province_code: "1427"
+  code: "142704"
+  name: "Lagawe (Capital)"
+-
+  id: 1425
+  region_code: "14"
+  province_code: "1427"
+  code: "142705"
+  name: "Lamut"
+-
+  id: 1426
+  region_code: "14"
+  province_code: "1427"
+  code: "142706"
+  name: "Mayoyao"
+-
+  id: 1427
+  region_code: "14"
+  province_code: "1427"
+  code: "142707"
+  name: "Alfonso Lista (Potia)"
+-
+  id: 1428
+  region_code: "14"
+  province_code: "1427"
+  code: "142708"
+  name: "Aguinaldo"
+-
+  id: 1429
+  region_code: "14"
+  province_code: "1427"
+  code: "142709"
+  name: "Hingyon"
+-
+  id: 1430
+  region_code: "14"
+  province_code: "1427"
+  code: "142710"
+  name: "Tinoc"
+-
+  id: 1431
+  region_code: "14"
+  province_code: "1427"
+  code: "142711"
+  name: "Asipulo"
+-
+  id: 1432
+  region_code: "14"
+  province_code: "1432"
+  code: "143201"
+  name: "Balbalan"
+-
+  id: 1433
+  region_code: "14"
+  province_code: "1432"
+  code: "143206"
+  name: "Lubuagan"
+-
+  id: 1434
+  region_code: "14"
+  province_code: "1432"
+  code: "143208"
+  name: "Pasil"
+-
+  id: 1435
+  region_code: "14"
+  province_code: "1432"
+  code: "143209"
+  name: "Pinukpuk"
+-
+  id: 1436
+  region_code: "14"
+  province_code: "1432"
+  code: "143211"
+  name: "Rizal (Liwan)"
+-
+  id: 1437
+  region_code: "14"
+  province_code: "1432"
+  code: "143213"
+  name: "City of Tabuk (Capital)"
+-
+  id: 1438
+  region_code: "14"
+  province_code: "1432"
+  code: "143214"
+  name: "Tanudan"
+-
+  id: 1439
+  region_code: "14"
+  province_code: "1432"
+  code: "143215"
+  name: "Tinglayan"
+-
+  id: 1440
+  region_code: "14"
+  province_code: "1444"
+  code: "144401"
+  name: "Barlig"
+-
+  id: 1441
+  region_code: "14"
+  province_code: "1444"
+  code: "144402"
+  name: "Bauko"
+-
+  id: 1442
+  region_code: "14"
+  province_code: "1444"
+  code: "144403"
+  name: "Besao"
+-
+  id: 1443
+  region_code: "14"
+  province_code: "1444"
+  code: "144404"
+  name: "Bontoc (Capital)"
+-
+  id: 1444
+  region_code: "14"
+  province_code: "1444"
+  code: "144405"
+  name: "Natonin"
+-
+  id: 1445
+  region_code: "14"
+  province_code: "1444"
+  code: "144406"
+  name: "Paracelis"
+-
+  id: 1446
+  region_code: "14"
+  province_code: "1444"
+  code: "144407"
+  name: "Sabangan"
+-
+  id: 1447
+  region_code: "14"
+  province_code: "1444"
+  code: "144408"
+  name: "Sadanga"
+-
+  id: 1448
+  region_code: "14"
+  province_code: "1444"
+  code: "144409"
+  name: "Sagada"
+-
+  id: 1449
+  region_code: "14"
+  province_code: "1444"
+  code: "144410"
+  name: "Tadian"
+-
+  id: 1450
+  region_code: "14"
+  province_code: "1481"
+  code: "148101"
+  name: "Calanasan (Bayag)"
+-
+  id: 1451
+  region_code: "14"
+  province_code: "1481"
+  code: "148102"
+  name: "Conner"
+-
+  id: 1452
+  region_code: "14"
+  province_code: "1481"
+  code: "148103"
+  name: "Flora"
+-
+  id: 1453
+  region_code: "14"
+  province_code: "1481"
+  code: "148104"
+  name: "Kabugao (Capital)"
+-
+  id: 1454
+  region_code: "14"
+  province_code: "1481"
+  code: "148105"
+  name: "Luna"
+-
+  id: 1455
+  region_code: "14"
+  province_code: "1481"
+  code: "148106"
+  name: "Pudtol"
+-
+  id: 1456
+  region_code: "14"
+  province_code: "1481"
+  code: "148107"
+  name: "Santa Marcela"
+-
+  id: 1457
+  region_code: "15"
+  province_code: "1507"
+  code: "150702"
+  name: "City of Lamitan"
+-
+  id: 1458
+  region_code: "15"
+  province_code: "1507"
+  code: "150703"
+  name: "Lantawan"
+-
+  id: 1459
+  region_code: "15"
+  province_code: "1507"
+  code: "150704"
+  name: "Maluso"
+-
+  id: 1460
+  region_code: "15"
+  province_code: "1507"
+  code: "150705"
+  name: "Sumisip"
+-
+  id: 1461
+  region_code: "15"
+  province_code: "1507"
+  code: "150706"
+  name: "Tipo-Tipo"
+-
+  id: 1462
+  region_code: "15"
+  province_code: "1507"
+  code: "150707"
+  name: "Tuburan"
+-
+  id: 1463
+  region_code: "15"
+  province_code: "1507"
+  code: "150708"
+  name: "Akbar"
+-
+  id: 1464
+  region_code: "15"
+  province_code: "1507"
+  code: "150709"
+  name: "Al-Barka"
+-
+  id: 1465
+  region_code: "15"
+  province_code: "1507"
+  code: "150710"
+  name: "Hadji Mohammad Ajul"
+-
+  id: 1466
+  region_code: "15"
+  province_code: "1507"
+  code: "150711"
+  name: "Ungkaya Pukan"
+-
+  id: 1467
+  region_code: "15"
+  province_code: "1507"
+  code: "150712"
+  name: "Hadji Muhtamad"
+-
+  id: 1468
+  region_code: "15"
+  province_code: "1507"
+  code: "150713"
+  name: "Tabuan-Lasa"
+-
+  id: 1469
+  region_code: "15"
+  province_code: "1536"
+  code: "153601"
+  name: "Bacolod-Kalawi (Bacolod Grande)"
+-
+  id: 1470
+  region_code: "15"
+  province_code: "1536"
+  code: "153602"
+  name: "Balabagan"
+-
+  id: 1471
+  region_code: "15"
+  province_code: "1536"
+  code: "153603"
+  name: "Balindong (Watu)"
+-
+  id: 1472
+  region_code: "15"
+  province_code: "1536"
+  code: "153604"
+  name: "Bayang"
+-
+  id: 1473
+  region_code: "15"
+  province_code: "1536"
+  code: "153605"
+  name: "Binidayan"
+-
+  id: 1474
+  region_code: "15"
+  province_code: "1536"
+  code: "153606"
+  name: "Bubong"
+-
+  id: 1475
+  region_code: "15"
+  province_code: "1536"
+  code: "153607"
+  name: "Butig"
+-
+  id: 1476
+  region_code: "15"
+  province_code: "1536"
+  code: "153609"
+  name: "Ganassi"
+-
+  id: 1477
+  region_code: "15"
+  province_code: "1536"
+  code: "153610"
+  name: "Kapai"
+-
+  id: 1478
+  region_code: "15"
+  province_code: "1536"
+  code: "153611"
+  name: "Lumba-Bayabao (Maguing)"
+-
+  id: 1479
+  region_code: "15"
+  province_code: "1536"
+  code: "153612"
+  name: "Lumbatan"
+-
+  id: 1480
+  region_code: "15"
+  province_code: "1536"
+  code: "153613"
+  name: "Madalum"
+-
+  id: 1481
+  region_code: "15"
+  province_code: "1536"
+  code: "153614"
+  name: "Madamba"
+-
+  id: 1482
+  region_code: "15"
+  province_code: "1536"
+  code: "153615"
+  name: "Malabang"
+-
+  id: 1483
+  region_code: "15"
+  province_code: "1536"
+  code: "153616"
+  name: "Marantao"
+-
+  id: 1484
+  region_code: "15"
+  province_code: "1536"
+  code: "153617"
+  name: "Marawi City (Capital)"
+-
+  id: 1485
+  region_code: "15"
+  province_code: "1536"
+  code: "153618"
+  name: "Masiu"
+-
+  id: 1486
+  region_code: "15"
+  province_code: "1536"
+  code: "153619"
+  name: "Mulondo"
+-
+  id: 1487
+  region_code: "15"
+  province_code: "1536"
+  code: "153620"
+  name: "Pagayawan (Tatarikan)"
+-
+  id: 1488
+  region_code: "15"
+  province_code: "1536"
+  code: "153621"
+  name: "Piagapo"
+-
+  id: 1489
+  region_code: "15"
+  province_code: "1536"
+  code: "153622"
+  name: "Poona Bayabao (Gata)"
+-
+  id: 1490
+  region_code: "15"
+  province_code: "1536"
+  code: "153623"
+  name: "Pualas"
+-
+  id: 1491
+  region_code: "15"
+  province_code: "1536"
+  code: "153624"
+  name: "Ditsaan-Ramain"
+-
+  id: 1492
+  region_code: "15"
+  province_code: "1536"
+  code: "153625"
+  name: "Saguiaran"
+-
+  id: 1493
+  region_code: "15"
+  province_code: "1536"
+  code: "153626"
+  name: "Tamparan"
+-
+  id: 1494
+  region_code: "15"
+  province_code: "1536"
+  code: "153627"
+  name: "Taraka"
+-
+  id: 1495
+  region_code: "15"
+  province_code: "1536"
+  code: "153628"
+  name: "Tubaran"
+-
+  id: 1496
+  region_code: "15"
+  province_code: "1536"
+  code: "153629"
+  name: "Tugaya"
+-
+  id: 1497
+  region_code: "15"
+  province_code: "1536"
+  code: "153630"
+  name: "Wao"
+-
+  id: 1498
+  region_code: "15"
+  province_code: "1536"
+  code: "153631"
+  name: "Marogong"
+-
+  id: 1499
+  region_code: "15"
+  province_code: "1536"
+  code: "153632"
+  name: "Calanogas"
+-
+  id: 1500
+  region_code: "15"
+  province_code: "1536"
+  code: "153633"
+  name: "Buadiposo-Buntong"
+-
+  id: 1501
+  region_code: "15"
+  province_code: "1536"
+  code: "153634"
+  name: "Maguing"
+-
+  id: 1502
+  region_code: "15"
+  province_code: "1536"
+  code: "153635"
+  name: "Picong (Sultan Gumander)"
+-
+  id: 1503
+  region_code: "15"
+  province_code: "1536"
+  code: "153636"
+  name: "Lumbayanague"
+-
+  id: 1504
+  region_code: "15"
+  province_code: "1536"
+  code: "153637"
+  name: "Bumbaran"
+-
+  id: 1505
+  region_code: "15"
+  province_code: "1536"
+  code: "153638"
+  name: "Tagoloan Ii"
+-
+  id: 1506
+  region_code: "15"
+  province_code: "1536"
+  code: "153639"
+  name: "Kapatagan"
+-
+  id: 1507
+  region_code: "15"
+  province_code: "1536"
+  code: "153640"
+  name: "Sultan Dumalondong"
+-
+  id: 1508
+  region_code: "15"
+  province_code: "1536"
+  code: "153641"
+  name: "Lumbaca-Unayan"
+-
+  id: 1509
+  region_code: "15"
+  province_code: "1538"
+  code: "153801"
+  name: "Ampatuan"
+-
+  id: 1510
+  region_code: "15"
+  province_code: "1538"
+  code: "153802"
+  name: "Buldon"
+-
+  id: 1511
+  region_code: "15"
+  province_code: "1538"
+  code: "153803"
+  name: "Buluan"
+-
+  id: 1512
+  region_code: "15"
+  province_code: "1538"
+  code: "153805"
+  name: "Datu Paglas"
+-
+  id: 1513
+  region_code: "15"
+  province_code: "1538"
+  code: "153806"
+  name: "Datu Piang"
+-
+  id: 1514
+  region_code: "15"
+  province_code: "1538"
+  code: "153807"
+  name: "Datu Odin Sinsuat (Dinaig)"
+-
+  id: 1515
+  region_code: "15"
+  province_code: "1538"
+  code: "153808"
+  name: "Shariff Aguak (Maganoy) (Capital)"
+-
+  id: 1516
+  region_code: "15"
+  province_code: "1538"
+  code: "153809"
+  name: "Matanog"
+-
+  id: 1517
+  region_code: "15"
+  province_code: "1538"
+  code: "153810"
+  name: "Pagalungan"
+-
+  id: 1518
+  region_code: "15"
+  province_code: "1538"
+  code: "153811"
+  name: "Parang"
+-
+  id: 1519
+  region_code: "15"
+  province_code: "1538"
+  code: "153812"
+  name: "Sultan Kudarat (Nuling)"
+-
+  id: 1520
+  region_code: "15"
+  province_code: "1538"
+  code: "153813"
+  name: "Sultan Sa Barongis (Lambayong)"
+-
+  id: 1521
+  region_code: "15"
+  province_code: "1538"
+  code: "153814"
+  name: "Kabuntalan (Tumbao)"
+-
+  id: 1522
+  region_code: "15"
+  province_code: "1538"
+  code: "153815"
+  name: "Upi"
+-
+  id: 1523
+  region_code: "15"
+  province_code: "1538"
+  code: "153816"
+  name: "Talayan"
+-
+  id: 1524
+  region_code: "15"
+  province_code: "1538"
+  code: "153817"
+  name: "South Upi"
+-
+  id: 1525
+  region_code: "15"
+  province_code: "1538"
+  code: "153818"
+  name: "Barira"
+-
+  id: 1526
+  region_code: "15"
+  province_code: "1538"
+  code: "153819"
+  name: "Gen. S. K. Pendatun"
+-
+  id: 1527
+  region_code: "15"
+  province_code: "1538"
+  code: "153820"
+  name: "Mamasapano"
+-
+  id: 1528
+  region_code: "15"
+  province_code: "1538"
+  code: "153821"
+  name: "Talitay"
+-
+  id: 1529
+  region_code: "15"
+  province_code: "1538"
+  code: "153822"
+  name: "Pagagawan"
+-
+  id: 1530
+  region_code: "15"
+  province_code: "1538"
+  code: "153823"
+  name: "Paglat"
+-
+  id: 1531
+  region_code: "15"
+  province_code: "1538"
+  code: "153824"
+  name: "Sultan Mastura"
+-
+  id: 1532
+  region_code: "15"
+  province_code: "1538"
+  code: "153825"
+  name: "Guindulungan"
+-
+  id: 1533
+  region_code: "15"
+  province_code: "1538"
+  code: "153826"
+  name: "Datu Saudi-Ampatuan"
+-
+  id: 1534
+  region_code: "15"
+  province_code: "1538"
+  code: "153827"
+  name: "Datu Unsay"
+-
+  id: 1535
+  region_code: "15"
+  province_code: "1538"
+  code: "153828"
+  name: "Datu Abdullah Sangki"
+-
+  id: 1536
+  region_code: "15"
+  province_code: "1538"
+  code: "153829"
+  name: "Rajah Buayan"
+-
+  id: 1537
+  region_code: "15"
+  province_code: "1538"
+  code: "153830"
+  name: "Datu Blah T. Sinsuat"
+-
+  id: 1538
+  region_code: "15"
+  province_code: "1538"
+  code: "153831"
+  name: "Datu Anggal Midtimbang"
+-
+  id: 1539
+  region_code: "15"
+  province_code: "1538"
+  code: "153832"
+  name: "Mangudadatu"
+-
+  id: 1540
+  region_code: "15"
+  province_code: "1538"
+  code: "153833"
+  name: "Pandag"
+-
+  id: 1541
+  region_code: "15"
+  province_code: "1538"
+  code: "153834"
+  name: "Northern Kabuntalan"
+-
+  id: 1542
+  region_code: "15"
+  province_code: "1538"
+  code: "153835"
+  name: "Datu Hoffer Ampatuan"
+-
+  id: 1543
+  region_code: "15"
+  province_code: "1538"
+  code: "153836"
+  name: "Datu Salibo"
+-
+  id: 1544
+  region_code: "15"
+  province_code: "1538"
+  code: "153837"
+  name: "Shariff Saydona Mustapha"
+-
+  id: 1545
+  region_code: "15"
+  province_code: "1566"
+  code: "156601"
+  name: "Indanan"
+-
+  id: 1546
+  region_code: "15"
+  province_code: "1566"
+  code: "156602"
+  name: "Jolo (Capital)"
+-
+  id: 1547
+  region_code: "15"
+  province_code: "1566"
+  code: "156603"
+  name: "Kalingalan Caluang"
+-
+  id: 1548
+  region_code: "15"
+  province_code: "1566"
+  code: "156604"
+  name: "Luuk"
+-
+  id: 1549
+  region_code: "15"
+  province_code: "1566"
+  code: "156605"
+  name: "Maimbung"
+-
+  id: 1550
+  region_code: "15"
+  province_code: "1566"
+  code: "156606"
+  name: "Hadji Panglima Tahil (Marunggas)"
+-
+  id: 1551
+  region_code: "15"
+  province_code: "1566"
+  code: "156607"
+  name: "Old Panamao"
+-
+  id: 1552
+  region_code: "15"
+  province_code: "1566"
+  code: "156608"
+  name: "Pangutaran"
+-
+  id: 1553
+  region_code: "15"
+  province_code: "1566"
+  code: "156609"
+  name: "Parang"
+-
+  id: 1554
+  region_code: "15"
+  province_code: "1566"
+  code: "156610"
+  name: "Pata"
+-
+  id: 1555
+  region_code: "15"
+  province_code: "1566"
+  code: "156611"
+  name: "Patikul"
+-
+  id: 1556
+  region_code: "15"
+  province_code: "1566"
+  code: "156612"
+  name: "Siasi"
+-
+  id: 1557
+  region_code: "15"
+  province_code: "1566"
+  code: "156613"
+  name: "Talipao"
+-
+  id: 1558
+  region_code: "15"
+  province_code: "1566"
+  code: "156614"
+  name: "Tapul"
+-
+  id: 1559
+  region_code: "15"
+  province_code: "1566"
+  code: "156615"
+  name: "Tongkil"
+-
+  id: 1560
+  region_code: "15"
+  province_code: "1566"
+  code: "156616"
+  name: "Panglima Estino (New Panamao)"
+-
+  id: 1561
+  region_code: "15"
+  province_code: "1566"
+  code: "156617"
+  name: "Lugus"
+-
+  id: 1562
+  region_code: "15"
+  province_code: "1566"
+  code: "156618"
+  name: "Pandami"
+-
+  id: 1563
+  region_code: "15"
+  province_code: "1566"
+  code: "156619"
+  name: "Omar"
+-
+  id: 1564
+  region_code: "15"
+  province_code: "1570"
+  code: "157001"
+  name: "Panglima Sugala (Balimbing)"
+-
+  id: 1565
+  region_code: "15"
+  province_code: "1570"
+  code: "157002"
+  name: "Bongao (Capital)"
+-
+  id: 1566
+  region_code: "15"
+  province_code: "1570"
+  code: "157003"
+  name: "Mapun (Cagayan De Tawi-Tawi)"
+-
+  id: 1567
+  region_code: "15"
+  province_code: "1570"
+  code: "157004"
+  name: "Simunul"
+-
+  id: 1568
+  region_code: "15"
+  province_code: "1570"
+  code: "157005"
+  name: "Sitangkai"
+-
+  id: 1569
+  region_code: "15"
+  province_code: "1570"
+  code: "157006"
+  name: "South Ubian"
+-
+  id: 1570
+  region_code: "15"
+  province_code: "1570"
+  code: "157007"
+  name: "Tandubas"
+-
+  id: 1571
+  region_code: "15"
+  province_code: "1570"
+  code: "157008"
+  name: "Turtle Islands"
+-
+  id: 1572
+  region_code: "15"
+  province_code: "1570"
+  code: "157009"
+  name: "Languyan"
+-
+  id: 1573
+  region_code: "15"
+  province_code: "1570"
+  code: "157010"
+  name: "Sapa-Sapa"
+-
+  id: 1574
+  region_code: "15"
+  province_code: "1570"
+  code: "157011"
+  name: "Sibutu"
+-
+  id: 1575
+  region_code: "16"
+  province_code: "1602"
+  code: "160201"
+  name: "Buenavista"
+-
+  id: 1576
+  region_code: "16"
+  province_code: "1602"
+  code: "160202"
+  name: "Butuan City (Capital)"
+-
+  id: 1577
+  region_code: "16"
+  province_code: "1602"
+  code: "160203"
+  name: "City of Cabadbaran"
+-
+  id: 1578
+  region_code: "16"
+  province_code: "1602"
+  code: "160204"
+  name: "Carmen"
+-
+  id: 1579
+  region_code: "16"
+  province_code: "1602"
+  code: "160205"
+  name: "Jabonga"
+-
+  id: 1580
+  region_code: "16"
+  province_code: "1602"
+  code: "160206"
+  name: "Kitcharao"
+-
+  id: 1581
+  region_code: "16"
+  province_code: "1602"
+  code: "160207"
+  name: "Las Nieves"
+-
+  id: 1582
+  region_code: "16"
+  province_code: "1602"
+  code: "160208"
+  name: "Magallanes"
+-
+  id: 1583
+  region_code: "16"
+  province_code: "1602"
+  code: "160209"
+  name: "Nasipit"
+-
+  id: 1584
+  region_code: "16"
+  province_code: "1602"
+  code: "160210"
+  name: "Santiago"
+-
+  id: 1585
+  region_code: "16"
+  province_code: "1602"
+  code: "160211"
+  name: "Tubay"
+-
+  id: 1586
+  region_code: "16"
+  province_code: "1602"
+  code: "160212"
+  name: "Remedios T. Romualdez"
+-
+  id: 1587
+  region_code: "16"
+  province_code: "1603"
+  code: "160301"
+  name: "City of Bayugan"
+-
+  id: 1588
+  region_code: "16"
+  province_code: "1603"
+  code: "160302"
+  name: "Bunawan"
+-
+  id: 1589
+  region_code: "16"
+  province_code: "1603"
+  code: "160303"
+  name: "Esperanza"
+-
+  id: 1590
+  region_code: "16"
+  province_code: "1603"
+  code: "160304"
+  name: "La Paz"
+-
+  id: 1591
+  region_code: "16"
+  province_code: "1603"
+  code: "160305"
+  name: "Loreto"
+-
+  id: 1592
+  region_code: "16"
+  province_code: "1603"
+  code: "160306"
+  name: "Prosperidad (Capital)"
+-
+  id: 1593
+  region_code: "16"
+  province_code: "1603"
+  code: "160307"
+  name: "Rosario"
+-
+  id: 1594
+  region_code: "16"
+  province_code: "1603"
+  code: "160308"
+  name: "San Francisco"
+-
+  id: 1595
+  region_code: "16"
+  province_code: "1603"
+  code: "160309"
+  name: "San Luis"
+-
+  id: 1596
+  region_code: "16"
+  province_code: "1603"
+  code: "160310"
+  name: "Santa Josefa"
+-
+  id: 1597
+  region_code: "16"
+  province_code: "1603"
+  code: "160311"
+  name: "Talacogon"
+-
+  id: 1598
+  region_code: "16"
+  province_code: "1603"
+  code: "160312"
+  name: "Trento"
+-
+  id: 1599
+  region_code: "16"
+  province_code: "1603"
+  code: "160313"
+  name: "Veruela"
+-
+  id: 1600
+  region_code: "16"
+  province_code: "1603"
+  code: "160314"
+  name: "Sibagat"
+-
+  id: 1601
+  region_code: "16"
+  province_code: "1667"
+  code: "166701"
+  name: "Alegria"
+-
+  id: 1602
+  region_code: "16"
+  province_code: "1667"
+  code: "166702"
+  name: "Bacuag"
+-
+  id: 1603
+  region_code: "16"
+  province_code: "1667"
+  code: "166704"
+  name: "Burgos"
+-
+  id: 1604
+  region_code: "16"
+  province_code: "1667"
+  code: "166706"
+  name: "Claver"
+-
+  id: 1605
+  region_code: "16"
+  province_code: "1667"
+  code: "166707"
+  name: "Dapa"
+-
+  id: 1606
+  region_code: "16"
+  province_code: "1667"
+  code: "166708"
+  name: "Del Carmen"
+-
+  id: 1607
+  region_code: "16"
+  province_code: "1667"
+  code: "166710"
+  name: "General Luna"
+-
+  id: 1608
+  region_code: "16"
+  province_code: "1667"
+  code: "166711"
+  name: "Gigaquit"
+-
+  id: 1609
+  region_code: "16"
+  province_code: "1667"
+  code: "166714"
+  name: "Mainit"
+-
+  id: 1610
+  region_code: "16"
+  province_code: "1667"
+  code: "166715"
+  name: "Malimono"
+-
+  id: 1611
+  region_code: "16"
+  province_code: "1667"
+  code: "166716"
+  name: "Pilar"
+-
+  id: 1612
+  region_code: "16"
+  province_code: "1667"
+  code: "166717"
+  name: "Placer"
+-
+  id: 1613
+  region_code: "16"
+  province_code: "1667"
+  code: "166718"
+  name: "San Benito"
+-
+  id: 1614
+  region_code: "16"
+  province_code: "1667"
+  code: "166719"
+  name: "San Francisco (Anao-Aon)"
+-
+  id: 1615
+  region_code: "16"
+  province_code: "1667"
+  code: "166720"
+  name: "San Isidro"
+-
+  id: 1616
+  region_code: "16"
+  province_code: "1667"
+  code: "166721"
+  name: "Santa Monica (Sapao)"
+-
+  id: 1617
+  region_code: "16"
+  province_code: "1667"
+  code: "166722"
+  name: "Sison"
+-
+  id: 1618
+  region_code: "16"
+  province_code: "1667"
+  code: "166723"
+  name: "Socorro"
+-
+  id: 1619
+  region_code: "16"
+  province_code: "1667"
+  code: "166724"
+  name: "Surigao City (Capital)"
+-
+  id: 1620
+  region_code: "16"
+  province_code: "1667"
+  code: "166725"
+  name: "Tagana-An"
+-
+  id: 1621
+  region_code: "16"
+  province_code: "1667"
+  code: "166727"
+  name: "Tubod"
+-
+  id: 1622
+  region_code: "16"
+  province_code: "1668"
+  code: "166801"
+  name: "Barobo"
+-
+  id: 1623
+  region_code: "16"
+  province_code: "1668"
+  code: "166802"
+  name: "Bayabas"
+-
+  id: 1624
+  region_code: "16"
+  province_code: "1668"
+  code: "166803"
+  name: "City of Bislig"
+-
+  id: 1625
+  region_code: "16"
+  province_code: "1668"
+  code: "166804"
+  name: "Cagwait"
+-
+  id: 1626
+  region_code: "16"
+  province_code: "1668"
+  code: "166805"
+  name: "Cantilan"
+-
+  id: 1627
+  region_code: "16"
+  province_code: "1668"
+  code: "166806"
+  name: "Carmen"
+-
+  id: 1628
+  region_code: "16"
+  province_code: "1668"
+  code: "166807"
+  name: "Carrascal"
+-
+  id: 1629
+  region_code: "16"
+  province_code: "1668"
+  code: "166808"
+  name: "Cortes"
+-
+  id: 1630
+  region_code: "16"
+  province_code: "1668"
+  code: "166809"
+  name: "Hinatuan"
+-
+  id: 1631
+  region_code: "16"
+  province_code: "1668"
+  code: "166810"
+  name: "Lanuza"
+-
+  id: 1632
+  region_code: "16"
+  province_code: "1668"
+  code: "166811"
+  name: "Lianga"
+-
+  id: 1633
+  region_code: "16"
+  province_code: "1668"
+  code: "166812"
+  name: "Lingig"
+-
+  id: 1634
+  region_code: "16"
+  province_code: "1668"
+  code: "166813"
+  name: "Madrid"
+-
+  id: 1635
+  region_code: "16"
+  province_code: "1668"
+  code: "166814"
+  name: "Marihatag"
+-
+  id: 1636
+  region_code: "16"
+  province_code: "1668"
+  code: "166815"
+  name: "San Agustin"
+-
+  id: 1637
+  region_code: "16"
+  province_code: "1668"
+  code: "166816"
+  name: "San Miguel"
+-
+  id: 1638
+  region_code: "16"
+  province_code: "1668"
+  code: "166817"
+  name: "Tagbina"
+-
+  id: 1639
+  region_code: "16"
+  province_code: "1668"
+  code: "166818"
+  name: "Tago"
+-
+  id: 1640
+  region_code: "16"
+  province_code: "1668"
+  code: "166819"
+  name: "City of Tandag (Capital)"
+-
+  id: 1641
+  region_code: "16"
+  province_code: "1685"
+  code: "168501"
+  name: "Basilisa (Rizal)"
+-
+  id: 1642
+  region_code: "16"
+  province_code: "1685"
+  code: "168502"
+  name: "Cagdianao"
+-
+  id: 1643
+  region_code: "16"
+  province_code: "1685"
+  code: "168503"
+  name: "Dinagat"
+-
+  id: 1644
+  region_code: "16"
+  province_code: "1685"
+  code: "168504"
+  name: "Libjo (Albor)"
+-
+  id: 1645
+  region_code: "16"
+  province_code: "1685"
+  code: "168505"
+  name: "Loreto"
+-
+  id: 1646
+  region_code: "16"
+  province_code: "1685"
+  code: "168506"
+  name: "San Jose (Capital)"
+-
+  id: 1647
+  region_code: "16"
+  province_code: "1685"
+  code: "168507"
+  name: "Tubajon"

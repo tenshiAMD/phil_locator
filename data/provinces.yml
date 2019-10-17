@@ -1,0 +1,441 @@
+---
+-
+  id: 1
+  region_code: "01"
+  code: "128"
+  name: "Ilocos Norte"
+-
+  id: 2
+  region_code: "01"
+  code: "129"
+  name: "Ilocos Sur"
+-
+  id: 3
+  region_code: "01"
+  code: "133"
+  name: "La Union"
+-
+  id: 4
+  region_code: "01"
+  code: "155"
+  name: "Pangasinan"
+-
+  id: 5
+  region_code: "02"
+  code: "209"
+  name: "Batanes"
+-
+  id: 6
+  region_code: "02"
+  code: "215"
+  name: "Cagayan"
+-
+  id: 7
+  region_code: "02"
+  code: "231"
+  name: "Isabela"
+-
+  id: 8
+  region_code: "02"
+  code: "250"
+  name: "Nueva Vizcaya"
+-
+  id: 9
+  region_code: "02"
+  code: "257"
+  name: "Quirino"
+-
+  id: 10
+  region_code: "03"
+  code: "308"
+  name: "Bataan"
+-
+  id: 11
+  region_code: "03"
+  code: "314"
+  name: "Bulacan"
+-
+  id: 12
+  region_code: "03"
+  code: "349"
+  name: "Nueva Ecija"
+-
+  id: 13
+  region_code: "03"
+  code: "354"
+  name: "Pampanga"
+-
+  id: 14
+  region_code: "03"
+  code: "369"
+  name: "Tarlac"
+-
+  id: 15
+  region_code: "03"
+  code: "371"
+  name: "Zambales"
+-
+  id: 16
+  region_code: "03"
+  code: "377"
+  name: "Aurora"
+-
+  id: 17
+  region_code: "04"
+  code: "410"
+  name: "Batangas"
+-
+  id: 18
+  region_code: "04"
+  code: "421"
+  name: "Cavite"
+-
+  id: 19
+  region_code: "04"
+  code: "434"
+  name: "Laguna"
+-
+  id: 20
+  region_code: "04"
+  code: "456"
+  name: "Quezon"
+-
+  id: 21
+  region_code: "04"
+  code: "458"
+  name: "Rizal"
+-
+  id: 22
+  region_code: "17"
+  code: "1740"
+  name: "Marinduque"
+-
+  id: 23
+  region_code: "17"
+  code: "1751"
+  name: "Occidental Mindoro"
+-
+  id: 24
+  region_code: "17"
+  code: "1752"
+  name: "Oriental Mindoro"
+-
+  id: 25
+  region_code: "17"
+  code: "1753"
+  name: "Palawan"
+-
+  id: 26
+  region_code: "17"
+  code: "1759"
+  name: "Romblon"
+-
+  id: 27
+  region_code: "05"
+  code: "505"
+  name: "Albay"
+-
+  id: 28
+  region_code: "05"
+  code: "516"
+  name: "Camarines Norte"
+-
+  id: 29
+  region_code: "05"
+  code: "517"
+  name: "Camarines Sur"
+-
+  id: 30
+  region_code: "05"
+  code: "520"
+  name: "Catanduanes"
+-
+  id: 31
+  region_code: "05"
+  code: "541"
+  name: "Masbate"
+-
+  id: 32
+  region_code: "05"
+  code: "562"
+  name: "Sorsogon"
+-
+  id: 33
+  region_code: "06"
+  code: "604"
+  name: "Aklan"
+-
+  id: 34
+  region_code: "06"
+  code: "606"
+  name: "Antique"
+-
+  id: 35
+  region_code: "06"
+  code: "619"
+  name: "Capiz"
+-
+  id: 36
+  region_code: "06"
+  code: "630"
+  name: "Iloilo"
+-
+  id: 37
+  region_code: "06"
+  code: "645"
+  name: "Negros Occidental"
+-
+  id: 38
+  region_code: "06"
+  code: "679"
+  name: "Guimaras"
+-
+  id: 39
+  region_code: "07"
+  code: "712"
+  name: "Bohol"
+-
+  id: 40
+  region_code: "07"
+  code: "722"
+  name: "Cebu"
+-
+  id: 41
+  region_code: "07"
+  code: "746"
+  name: "Negros Oriental"
+-
+  id: 42
+  region_code: "07"
+  code: "761"
+  name: "Siquijor"
+-
+  id: 43
+  region_code: "08"
+  code: "826"
+  name: "Eastern Samar"
+-
+  id: 44
+  region_code: "08"
+  code: "837"
+  name: "Leyte"
+-
+  id: 45
+  region_code: "08"
+  code: "848"
+  name: "Northern Samar"
+-
+  id: 46
+  region_code: "08"
+  code: "860"
+  name: "Samar (Western Samar)"
+-
+  id: 47
+  region_code: "08"
+  code: "864"
+  name: "Southern Leyte"
+-
+  id: 48
+  region_code: "08"
+  code: "878"
+  name: "Biliran"
+-
+  id: 49
+  region_code: "09"
+  code: "972"
+  name: "Zamboanga Del Norte"
+-
+  id: 50
+  region_code: "09"
+  code: "973"
+  name: "Zamboanga Del Sur"
+-
+  id: 51
+  region_code: "09"
+  code: "983"
+  name: "Zamboanga Sibugay"
+-
+  id: 52
+  region_code: "09"
+  code: "997"
+  name: "City Of Isabela"
+-
+  id: 53
+  region_code: "10"
+  code: "1013"
+  name: "Bukidnon"
+-
+  id: 54
+  region_code: "10"
+  code: "1018"
+  name: "Camiguin"
+-
+  id: 55
+  region_code: "10"
+  code: "1035"
+  name: "Lanao Del Norte"
+-
+  id: 56
+  region_code: "10"
+  code: "1042"
+  name: "Misamis Occidental"
+-
+  id: 57
+  region_code: "10"
+  code: "1043"
+  name: "Misamis Oriental"
+-
+  id: 58
+  region_code: "11"
+  code: "1123"
+  name: "Davao Del Norte"
+-
+  id: 59
+  region_code: "11"
+  code: "1124"
+  name: "Davao Del Sur"
+-
+  id: 60
+  region_code: "11"
+  code: "1125"
+  name: "Davao Oriental"
+-
+  id: 61
+  region_code: "11"
+  code: "1182"
+  name: "Compostela Valley"
+-
+  id: 62
+  region_code: "11"
+  code: "1186"
+  name: "Davao Occidental"
+-
+  id: 63
+  region_code: "12"
+  code: "1247"
+  name: "Cotabato (North Cotabato)"
+-
+  id: 64
+  region_code: "12"
+  code: "1263"
+  name: "South Cotabato"
+-
+  id: 65
+  region_code: "12"
+  code: "1265"
+  name: "Sultan Kudarat"
+-
+  id: 66
+  region_code: "12"
+  code: "1280"
+  name: "Sarangani"
+-
+  id: 67
+  region_code: "12"
+  code: "1298"
+  name: "Cotabato City"
+-
+  id: 68
+  region_code: "13"
+  code: "1339"
+  name: "NCR, City Of Manila, First District"
+-
+  id: 69
+  region_code: "13"
+  code: "1339"
+  name: "City Of Manila"
+-
+  id: 70
+  region_code: "13"
+  code: "1374"
+  name: "NCR, Second District"
+-
+  id: 71
+  region_code: "13"
+  code: "1375"
+  name: "NCR, Third District"
+-
+  id: 72
+  region_code: "13"
+  code: "1376"
+  name: "NCR, Fourth District"
+-
+  id: 73
+  region_code: "14"
+  code: "1401"
+  name: "Abra"
+-
+  id: 74
+  region_code: "14"
+  code: "1411"
+  name: "Benguet"
+-
+  id: 75
+  region_code: "14"
+  code: "1427"
+  name: "Ifugao"
+-
+  id: 76
+  region_code: "14"
+  code: "1432"
+  name: "Kalinga"
+-
+  id: 77
+  region_code: "14"
+  code: "1444"
+  name: "Mountain Province"
+-
+  id: 78
+  region_code: "14"
+  code: "1481"
+  name: "Apayao"
+-
+  id: 79
+  region_code: "15"
+  code: "1507"
+  name: "Basilan"
+-
+  id: 80
+  region_code: "15"
+  code: "1536"
+  name: "Lanao Del Sur"
+-
+  id: 81
+  region_code: "15"
+  code: "1538"
+  name: "Maguindanao"
+-
+  id: 82
+  region_code: "15"
+  code: "1566"
+  name: "Sulu"
+-
+  id: 83
+  region_code: "15"
+  code: "1570"
+  name: "Tawi-Tawi"
+-
+  id: 84
+  region_code: "16"
+  code: "1602"
+  name: "Agusan Del Norte"
+-
+  id: 85
+  region_code: "16"
+  code: "1603"
+  name: "Agusan Del Sur"
+-
+  id: 86
+  region_code: "16"
+  code: "1667"
+  name: "Surigao Del Norte"
+-
+  id: 87
+  region_code: "16"
+  code: "1668"
+  name: "Surigao Del Sur"
+-
+  id: 88
+  region_code: "16"
+  code: "1685"
+  name: "Dinagat Islands"
