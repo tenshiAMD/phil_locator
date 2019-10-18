@@ -2,7 +2,7 @@ module PhilLocator
   class Region < ActiveYaml::Base
     include ActiveHash::Associations
 
-    set_root_path [Gem.loaded_specs["phil_locator"].full_gem_path, "data"].join("/")
+    set_root_path [Gem.loaded_specs[self.module_parent.to_s.underscore].full_gem_path, "data"].join("/")
     set_filename "regions"
 
     has_many :provinces, class_name: "PhilLocator::Province", foreign_key: :region_code, primary_key: :code
