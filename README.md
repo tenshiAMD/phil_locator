@@ -5,7 +5,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9cc2694e0d4b21080edc/test_coverage)](https://codeclimate.com/github/tenshiAMD/phil_locator/test_coverage)
 
 ## Description
-Provides registry records for `regions`, `cities`, and `provinces` in the Philippines.
+Provides registry records for `regions`, `cities`, `provinces`, and `barangays` in the Philippines.
 
 ## Installation
 
@@ -30,6 +30,9 @@ PhilLocator::Province.all
 
 # Cities
 PhilLocator::City.all
+
+# Barangays
+PhilLocator::Barangay.all
 ```
 
 ## Copyright
