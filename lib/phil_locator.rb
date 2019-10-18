@@ -1,9 +1,9 @@
 require "active_hash"
 
+require "phil_locator/version"
+
 module PhilLocator
   extend ActiveSupport::Autoload
-
-  VERSION = "1.0.0".freeze
 end
 
 require "phil_locator/engine"
