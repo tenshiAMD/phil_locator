@@ -23,10 +23,6 @@ checks:
     enabled: false
 
 plugins:
-  brakeman:
-    enabled: true
-  bundler-audit:
-    enabled: true
   rubocop:
     enabled: true
     channel: "rubocop-0-74" # See other channels here: https://github.com/codeclimate/codeclimate-rubocop/branches/active

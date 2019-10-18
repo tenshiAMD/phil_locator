@@ -1,17 +1,23 @@
 Gem::Specification.new do |s|
   s.platform      = Gem::Platform::RUBY
   s.name          = "phil_locator"
-  s.version       = "1.0.0.pre"
-  s.summary       = "Provides registry records for regions, cities, and provinces in the Philippines."
-  s.description   = s.summary
+  s.version       = File.read(File.expand_path("VERSION", __dir__)).strip
+  s.summary       = "Registry records for regions, cities, and provinces in the Philippines."
+  s.description   = "Provides registry records for regions, cities, and provinces in the Philippines."
 
   s.required_ruby_version     = ">= 2.5.3"
   s.required_rubygems_version = ">= 2.7.7"
 
+  s.license       = "MIT"
+
   s.author        = "Angel Aviel Domaoan"
   s.email         = "dev.tenshiamd@gmail.com"
-  s.homepage      = "https://tenshiamd.com"
-  s.license       = "MIT"
+  s.homepage      = "https://github.com/tenshiAMD/phil_locator"
+
+  if s.respond_to?(:metadata)
+    s.metadata["bug_tracker_uri"] = [s.homepage, "issues"].join("/")
+    s.metadata["source_code_uri"] = [s.homepage, "tree", "v#{s.version}"].join("/")
+  end
 
   s.files         = `git ls-files`.split($INPUT_RECORD_SEPARATOR)
   s.test_files    = s.files.grep(%r{^(test|spec|features)/})

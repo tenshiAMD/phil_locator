@@ -4,3 +4,4 @@
 .rubocop-*
 
 *.gem
+Gemfile.lock
