@@ -1,5 +1,7 @@
 # Phil Locator
 
+[![Gem Version](https://badge.fury.io/rb/phil_locator.svg)](https://badge.fury.io/rb/phil_locator)
+
 ## Build Status
 [![Maintainability](https://api.codeclimate.com/v1/badges/9cc2694e0d4b21080edc/maintainability)](https://codeclimate.com/github/tenshiAMD/phil_locator/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9cc2694e0d4b21080edc/test_coverage)](https://codeclimate.com/github/tenshiAMD/phil_locator/test_coverage)
