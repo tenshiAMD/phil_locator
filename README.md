@@ -11,12 +11,12 @@ Provides registry records for `regions`, `cities`, `provinces`, and `barangays` 
 
 In Gemfile:
 ```
-gem "phil_locator", "~> 1.0.0"
+gem "phil_locator", "~> 1.1.0"
 ```
 
 Or, from the command line:
 ```
-gem install phil_locator -v "~> 1.0.0"
+gem install phil_locator -v "~> 1.1.0"
 ```
     
 ## Usage
