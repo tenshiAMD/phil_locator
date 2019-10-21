@@ -1,20 +1,34 @@
 require "active_hash"
 
+require "phil_locator/configuration"
 require "phil_locator/version"
 
 module PhilLocator
   extend ActiveSupport::Autoload
 
-  mattr_writer :data_root_path
+  mattr_writer :configuration
 
-  def self.data_root_path
-    @@data_root_path ||= [gem_full_path, "data"].join("/")
+  def self.configuration
+    @configuration ||= PhilLocator::Configuration.new
   end
 
-  private
-    def self.gem_full_path
-      Gem.loaded_specs[name.underscore].full_gem_path
-    end
+  def self.configure
+    yield configuration if block_given?
+  end
+
+  def self.data_root_path
+    raise "`#{name}.data_root_path` MUST be a String object." unless configuration.data_root_path.is_a?(String)
+
+    configuration.data_root_path
+  end
+
+  def self.gem_full_path
+    Gem.loaded_specs[gem_name].full_gem_path
+  end
+
+  def self.gem_name
+    name.underscore
+  end
 end
 
 require "phil_locator/engine"

@@ -39,11 +39,13 @@ PhilLocator::Barangay.all
 
 ## Configuration
 
-Create an initializer to configure the options as sample below
+Create an initializer `phil_locator.rb` to configure the options, here's a sample provided below
 
 ```
-# This overrides the default data directory
-PhilLocator.data_root_path = Rails.root.join("data").to_s
+PhilLocator.configure do |config|
+    # This overrides the default data directory
+    config.data_root_path = Rails.root.join("data").to_s
+end
 ```
 
 ## Copyright
