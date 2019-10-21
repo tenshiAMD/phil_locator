@@ -37,6 +37,15 @@ PhilLocator::City.all
 PhilLocator::Barangay.all
 ```
 
+## Configuration
+
+Create an initializer to configure the options as sample below
+
+```
+# This overrides the default data directory
+PhilLocator.data_root_path = Rails.root.join("data").to_s
+```
+
 ## Copyright
 
 Copyright (c) 2019 Angel Aviel Domaoan, released under the [MIT license](/LICENSE).

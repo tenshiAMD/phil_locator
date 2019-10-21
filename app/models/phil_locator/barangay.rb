@@ -2,7 +2,7 @@ module PhilLocator
   class Barangay < ActiveYaml::Base
     include ActiveHash::Associations
 
-    set_root_path [Gem.loaded_specs[self.module_parent.to_s.underscore].full_gem_path, "data"].join("/")
+    set_root_path self.module_parent.data_root_path
     set_filename "barangays"
 
     belongs_to :city, class_name: "PhilLocator::City", foreign_key: :city_code, primary_key: :code
