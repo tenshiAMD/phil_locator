@@ -51,7 +51,7 @@ end
 
 ## Copyright
 
-Copyright (c) 2019 Angel Aviel Domaoan, released under the [MIT license](/LICENSE).
+This project is released under the [MIT license](/LICENSE).
 
 
 ## License
