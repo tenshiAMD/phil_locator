@@ -41,7 +41,7 @@ Create an initializer `phil_locator.rb` to configure the options, here's a sampl
 ```
 PhilLocator.configure do |config|
     # This overrides the default data directory
-    config.data_root_path = Rails.root.join("data").to_s
+    config.data_root_path = Rails.root.join("datasets").to_s
 end
 ```
 

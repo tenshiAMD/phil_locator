@@ -16,10 +16,10 @@ module PhilLocator
     yield configuration if block_given?
   end
 
-  def self.data_root_path
+  def self.data_root_path(path = "")
     raise "`#{name}.data_root_path` MUST be a String object." unless configuration.data_root_path.is_a?(String)
 
-    configuration.data_root_path
+    [configuration.data_root_path, path.to_s].join("/")
   end
 
   def self.gem_full_path

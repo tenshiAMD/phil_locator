@@ -1,0 +1,33 @@
+---
+- code: '133900000'
+  name: NCR, CITY OF MANILA, FIRST DISTRICT (Not a Province)
+  geographicLevel: Dist
+  cityClass: ''
+  incomeClassification: ''
+  urbanRural: ''
+  population: 1780148
+  district_code: '1339'
+- code: '137400000'
+  name: NCR, SECOND DISTRICT (Not a Province)
+  geographicLevel: Dist
+  cityClass: ''
+  incomeClassification: ''
+  urbanRural: "#N/A"
+  population: 4650613
+  district_code: '1374'
+- code: '137500000'
+  name: NCR, THIRD DISTRICT (Not a Province)
+  geographicLevel: Dist
+  cityClass: ''
+  incomeClassification: ''
+  urbanRural: "#N/A"
+  population: 2819388
+  district_code: '1375'
+- code: '137600000'
+  name: NCR, FOURTH DISTRICT (Not a Province)
+  geographicLevel: Dist
+  cityClass: ''
+  incomeClassification: ''
+  urbanRural: "#N/A"
+  population: 3627104
+  district_code: '1376'

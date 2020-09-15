@@ -1,0 +1,1315 @@
+---
+- code: '012805000'
+  name: CITY OF BATAC
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 55201
+  city_code: '01280'
+  province_code: '128'
+- code: '012812000'
+  name: CITY OF LAOAG (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 111125
+  city_code: '01281'
+  province_code: '128'
+- code: '012906000'
+  name: CITY OF CANDON
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 60623
+  city_code: '01290'
+  province_code: '129'
+- code: '012934000'
+  name: CITY OF VIGAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 53879
+  city_code: '01293'
+  province_code: '129'
+- code: '013314000'
+  name: CITY OF SAN FERNANDO (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 121812
+  city_code: '01331'
+  province_code: '133'
+- code: '015503000'
+  name: CITY OF ALAMINOS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 89708
+  city_code: '01550'
+  province_code: '155'
+- code: '015518000'
+  name: CITY OF DAGUPAN
+  geographicLevel: City
+  cityClass: ICC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 171271
+  city_code: '01551'
+  province_code: '155'
+- code: '015532000'
+  name: CITY OF SAN CARLOS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 188571
+  city_code: '01553'
+  province_code: '155'
+- code: '015546000'
+  name: CITY OF URDANETA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 132940
+  city_code: '01554'
+  province_code: '155'
+- code: '021529000'
+  name: TUGUEGARAO CITY (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 153502
+  city_code: '02152'
+  province_code: '215'
+- code: '023108000'
+  name: CITY OF CAUAYAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 129523
+  city_code: '02310'
+  province_code: '231'
+- code: '023114000'
+  name: CITY OF ILAGAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 145568
+  city_code: '02311'
+  province_code: '231'
+- code: '023135000'
+  name: CITY OF SANTIAGO
+  geographicLevel: City
+  cityClass: ICC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 134830
+  city_code: '02313'
+  province_code: '231'
+- code: '030803000'
+  name: CITY OF BALANGA (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 96061
+  city_code: '03080'
+  province_code: '308'
+- code: '031410000'
+  name: CITY OF MALOLOS (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 252074
+  city_code: '03141'
+  province_code: '314'
+- code: '031412000'
+  name: CITY OF MEYCAUAYAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 209083
+  city_code: '03141'
+  province_code: '314'
+- code: '031420000'
+  name: CITY OF SAN JOSE DEL MONTE
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 574089
+  city_code: '03142'
+  province_code: '314'
+- code: '034903000'
+  name: CITY OF CABANATUAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 302231
+  city_code: '03490'
+  province_code: '349'
+- code: '034908000'
+  name: CITY OF GAPAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 110303
+  city_code: '03490'
+  province_code: '349'
+- code: '034917000'
+  name: SCIENCE CITY OF MUÑOZ
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 81483
+  city_code: '03491'
+  province_code: '349'
+- code: '034919000'
+  name: CITY OF PALAYAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 41041
+  city_code: '03491'
+  province_code: '349'
+- code: '034926000'
+  name: SAN JOSE CITY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 139738
+  city_code: '03492'
+  province_code: '349'
+- code: '035401000'
+  name: CITY OF ANGELES
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 411634
+  city_code: '03540'
+  province_code: '354'
+- code: '035409000'
+  name: MABALACAT CITY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 250799
+  city_code: '03540'
+  province_code: '354'
+- code: '035416000'
+  name: CITY OF SAN FERNANDO (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 306659
+  city_code: '03541'
+  province_code: '354'
+- code: '036916000'
+  name: CITY OF TARLAC (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 342493
+  city_code: '03691'
+  province_code: '369'
+- code: '037107000'
+  name: CITY OF OLONGAPO
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 233040
+  city_code: '03710'
+  province_code: '371'
+- code: '041005000'
+  name: BATANGAS CITY (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 329874
+  city_code: '04100'
+  province_code: '410'
+- code: '041014000'
+  name: CITY OF LIPA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 332386
+  city_code: '04101'
+  province_code: '410'
+- code: '041028000'
+  name: CITY OF STO. TOMAS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 179844
+  city_code: '04102'
+  province_code: '410'
+- code: '041031000'
+  name: CITY OF TANAUAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 173366
+  city_code: '04103'
+  province_code: '410'
+- code: '042103000'
+  name: CITY OF BACOOR
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 600609
+  city_code: '04210'
+  province_code: '421'
+- code: '042105000'
+  name: CITY OF CAVITE
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 102806
+  city_code: '04210'
+  province_code: '421'
+- code: '042106000'
+  name: CITY OF DASMARIÑAS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 659019
+  city_code: '04210'
+  province_code: '421'
+- code: '042108000'
+  name: CITY OF GENERAL TRIAS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 314303
+  city_code: '04210'
+  province_code: '421'
+- code: '042109000'
+  name: CITY OF IMUS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 403785
+  city_code: '04210'
+  province_code: '421'
+- code: '042119000'
+  name: CITY OF TAGAYTAY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 71181
+  city_code: '04211'
+  province_code: '421'
+- code: '042122000'
+  name: CITY OF TRECE MARTIRES (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 155713
+  city_code: '04212'
+  province_code: '421'
+- code: '043403000'
+  name: CITY OF BIÑAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 333028
+  city_code: '04340'
+  province_code: '434'
+- code: '043404000'
+  name: CITY OF CABUYAO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 308745
+  city_code: '04340'
+  province_code: '434'
+- code: '043405000'
+  name: CITY OF CALAMBA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 454486
+  city_code: '04340'
+  province_code: '434'
+- code: '043424000'
+  name: CITY OF SAN PABLO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 266068
+  city_code: '04342'
+  province_code: '434'
+- code: '043425000'
+  name: CITY OF SAN PEDRO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 325809
+  city_code: '04342'
+  province_code: '434'
+- code: '043428000'
+  name: CITY OF SANTA ROSA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 353767
+  city_code: '04342'
+  province_code: '434'
+- code: '045624000'
+  name: CITY OF LUCENA (Capital)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 266248
+  city_code: '04562'
+  province_code: '456'
+- code: '045647000'
+  name: CITY OF TAYABAS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 6th
+  urbanRural: ''
+  population: 99779
+  city_code: '04564'
+  province_code: '456'
+- code: '045802000'
+  name: CITY OF ANTIPOLO (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 776386
+  city_code: '04580'
+  province_code: '458'
+- code: '175205000'
+  name: CITY OF CALAPAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 133893
+  city_code: '17520'
+  province_code: '752'
+- code: '175316000'
+  name: CITY OF PUERTO PRINCESA (Capital)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 255116
+  city_code: '17531'
+  province_code: '753'
+- code: '050506000'
+  name: CITY OF LEGAZPI (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 196639
+  city_code: '05050'
+  province_code: '505'
+- code: '050508000'
+  name: CITY OF LIGAO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 111399
+  city_code: '05050'
+  province_code: '505'
+- code: '050517000'
+  name: CITY OF TABACO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 133868
+  city_code: '05051'
+  province_code: '505'
+- code: '051716000'
+  name: CITY OF IRIGA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 111757
+  city_code: '05171'
+  province_code: '517'
+- code: '051724000'
+  name: CITY OF NAGA
+  geographicLevel: City
+  cityClass: ICC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 196003
+  city_code: '05172'
+  province_code: '517'
+- code: '054111000'
+  name: CITY OF MASBATE (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 95389
+  city_code: '05411'
+  province_code: '541'
+- code: '056216000'
+  name: CITY OF SORSOGON (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 168110
+  city_code: '05621'
+  province_code: '562'
+- code: '061914000'
+  name: CITY OF ROXAS (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 167003
+  city_code: '06191'
+  province_code: '619'
+- code: '063022000'
+  name: CITY OF ILOILO (Capital)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 447992
+  city_code: '06302'
+  province_code: '630'
+- code: '063035000'
+  name: CITY OF PASSI
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 80544
+  city_code: '06303'
+  province_code: '630'
+- code: '064501000'
+  name: CITY OF BACOLOD (Capital)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 561875
+  city_code: '06450'
+  province_code: '645'
+- code: '064502000'
+  name: CITY OF BAGO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 170981
+  city_code: '06450'
+  province_code: '645'
+- code: '064504000'
+  name: CITY OF CADIZ
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 154723
+  city_code: '06450'
+  province_code: '645'
+- code: '064509000'
+  name: CITY OF ESCALANTE
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 94070
+  city_code: '06450'
+  province_code: '645'
+- code: '064510000'
+  name: CITY OF HIMAMAYLAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 106880
+  city_code: '06451'
+  province_code: '645'
+- code: '064515000'
+  name: CITY OF KABANKALAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 181977
+  city_code: '06451'
+  province_code: '645'
+- code: '064516000'
+  name: CITY OF LA CARLOTA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 64469
+  city_code: '06451'
+  province_code: '645'
+- code: '064523000'
+  name: CITY OF SAGAY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 146264
+  city_code: '06452'
+  province_code: '645'
+- code: '064524000'
+  name: CITY OF SAN CARLOS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 132536
+  city_code: '06452'
+  province_code: '645'
+- code: '064526000'
+  name: CITY OF SILAY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 126930
+  city_code: '06452'
+  province_code: '645'
+- code: '064527000'
+  name: CITY OF SIPALAY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 70070
+  city_code: '06452'
+  province_code: '645'
+- code: '064528000'
+  name: CITY OF TALISAY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 102214
+  city_code: '06452'
+  province_code: '645'
+- code: '064531000'
+  name: CITY OF VICTORIAS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 87933
+  city_code: '06453'
+  province_code: '645'
+- code: '071242000'
+  name: CITY OF TAGBILARAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 105051
+  city_code: '07124'
+  province_code: '712'
+- code: '072211000'
+  name: CITY OF BOGO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 6th
+  urbanRural: ''
+  population: 78120
+  city_code: '07221'
+  province_code: '722'
+- code: '072214000'
+  name: CITY OF CARCAR
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 119664
+  city_code: '07221'
+  province_code: '722'
+- code: '072217000'
+  name: CITY OF CEBU (Capital)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 922611
+  city_code: '07221'
+  province_code: '722'
+- code: '072223000'
+  name: DANAO CITY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 136471
+  city_code: '07222'
+  province_code: '722'
+- code: '072226000'
+  name: CITY OF LAPU-LAPU (OPON)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 408112
+  city_code: '07222'
+  province_code: '722'
+- code: '072230000'
+  name: CITY OF MANDAUE
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 362654
+  city_code: '07223'
+  province_code: '722'
+- code: '072234000'
+  name: CITY OF NAGA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 115750
+  city_code: '07223'
+  province_code: '722'
+- code: '072250000'
+  name: CITY OF TALISAY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 227645
+  city_code: '07225'
+  province_code: '722'
+- code: '072251000'
+  name: CITY OF TOLEDO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 170335
+  city_code: '07225'
+  province_code: '722'
+- code: '074604000'
+  name: CITY OF BAIS
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 76291
+  city_code: '07460'
+  province_code: '746'
+- code: '074606000'
+  name: CITY OF BAYAWAN (TULONG)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 117900
+  city_code: '07460'
+  province_code: '746'
+- code: '074608000'
+  name: CITY OF CANLAON
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 54509
+  city_code: '07460'
+  province_code: '746'
+- code: '074610000'
+  name: CITY OF DUMAGUETE (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 131377
+  city_code: '07461'
+  province_code: '746'
+- code: '074611000'
+  name: CITY OF GUIHULNGAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 95969
+  city_code: '07461'
+  province_code: '746'
+- code: '074621000'
+  name: CITY OF TANJAY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 80532
+  city_code: '07462'
+  province_code: '746'
+- code: '082604000'
+  name: CITY OF BORONGAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 69297
+  city_code: '08260'
+  province_code: '826'
+- code: '083708000'
+  name: CITY OF BAYBAY
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st (as Mun)
+  urbanRural: ''
+  population: 109432
+  city_code: '08370'
+  province_code: '837'
+- code: '083738000'
+  name: ORMOC CITY
+  geographicLevel: City
+  cityClass: ICC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 215031
+  city_code: '08373'
+  province_code: '837'
+- code: '083747000'
+  name: CITY OF TACLOBAN (Capital)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 242089
+  city_code: '08374'
+  province_code: '837'
+- code: '086003000'
+  name: CITY OF CALBAYOG
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 183851
+  city_code: '08600'
+  province_code: '860'
+- code: '086005000'
+  name: CITY OF CATBALOGAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 103879
+  city_code: '08600'
+  province_code: '860'
+- code: '086407000'
+  name: CITY OF MAASIN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 85560
+  city_code: '08640'
+  province_code: '864'
+- code: '097201000'
+  name: CITY OF DAPITAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 82418
+  city_code: '09720'
+  province_code: '972'
+- code: '097202000'
+  name: CITY OF DIPOLOG (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 130759
+  city_code: '09720'
+  province_code: '972'
+- code: '097322000'
+  name: CITY OF PAGADIAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 199060
+  city_code: '09732'
+  province_code: '973'
+- code: '097332000'
+  name: CITY OF ZAMBOANGA
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 861799
+  city_code: '09733'
+  province_code: '973'
+- code: '099701000'
+  name: CITY OF ISABELA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 112788
+  city_code: '09970'
+  province_code: '997'
+- code: '101312000'
+  name: CITY OF MALAYBALAY (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 174625
+  city_code: '10131'
+  province_code: '013'
+- code: '101321000'
+  name: CITY OF VALENCIA
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 192993
+  city_code: '10132'
+  province_code: '013'
+- code: '103504000'
+  name: CITY OF ILIGAN
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st* (reclass 2005)
+  urbanRural: ''
+  population: 342618
+  city_code: '10350'
+  province_code: '035'
+- code: '104209000'
+  name: CITY OF OROQUIETA (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 70757
+  city_code: '10420'
+  province_code: '042'
+- code: '104210000'
+  name: CITY OF OZAMIZ
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 141828
+  city_code: '10421'
+  province_code: '042'
+- code: '104215000'
+  name: CITY OF TANGUB
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 63011
+  city_code: '10421'
+  province_code: '042'
+- code: '104305000'
+  name: CITY OF CAGAYAN DE ORO (Capital)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 675950
+  city_code: '10430'
+  province_code: '043'
+- code: '104307000'
+  name: CITY OF EL SALVADOR
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 6th
+  urbanRural: ''
+  population: 50204
+  city_code: '10430'
+  province_code: '043'
+- code: '104308000'
+  name: CITY OF GINGOOG
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 124648
+  city_code: '10430'
+  province_code: '043'
+- code: '112315000'
+  name: CITY OF PANABO
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 184599
+  city_code: '11231'
+  province_code: '123'
+- code: '112317000'
+  name: ISLAND GARDEN CITY OF SAMAL
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 104123
+  city_code: '11231'
+  province_code: '123'
+- code: '112319000'
+  name: CITY OF TAGUM (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 259444
+  city_code: '11231'
+  province_code: '123'
+- code: '112402000'
+  name: CITY OF DAVAO
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 1632991
+  city_code: '11240'
+  province_code: '124'
+- code: '112403000'
+  name: CITY OF DIGOS (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 169393
+  city_code: '11240'
+  province_code: '124'
+- code: '112509000'
+  name: CITY OF MATI (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 141141
+  city_code: '11250'
+  province_code: '125'
+- code: '124704000'
+  name: CITY OF KIDAPAWAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 140195
+  city_code: '12470'
+  province_code: '247'
+- code: '126303000'
+  name: CITY OF GENERAL SANTOS (DADIANGAS)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 594446
+  city_code: '12630'
+  province_code: '263'
+- code: '126306000'
+  name: CITY OF KORONADAL (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 174942
+  city_code: '12630'
+  province_code: '263'
+- code: '126511000'
+  name: CITY OF TACURONG
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 98316
+  city_code: '12651'
+  province_code: '265'
+- code: '129804000'
+  name: CITY OF COTABATO
+  geographicLevel: City
+  cityClass: ICC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 299438
+  city_code: '12980'
+  province_code: '298'
+- code: '133900000'
+  name: CITY OF MANILA
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: Special
+  urbanRural: ''
+  population: 1780148
+  city_code: '13390'
+  province_code: '339'
+- code: '137401000'
+  name: CITY OF MANDALUYONG
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 386276
+  city_code: '13740'
+  province_code: '374'
+- code: '137402000'
+  name: CITY OF MARIKINA
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 450741
+  city_code: '13740'
+  province_code: '374'
+- code: '137403000'
+  name: CITY OF PASIG
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 755300
+  city_code: '13740'
+  province_code: '374'
+- code: '137404000'
+  name: QUEZON CITY
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: Special
+  urbanRural: ''
+  population: 2936116
+  city_code: '13740'
+  province_code: '374'
+- code: '137405000'
+  name: CITY OF SAN JUAN
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 122180
+  city_code: '13740'
+  province_code: '374'
+- code: '137501000'
+  name: CITY OF CALOOCAN
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 1583978
+  city_code: '13750'
+  province_code: '375'
+- code: '137502000'
+  name: CITY OF MALABON
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 365525
+  city_code: '13750'
+  province_code: '375'
+- code: '137503000'
+  name: CITY OF NAVOTAS
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 2nd
+  urbanRural: ''
+  population: 249463
+  city_code: '13750'
+  province_code: '375'
+- code: '137504000'
+  name: CITY OF VALENZUELA
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 620422
+  city_code: '13750'
+  province_code: '375'
+- code: '137601000'
+  name: CITY OF LAS PIÑAS
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 588894
+  city_code: '13760'
+  province_code: '376'
+- code: '137602000'
+  name: CITY OF MAKATI
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 582602
+  city_code: '13760'
+  province_code: '376'
+- code: '137603000'
+  name: CITY OF MUNTINLUPA
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 504509
+  city_code: '13760'
+  province_code: '376'
+- code: '137604000'
+  name: CITY OF PARAÑAQUE
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 665822
+  city_code: '13760'
+  province_code: '376'
+- code: '137605000'
+  name: PASAY CITY
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 416522
+  city_code: '13760'
+  province_code: '376'
+- code: '137607000'
+  name: CITY OF TAGUIG
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 804915
+  city_code: '13760'
+  province_code: '376'
+- code: '141102000'
+  name: CITY OF BAGUIO
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 345366
+  city_code: '14110'
+  province_code: '411'
+- code: '143213000'
+  name: CITY OF TABUK (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 110642
+  city_code: '14321'
+  province_code: '432'
+- code: '150702000'
+  name: CITY OF LAMITAN (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 6th
+  urbanRural: ''
+  population: 74782
+  city_code: '15070'
+  province_code: '507'
+- code: '153617000'
+  name: CITY OF MARAWI (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 4th
+  urbanRural: ''
+  population: 201785
+  city_code: '15361'
+  province_code: '536'
+- code: '160202000'
+  name: CITY OF BUTUAN (Capital)
+  geographicLevel: City
+  cityClass: HUC
+  incomeClassification: 1st
+  urbanRural: ''
+  population: 337063
+  city_code: '16020'
+  province_code: '602'
+- code: '160203000'
+  name: CITY OF CABADBARAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 6th
+  urbanRural: ''
+  population: 73639
+  city_code: '16020'
+  province_code: '602'
+- code: '160301000'
+  name: CITY OF BAYUGAN
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 103202
+  city_code: '16030'
+  province_code: '603'
+- code: '166724000'
+  name: CITY OF SURIGAO (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 154137
+  city_code: '16672'
+  province_code: '667'
+- code: '166803000'
+  name: CITY OF BISLIG
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 3rd
+  urbanRural: ''
+  population: 94535
+  city_code: '16680'
+  province_code: '668'
+- code: '166819000'
+  name: CITY OF TANDAG (Capital)
+  geographicLevel: City
+  cityClass: CC
+  incomeClassification: 5th
+  urbanRural: ''
+  population: 56364
+  city_code: '16681'
+  province_code: '668'

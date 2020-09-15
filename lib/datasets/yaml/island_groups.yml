@@ -1,0 +1,7 @@
+---
+- code: luzon
+  name: Luzon
+- code: visayas
+  name: Visayas
+- code: mindanao
+  name: Mindanao
