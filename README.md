@@ -1,6 +1,7 @@
 # Phil Locator
 
 [![Gem Version](https://badge.fury.io/rb/phil_locator.svg)](https://badge.fury.io/rb/phil_locator)
+[![Known Vulnerabilities](https://snyk.io/test/github/tenshiAMD/phil_locator/badge.svg?targetFile=Gemfile.lock)](https://snyk.io/test/github/tenshiAMD/phil_locator?targetFile=Gemfile.lock)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FtenshiAMD%2Fphil_locator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FtenshiAMD%2Fphil_locator?ref=badge_shield)
 
 ## Description
