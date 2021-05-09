@@ -11,7 +11,7 @@ module PhilLocator
     alias_attribute :psgcCode, :code
 
     def alias
-      self[:name].split("(").last.gsub(")", "")
+      self[:name].split("(").last.delete(")")
     end
 
     def cities
@@ -23,7 +23,7 @@ module PhilLocator
     end
 
     def name
-      self[:name].split("(").first.gsub("(", "")
+      self[:name].split("(").first.delete("(")
     end
   end
 end
