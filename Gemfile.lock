@@ -23,7 +23,7 @@ GEM
     parallel (1.20.1)
     parser (3.0.1.1)
       ast (~> 2.4.1)
-    rack (2.2.3)
+    rack (2.2.4)
     rainbow (3.0.0)
     regexp_parser (2.1.1)
     rexml (3.2.5)
@@ -61,7 +61,7 @@ DEPENDENCIES
   rubocop (>= 1.10.0)
   rubocop-packaging (>= 0.5.1)
   rubocop-performance (>= 1.9.2)
-  rubocop-rails (>= 2.9.1)
+  rubocop-rails (>= 2.10.1)
 
 BUNDLED WITH
    2.1.4
