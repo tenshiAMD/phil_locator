@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.summary       = "Registry records for regions, cities, and provinces in the Philippines."
   s.description   = "Provides registry records for regions, cities, and provinces in the Philippines."
 
-  s.required_ruby_version     = ">= 2.5.3"
+  s.required_ruby_version     = ">= 2.7.0"
   s.required_rubygems_version = ">= 2.7.7"
 
   s.license       = "MIT"
