@@ -8,9 +8,10 @@ end
 gemspec
 
 group :development, :test do
-  gem "rubocop", ">= 1.10.0", require: false
-  gem "rubocop-packaging", ">= 0.5.1", require: false
-  gem "rubocop-performance", ">= 1.9.2", require: false
-  gem "rubocop-rails", ">= 2.10.1", require: false
+  gem "rubocop", ">= 1.25.1", require: false
   gem "rubocop-minitest", require: false
+  gem "rubocop-packaging", require: false
+  gem "rubocop-performance", require: false
+  gem "rubocop-rails", require: false
+  gem "rubocop-md", require: false
 end
