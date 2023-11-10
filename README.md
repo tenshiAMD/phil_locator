@@ -20,12 +20,12 @@ Provides registry records in the Philippines which the data came from PSA (PSGC)
 
 In Gemfile:
 ```
-gem "phil_locator", "~> 1.2.0"
+gem "phil_locator", "~> 1.3.0"
 ```
 
 Or, from the command line:
 ```
-gem install phil_locator -v "~> 1.2.0"
+gem install phil_locator -v "~> 1.3.0"
 ```
     
 ## Usage

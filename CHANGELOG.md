@@ -2,7 +2,16 @@
 
 ## [Unreleased](https://github.com/tenshiAMD/phil_locator/tree/HEAD)
 
-[Full Changelog](https://github.com/tenshiAMD/phil_locator/compare/v1.2.1...HEAD)
+[Full Changelog](https://github.com/tenshiAMD/phil_locator/compare/v1.3.0...HEAD)
+
+## [v1.3.0](https://github.com/tenshiAMD/phil_locator/tree/v1.3.0) (2023-11-10)
+
+- Implement `island_groups`, `municipalities`, `districts` (Metro Manila Only), `sub_municipalities` (Metro Manila Only)
+- Improve and fix model associations
+- Set ruby version to `2.7`
+- Fix `rubocop` issues
+
+[Full Changelog](https://github.com/tenshiAMD/phil_locator/compare/v1.2.1...v1.3.0)
 
 ## [v1.2.1](https://github.com/tenshiAMD/phil_locator/tree/v1.2.1) (2020-03-11)
 
