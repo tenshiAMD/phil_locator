@@ -5,7 +5,16 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FtenshiAMD%2Fphil_locator.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FtenshiAMD%2Fphil_locator?ref=badge_shield&issueType=license)
 
 ## Description
-Provides registry records for `regions`, `cities`, `provinces`, and `barangays` in the Philippines.
+Provides registry records in the Philippines which the data came from PSA (PSGC).
+
+- `regions`
+- `cities` 
+- `provinces`
+- `barangays`
+- `island_group`
+- `municipality`
+- `districts` (Metro Manila Only)
+- `sub_municipality` (Metro Manila Only)
 
 ## Installation
 
