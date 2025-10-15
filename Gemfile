@@ -12,6 +12,6 @@ group :development, :test do
   gem "rubocop-minitest", require: false
   gem "rubocop-packaging", require: false
   gem "rubocop-performance", require: false
-  gem "rubocop-rails", require: false
+  gem "rubocop-rails", ">= 2.22.2", require: false
   gem "rubocop-md", require: false
 end
